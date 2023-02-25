@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 locale                   : "en-US"
 title                    : "Community Canvases"
 title_separator          : "-"
-subtitle                 : "Community Engagement Through The Arts"
+subtitle                 : "Community Engagement Through Art"
 name                     : &name "Communtiy Canvases" # &name is a YAML anchor which can be *referenced later
-description              : &description "Facilitating community engagement through the arts."
+description              : &description "Facilitating community engagement through art."
 url                      : https://communitycanvases.org # the base hostname & protocol for your site
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "grepdisc/communitycanvases"
