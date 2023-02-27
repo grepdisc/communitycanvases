@@ -20,7 +20,7 @@ title                    : "Community Canvases"
 title_separator          : "-"
 subtitle                 : "The Art of Community... Through the Arts!"
 name                     : &name "Communtiy Canvases" # &name is a YAML anchor which can be *referenced later
-description              : &description "Facilitating community engagement through art."
+description              : &description "Facilitating community engagement through the arts."
 url                      : https://communitycanvases.org # the base hostname & protocol for your site
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "grepdisc/communitycanvases"
