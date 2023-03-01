@@ -124,6 +124,11 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/communitycanvases"
 
+head_scripts:
+  - https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js
+after_footer_scripts:
+  - /assets/js/main.js
+
 # Reading Files
 include:
   - .htaccess
