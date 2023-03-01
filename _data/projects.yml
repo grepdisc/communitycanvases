@@ -1,6 +1,24 @@
 - name: WNY Trash Mob
+  image: /assets/images/projects/trashmob1.jpg
   link: https://www.facebook.com/wnytrashmob
-  image: https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/307342567_541698731325533_7409456554796796900_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=qOuLUWNZuVIAX8C-Be-&_nc_ht=scontent-lga3-1.xx&oh=00_AfAZyMVb7jCAD8VIwArsNiCztyRP1npk7Hgul6McjRGdCw&oe=63FFB859
 - name: Kind Fools
   link: https://kindfools.org
   image: https://kindfools.org/assets/images/firstwriteon/group.jpg
+- name: The Barkyard
+  link: https://www.facebook.com/communitycanvases
+  image: /assets/images/projects/barkyard.jpg
+- name: Cooking Classes at Broadway Market 
+  link: https://www.facebook.com/communitycanvases
+  image: /assets/images/projects/cooking.jpg
+- name: Community Swing
+  image: /assets/images/projects/communityswing1.jpg
+  link: https://www.facebook.com/communitycanvases
+- name: Earth Day Contest 2023!
+  link: https://www.facebook.com/communitycanvases
+  image: /assets/images/projects/earthday1.jpg
+- name: Signal Boxes
+  link: https://www.buffalorising.com/tags/community-canvases/
+  image: /assets/images/projects/signalbox1.jpg
+- name: Catholic Health Youth Workshop
+  link: https://www.facebook.com/communitycanvases
+  image: /assets/images/projects/bench1.jpg
