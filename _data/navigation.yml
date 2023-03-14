@@ -2,5 +2,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Donate"
+    url: /donate/
   - title: "Privacy"
     url: /privacy/
