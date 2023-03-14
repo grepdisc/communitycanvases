@@ -7,6 +7,8 @@ header:
 
 ---
 
+Here's how you can support Community Canvases.
+
 ## Donate Here
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -14,7 +16,15 @@ header:
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+<br>
+or by mailing a check to
+<address>
+Community Canvases<br>75 Niagara Shore Dr<br>Tonawanda, NY 14150
+</address>
 
 ## Contact us
 
-Please say hi to us at team@communitycanvases.org
+Please say hi to us at [team@communitycanvases.org](mailto:team@communitycanvases.org)
+
+Community Canvases is a 501(c) (3) tax-exempt charitable organization.
+In accordance with IRS regulations, contributions are fully deductible to the extent allowed by law.
