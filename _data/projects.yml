@@ -1,9 +1,12 @@
-- name: WNY Trash Mob
-  image: /assets/images/projects/trashmob1.jpg
-  link: https://www.facebook.com/wnytrashmob
+- name: Earth Day Contest 2023!
+  link: /earthday2023/
+  image: /assets/images/projects/earthday1.jpg
 - name: Kind Fools
   link: https://kindfools.org
   image: https://kindfools.org/assets/images/firstwriteon/group.jpg
+- name: WNY Trash Mob
+  image: /assets/images/projects/trashmob1.jpg
+  link: https://www.facebook.com/wnytrashmob
 - name: The Barkyard
   link: https://www.facebook.com/communitycanvases
   image: /assets/images/projects/barkyard.jpg
@@ -13,9 +16,6 @@
 - name: Community Swing
   image: /assets/images/projects/communityswing1.jpg
   link: https://www.facebook.com/communitycanvases
-- name: Earth Day Contest 2023!
-  link: https://www.facebook.com/communitycanvases
-  image: /assets/images/projects/earthday1.jpg
 - name: Signal Boxes
   link: https://www.buffalorising.com/tags/community-canvases/
   image: /assets/images/projects/signalbox1.jpg
