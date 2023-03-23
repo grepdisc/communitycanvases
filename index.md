@@ -9,7 +9,8 @@ excerpt: "facilitating community engagement through the arts"
 
 ---
 
-<h1>Projects</h1>
+# Projects
+{: .text-center}
 
 <div class="grid">
     {% for project in site.data.projects %}
@@ -26,7 +27,8 @@ excerpt: "facilitating community engagement through the arts"
     {% endfor %}
 </div>
 
-<h1><center>We are gathering art supplies... to build this into a beautiful website. Please check back soon</center></h1>
+# We are gathering art supplies... to build this into a beautiful website. Please check back soon
+{: .text-center}
 
-Contact us: <a href=mailto:team@communitycanvases.org>team@communitycanvases.org</a>
+Contact us: [team@communitycanvases.org](mailto:team@communitycanvases.org)
 
