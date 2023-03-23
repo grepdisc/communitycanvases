@@ -9,6 +9,12 @@ excerpt: "facilitating community engagement through the arts"
 
 ---
 
+# Upcoming Events
+{: .text-center}
+
+[Art Show on April 8th](/events/artshow20230408/)
+{: .notice--info .maxwidthbox}
+
 # Projects
 {: .text-center}
 
