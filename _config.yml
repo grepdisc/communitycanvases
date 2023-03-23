@@ -198,6 +198,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  events:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
