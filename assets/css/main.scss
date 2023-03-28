@@ -51,7 +51,7 @@ $header-font-family : $sans-serif-narrow;
 }
 
 .maxwidthbox {
-	max-width: 300px;
+	max-width: 400px;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
