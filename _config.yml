@@ -123,6 +123,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/communitycanvases"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/wnytrashmob"
 
 head_scripts:
   - https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js
