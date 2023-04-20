@@ -7,6 +7,23 @@ header:
   image: /assets/images/trashmobwide.jpg
 ---
 
+# Earth Day Clean Up Challenge 2023 
+
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/cleanupsearthday2023.1.png" alt="list of Earth Day Clean Ups 1">
+  <figcaption>Friday and Sunday Clean Ups</figcaption>
+</figure> 
+
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/cleanupsearthday2023.2.png" alt="list of Earth Day Clean Ups 2">
+  <figcaption>Saturday Clean Ups Part 1</figcaption>
+</figure> 
+
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/cleanupsearthday2023.3.png" alt="list of Earth Day Clean Ups 3">
+  <figcaption>Saturday Clean Ups Part 2</figcaption>
+</figure> 
+
 ### Sign up for an Earth Day cleanup!<br>WNY Trash Mob's Earth Day Clean-up Challenge
 {:, .text-center}
 
