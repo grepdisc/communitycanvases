@@ -12,8 +12,7 @@ excerpt: "facilitating community engagement through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Earth Day Clean Up** [Register](/earthday2023/){: .btn .btn--success}<br>
-**Art Show on April 8th** [Info](/events/artshow20230408/){: .btn .btn--info}<br>
+**Earth Day Clean Up** [Info](/earthday2023/){: .btn .btn--success}<br>
 **WRITE ON! workshop** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 

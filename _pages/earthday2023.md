@@ -9,6 +9,10 @@ header:
 
 # Earth Day Clean Up Challenge 2023 
 
+
+For **Earth Day Clean Up Leads**, please complete this [brief form](https://docs.google.com/forms/d/1ODdmXxsEYlzhiEzrQ24ySdbgjN8TrVhowKREwI6osvw){: .btn .btn--success} to share cleanup data with City of Buffalo
+{: .notice--info .maxwidthbox .align-center}
+
 <figure style="max-width: 540px" class="align-center">
   <img src="/assets/images/posters/cleanupsearthday2023.1.png" alt="list of Earth Day Clean Ups 1">
   <figcaption>Friday and Sunday Clean Ups</figcaption>
