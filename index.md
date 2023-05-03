@@ -15,6 +15,7 @@ excerpt: "facilitating community engagement through the arts"
 **WRITE ON! workshop May 2nd 6pm** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 **Kind Fools May 3rd 6pm pitch night with [Buffalo SOUP](https://www.instagram.com/buffalonysoup/)**<br>
 **Massachusetts Ave Park Clean Up May 6 10:45am** [Info](/events/cleanup20230506/){: .btn .btn--success}<br>
+**Grant Street Clean Up May 20 10:00am** - more details very soon<br>
 **Earth Day Clean Up** [Info](/earthday2023/){: .btn .btn--success}<br>
 {: .notice--info .maxwidthbox .align-center}
 
