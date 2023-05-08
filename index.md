@@ -12,9 +12,9 @@ excerpt: "facilitating community engagement through the arts"
 # Upcoming Events
 {: .text-center}
 
-**WNY Trash Mob's Massachusetts Ave Park Clean Up May 6 10:45am** [Info](/events/cleanup20230506/){: .btn .btn--success}<br>
-**WRITE ON! workshop May 8nd 6pm on Zoom** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
-**Grant Street Clean Up May 20 10:00am** - more details very soon<br>
+**Grant Street Clean Up May 20 10:00am** [Info](/events/cleanup20230520/){: .btn .btn--success}<br>
+**WRITE ON! workshop May 8th 6pm on Zoom** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+**WNY Trash Mob's Massachusetts Ave Park Clean Up May 6** [Info](/events/cleanup20230506/){: .btn .btn--info}<br>
 **Video from [Kind Fools May 3rd pitch night with Buffalo SOUP](https://kindfools.org/videos/buffalo-soup/)**<br>
 {: .notice--info .maxwidthbox .align-center}
 
