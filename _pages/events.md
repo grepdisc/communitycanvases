@@ -7,12 +7,13 @@ author_profile: false
 
 ## Upcoming Events
 
-- May 18th 1:00pm **WRITE ON! workshop at Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
-
-- May 20, 2023 10:00am - 12:30pm **Grant Street Cleanup** [Info](/events/cleanup20230520/){: .btn .btn--success}<br>
-{: .notice--success .align-center}
+- June 6th 6:00pm **WRITE ON! workshop at SolRise Farm and Cultural Arts Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
 ## Past Events
+
+- May 20, 2023 10:00am - 12:30pm **Grant Street Cleanup** [Info](/events/cleanup20230520/){: .btn .btn--success}<br>
+
+- May 18th 1:00pm **WRITE ON! workshop at Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
 - May 11th 4:30pm **WRITE ON! workshop at Central Library** as part of Mental Health Awareness Day 2-7pm with including music and food) [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 

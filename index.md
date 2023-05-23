@@ -12,9 +12,7 @@ excerpt: "facilitating community engagement through the arts"
 # Upcoming Events
 {: .text-center}
 
-**<span style="font-size:1.3em;">Grant Street Clean Up May 20 10:00am</span>**
-[Info](/events/cleanup20230520/){: .btn .btn--success}<br>
-**WRITE ON! workshop May 18th 1:00pm** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+**WRITE ON! workshop June 6th 6:00pm** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 See All **Past and Future** Events [All Events](/events/){: .btn .btn--info}<br>
 {: .notice--info .maxwidthbox .align-center}
 
