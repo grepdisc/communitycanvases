@@ -13,6 +13,9 @@ excerpt: "facilitating community engagement through the arts"
 {: .text-center}
 
 **WRITE ON! workshop June 6th 6:00pm** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+**WRITE ON! workshop June 15th at 1pm** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+**Write-up of May 20th WNY Trash Mob Cleanup** [Photos](https://www.instagram.com/p/CsjYMIIO8PR/){: .btn .btn--info}<br>
+**Remembering Claire** [Video](https://kindfools.org/videos/let-them-be/){: .btn .btn--info}<br>
 See All **Past and Future** Events [All Events](/events/){: .btn .btn--info}<br>
 {: .notice--info .maxwidthbox .align-center}
 
