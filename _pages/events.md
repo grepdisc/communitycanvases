@@ -7,7 +7,7 @@ author_profile: false
 
 ## Upcoming Events
 
-- June 6th 6:00pm **WRITE ON! workshop at SolRise Farm and Cultural Arts Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+- June 15th 1:00pm **WRITE ON! workshop at CAO's Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
 ## Past Events
 
