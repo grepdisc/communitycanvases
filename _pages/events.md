@@ -7,9 +7,11 @@ author_profile: false
 
 ## Upcoming Events
 
-- June 15th 1:00pm **WRITE ON! workshop at CAO's Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+**Collaborative Community Art** [Learn More](/events/communityartsummer2023/){: .btn .btn--success}<br>
 
 ## Past Events
+
+- June 15th 1:00pm **WRITE ON! workshop at CAO's Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
 - May 20, 2023 10:00am - 12:30pm **Grant Street Cleanup** [Info](/events/cleanup20230520/){: .btn .btn--success}<br>
 
