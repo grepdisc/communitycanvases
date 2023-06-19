@@ -22,7 +22,7 @@ header:
 **Locations:** Most workshops will take place at 586 Genesee Street. Some may take place at RSI's youth Clubhouse at 66 Englewood or at local churches.
 
 **Workshop dates:** Tuesdays and Thursdays 3pm to 5:30pm.
-Dates are ubject to change, and start right after the end of the school year, and skip July 4th:
+Dates are subject to change, and start right after the end of the school year, and skip July 4th:
  - Tuesday June 27
  - Thursday June 29
  - Thursday July 6
