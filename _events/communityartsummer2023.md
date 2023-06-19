@@ -32,3 +32,6 @@ Dates are ubject to change, and start right after the end of the school year, an
 
 **Time:** 2.5 hours per session.
 
+<figure style="max-width: 900px" class="align-center">
+  <img src="/assets/images/posters/CollaborativeArt.jpg" alt="Collaborate Art Poster">
+</figure> 
