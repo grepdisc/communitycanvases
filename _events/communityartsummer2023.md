@@ -36,6 +36,9 @@ and skip July 4, 2023:
 
 **Time:** 2.5 hours per session.
 
+**Questions:** Call/text (716) 259-2725 or email
+[team@communitycanvases.org](mailto:team@communitycanvases.org)
+
 <figure style="max-width: 900px" class="align-center">
   <img src="/assets/images/posters/CollaborativeArt.jpg" alt="Collaborate Art Poster">
 </figure> 
