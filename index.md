@@ -12,7 +12,10 @@ excerpt: "facilitating community engagement through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Collaborative Community Art** [Learn More](/events/communityartsummer2023/){: .btn .btn--success}<br>
+**Starting June 27, 2023**<br>
+**Collaborative Community Art** [SIGN UP June/July 2023](/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
+{: .notice--success .maxwidthbox .align-center}
+
 **Write-up of May 20th WNY Trash Mob Cleanup** [Photos](https://www.instagram.com/p/CsjYMIIO8PR/){: .btn .btn--info}<br>
 **Remembering Claire** [Video](https://kindfools.org/videos/let-them-be/){: .btn .btn--info}<br>
 See All **Past and Future** Events [All Events](/events/){: .btn .btn--info}<br>
