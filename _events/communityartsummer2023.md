@@ -24,11 +24,8 @@ lived experience of local young adults
 Some may take place at RSI's youth Clubhouse at 66 Englewood
 or at local churches.
 
-**Workshop dates:** Tuesdays and Thursdays 3pm to 5:30pm.
-Dates are subject to change, and start right after the end of the school year,
-and skip July 4, 2023:
- - Tuesday June 27
- - Thursday June 29
+**Workshop dates:** Tuesdays and Thursdays 4pm to 6:30pm.
+Dates are subject to change.
  - Thursday July 6
  - Tuesday July 11
  - Thursday July 13

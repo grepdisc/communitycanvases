@@ -12,8 +12,8 @@ excerpt: "facilitating community engagement through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Starting June 27, 2023**<br>
-**Collaborative Community Art** [SIGN UP June/July 2023](/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
+**Starting July 6, 2023**<br>
+**Collaborative Community Art** [SIGN UP July 2023](/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
 {: .notice--success .maxwidthbox .align-center}
 
 **Write-up of May 20th WNY Trash Mob Cleanup** [Photos](https://www.instagram.com/p/CsjYMIIO8PR/){: .btn .btn--info}<br>
