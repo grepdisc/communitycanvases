@@ -12,7 +12,6 @@ excerpt: "facilitating community engagement through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Starting July 6, 2023**<br>
 **Collaborative Community Art** [SIGN UP July 2023](/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
 {: .notice--success .maxwidthbox .align-center}
 

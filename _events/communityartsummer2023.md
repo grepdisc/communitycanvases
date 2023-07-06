@@ -18,18 +18,7 @@ header:
 **Specific project:** Painting benches with thematic art based on
 lived experience of local young adults
 
-**Art going where?** In and around Restoration Society, Inc at 586 Genesee Street
-
-**Locations:** Most workshops will take place at 586 Genesee Street.
-Some may take place at RSI's youth Clubhouse at 66 Englewood
-or at local churches.
-
-**Workshop dates:** Tuesdays and Thursdays 4pm to 6:30pm.
-Dates are subject to change.
- - Thursday July 6
- - Tuesday July 11
- - Thursday July 13
- - Tuesday July 18
+**Workshop dates:** Dates are subject to change.
 
 **Time:** 2.5 hours per session.
 
