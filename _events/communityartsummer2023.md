@@ -25,6 +25,9 @@ lived experience of local young adults
 **Questions:** Call/text (716) 259-2725 or email
 [team@communitycanvases.org](mailto:team@communitycanvases.org)
 
+
+{% comment %}
 <figure style="max-width: 900px" class="align-center">
   <img src="/assets/images/posters/CollaborativeArt.jpg" alt="Collaborate Art Poster">
 </figure> 
+{% endcomment %}
