@@ -10,7 +10,7 @@ header:
 
 # Collaborative Community Art 
 
-[RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSdWGCmMoKTAAbvsGEa7RjgIJllkY6fbZ7UbKW9K0_kfVy6n_w/viewform?usp=sf_link){: .btn .btn--success .btn--x-large}
+[Express Interest](https://docs.google.com/forms/d/e/1FAIpQLSdWGCmMoKTAAbvsGEa7RjgIJllkY6fbZ7UbKW9K0_kfVy6n_w/viewform?usp=sf_link){: .btn .btn--success .btn--x-large}
 
 
 **What:** Creating public art with local young adults

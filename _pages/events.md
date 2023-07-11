@@ -9,6 +9,10 @@ author_profile: false
 
 **Collaborative Community Art** [Learn More](/events/communityartsummer2023/){: .btn .btn--success}<br>
 
+- July 20th 1:00pm **WRITE ON! workshop at CAO's Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+
+- July 25th 7:00pm **WRITE ON! workshop at Burning Books** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+
 ## Past Events
 
 - June 15th 1:00pm **WRITE ON! workshop at CAO's Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
