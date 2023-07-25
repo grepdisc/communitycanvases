@@ -41,7 +41,7 @@ Boxes to be wrapped are at the following locations:
 ## Artist Participation
 
 Anyone can submit an original work of art (painting, oil, watercolor
-or acrylic, graphic design, or collage) that will be applied to an
+or acrylic, graphic design, or photography) that will be applied to an
 Electrical Signal Box. Invitations will be extended to anyone
 willing to meet the requirements of this call for artists. A general
 invitation to submit proposals is being issued to the public—both
@@ -70,11 +70,11 @@ become the property of Community Canvases.
 ## *All artwork must be an original work of art by the submitting artist.*
 
 ## DESIGN SPECIFICATIONS
-The not-for-profit organization, Community Canvases and
-Niagara Metals for the signal box art project has provided the
-following design guidelines. Designs that do not follow the
-provided guidelines may be disqualified from the design
-competition, at the discretion of the Community Canvases and
+The nonprofit organization Community Canvases and
+Niagara Metals has provided the following design guidelines
+for the signal box art project. Designs that do not follow
+the provided guidelines may be disqualified from the design
+competition, at the discretion of Community Canvases and
 Niagara Metals.
 
 The organizations have attached a design worksheet for your
