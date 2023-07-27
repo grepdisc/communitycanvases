@@ -13,8 +13,12 @@ excerpt: "facilitating community engagement through the arts"
 {: .text-center}
 
 
-**WRITE ON! workshop on August 8** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
-See All **Past and Future** Events [All Events](/events/){: .btn .btn--info}<br>
+**WRITE ON! workshop on August 8** [Learn More](
+    https://kindfools.org/writeon/){: .btn .btn--info}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    /communityswing){: .btn .btn--info}<br>
+Calendar of [**All Events**](
+    /events/){: .btn .btn--info}<br>
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}

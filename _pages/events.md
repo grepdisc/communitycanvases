@@ -7,7 +7,10 @@ author_profile: false
 
 ## Upcoming Events
 
-**Collaborative Community Art** [Learn More](/events/communityartsummer2023/){: .btn .btn--success}<br>
+- August 8th 6:00pm **WRITE ON! workshop at Sol Rise** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+- Community Swing 6pm to 9pm every Wednesday [Details](
+    /communityswing){: .btn .btn--info}<br>
+- **Collaborative Community Art** (closed group) [Learn More](/events/communityartsummer2023/){: .btn .btn--success}<br>
 
 ## Event Calendar
 
@@ -18,6 +21,11 @@ author_profile: false
 </div>
 
 ## Past Events
+
+- July 25th 7:00pm **WRITE ON! workshop at Burning Books** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+
+- July 20th 1:00pm **WRITE ON! workshop at CAO's Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+
 
 - June 15th 1:00pm **WRITE ON! workshop at CAO's Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
