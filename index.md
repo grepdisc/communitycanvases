@@ -13,7 +13,7 @@ excerpt: "facilitating community engagement through the arts"
 {: .text-center}
 
 
-**WRITE ON! workshop on August 8** [Learn More](
+WRITE ON! workshop on August 8 [Learn More](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     /communityswing){: .btn .btn--info}<br>
