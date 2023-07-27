@@ -9,8 +9,8 @@ author_profile: false
 
 - August 8th 6:00pm **WRITE ON! workshop at Sol Rise** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
-    /communityswing){: .btn .btn--info}<br>
-- **Collaborative Community Art** (closed group) [Learn More](/events/communityartsummer2023/){: .btn .btn--success}<br>
+    https://www.facebook.com/communitycanvases){: .btn .btn--info}<br>
+- Collaborative Community Art (closed group) [Learn More](/events/communityartsummer2023/){: .btn .btn--info}<br>
 
 ## Event Calendar
 
