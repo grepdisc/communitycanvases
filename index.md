@@ -13,6 +13,10 @@ excerpt: "facilitating community engagement through the arts"
 {: .text-center}
 
 
+Tabling at Burning Books Block Party. 12pm to 4pm Saturday, July 29th
+around 420 Connecticut Street. Drop by to say hi to Community Canvases,
+stay for the fun activities and nearby Buffalo Garden Walk.[Info
+](https://www.facebook.com/events/283062600944172){: .btn .btn--info}<br>
 WRITE ON! workshop on August 8 [Learn More](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](

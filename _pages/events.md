@@ -7,7 +7,11 @@ author_profile: false
 
 ## Upcoming Events
 
-- August 8th 6:00pm **WRITE ON! workshop at Sol Rise** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+- Tabling at Burning Books Block Party. 12pm to 4pm Saturday, July 29th
+around 420 Connecticut Street. Drop by to say hi to Community Canvases,
+stay for the fun activities and the nearby Buffalo Garden Walk. [Info
+](https://www.facebook.com/events/283062600944172){: .btn .btn--info}<br>
+- August 8th 6:00pm WRITE ON! workshop at Sol Rise [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communitycanvases){: .btn .btn--info}<br>
 - Collaborative Community Art (closed group) [Learn More](/events/communityartsummer2023/){: .btn .btn--info}<br>
@@ -22,6 +26,8 @@ author_profile: false
 
 ## Past Events
 
+- July 14, 2023 10am - 2pm WNY Trash Mob! Genesee Street Cleanup with Restoration Sociey, Inc.
+
 - July 25th 7:00pm **WRITE ON! workshop at Burning Books** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
 - July 20th 1:00pm **WRITE ON! workshop at CAO's Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
@@ -29,7 +35,7 @@ author_profile: false
 
 - June 15th 1:00pm **WRITE ON! workshop at CAO's Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
-- May 20, 2023 10:00am - 12:30pm **Grant Street Cleanup** [Info](/events/cleanup20230520/){: .btn .btn--success}<br>
+- May 20, 2023 10:00am - 12:30pm WNY Trash Mob! **Grant Street Cleanup** [Info](/events/cleanup20230520/){: .btn .btn--success}<br>
 
 - May 18th 1:00pm **WRITE ON! workshop at Masten Resource Center** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
