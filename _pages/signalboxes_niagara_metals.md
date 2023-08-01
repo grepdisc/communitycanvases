@@ -83,15 +83,22 @@ convenience.
 # IMPORTANT
 
 Artwork should be submitted as digital images with the
-following dimensions: 
-- 24”x 60” (6000 x 15000 pixels)
-- 16”x 40” (4000 x 10000 pixels)
-- 12”x 30” (3000 x 7500 pixels)
+following dimensions:<br>
 
-The required number of pixels will ensure
-that the digital image submitted can print on
-the vinyl wrap at the proper size at 250 dpi.
+The ideal image size with a landscape orientation is<br>
+24”x 60” (6000 x 15000 pixels) which will print at 250 DPI<br><br>
+Lower resolution images are less ideal, but are acceptable at either<br>
+16”x 40” (4000 x 10000 pixels)<br>
+or<br>
+12”x 30” (3000 x 7500 pixels)
 
+The required number of pixels will ensure that the
+digital image submitted can print on the vinyl wrap
+at the proper size at 250 dpi.
+
+If you cannot submit a digital image, please contact us
+to take a photograph of your artwork.
+ 
 ### Identification and Contact Info: 
 Each submitted design must include the following information:
 1. Artist’s Name
