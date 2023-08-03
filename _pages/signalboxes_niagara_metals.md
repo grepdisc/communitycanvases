@@ -1,7 +1,7 @@
 ---
 permalink: /signalboxes/northbuffalo/
 title: "Signal Box Art Project"
-layout: splash
+layout: single
 author_profile: false
 
 ---
@@ -30,7 +30,7 @@ informative enhancement.
 
 The electrical Signal Box will be wrapped in a vinyl image
 submitted by the artist and approved by Community Canvases
-and the community groups that sponsor this artistic endeavor.
+and [Niagara Metals](https://www.niagarametals.com) which sponsors this artistic endeavor.
 
 **THE LOCATION** – for this current project, the electrical Signal
 Boxes to be wrapped are at the following locations:
@@ -71,7 +71,8 @@ become the property of Community Canvases.
 
 ## DESIGN SPECIFICATIONS
 The nonprofit organization Community Canvases and
-Niagara Metals has provided the following design guidelines
+[Niagara Metals](https://www.niagarametals.com)
+has provided the following design guidelines
 for the signal box art project. Designs that do not follow
 the provided guidelines may be disqualified from the design
 competition, at the discretion of Community Canvases and
@@ -124,6 +125,12 @@ profanity, obscenity, indecency, violence, pornography;
 discrimination on the basis of race, creed, color, age, religion,
 gender, sexual orientation, or nationality; defamation or personal
 attacks
+
+### Signal Box Diagram
+<figure style="max-width: 900px" class="align-center">
+  <img src="/assets/images/SignalBoxDiagram.svg" alt="Signal box Diagram">
+  <figcaption>Diagram of Signal Box and requested artwork</figcaption>
+</figure> 
 
 ### ELIGIBILITY
 The competition is open to all artists located within the Western
