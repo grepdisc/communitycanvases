@@ -24,7 +24,7 @@ author_profile: false
 ## Past Events
 
 - Tabling at Burning Books Block Party. 12pm to 4pm Saturday, July 29th
-stay [Info
+[Info
 ](https://www.facebook.com/events/283062600944172){: .btn .btn--info}<br>
 
 - July 25th 7:00pm **WRITE ON! workshop at Burning Books** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
