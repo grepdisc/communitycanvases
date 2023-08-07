@@ -184,7 +184,8 @@ Community Canvases.
 
 # Artist Application
 
-[Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSf-nt3owVZFp9VAyQ8Bdsuz2yw8sp42zyoeywqvfMVT_ch9HA/viewform){: .btn .btn--success .btn--large}
+[Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSf-nt3owVZFp9VAyQ8Bdsuz2yw8sp42zyoeywqvfMVT_ch9HA/viewform){: .btn .btn--success .btn--large}<br>
+**Note:** A Google account is needed to access the application and upload artwork.
 
 ### Questions
 Please reach out to Elaine Grisanti at (716) 812-8937
