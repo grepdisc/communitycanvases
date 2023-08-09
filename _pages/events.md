@@ -7,8 +7,8 @@ author_profile: false
 
 ## Upcoming Events
 
-- August 8th 6:00pm WRITE ON! workshop at Sol Rise [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 - August 22th 6:00pm WRITE ON! workshop at Healing Grounds [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+- September 7th 1:00pm WRITE ON! workshop at Fitz Books & Waffles [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communitycanvases){: .btn .btn--info}<br>
 - Collaborative Community Art (closed group) [Learn More](/events/communityartsummer2023/){: .btn .btn--info}<br>
@@ -22,6 +22,8 @@ author_profile: false
 </div>
 
 ## Past Events
+
+- August 8th 6:00pm WRITE ON! workshop at Sol Rise [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
 - Tabling at Burning Books Block Party. 12pm to 4pm Saturday, July 29th
 [Info
