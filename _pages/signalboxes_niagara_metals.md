@@ -1,10 +1,12 @@
 ---
 permalink: /signalboxes/northbuffalo/
-title: "Signal Box Art Project"
+title: "Call For Artists"
 layout: single
 author_profile: false
 
 ---
+
+## SIGNAL BOX ART PROJECT
 
 In the interest of enhancing the visual experience for
 residents and visitors in the City of Buffalo and Western New
