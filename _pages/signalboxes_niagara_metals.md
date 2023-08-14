@@ -78,24 +78,21 @@ the provided guidelines may be disqualified from the design
 competition, at the discretion of Community Canvases and
 Niagara Metals.
 
-The organizations have attached a design worksheet for your
-convenience.
-
 # IMPORTANT
 
 Artwork should be submitted as digital images with the
 following dimensions:<br>
 
-The ideal image size with a landscape orientation is<br>
-24”x 60” (6000 x 15000 pixels) which will print at 250 DPI<br><br>
-Lower resolution images are less ideal, but are acceptable at either<br>
-16”x 40” (4000 x 10000 pixels)<br>
-or<br>
-12”x 30” (3000 x 7500 pixels)
+The ideal size for artwork with a landscape orientation is<br>
+12”x 30”
+
+Photos of your artwork can be submitted or digital work
+can be submitted with a resolution of 3000 x 7500 pixels
+(and up to 6000 x 15000 pixels)
 
 The required number of pixels will ensure that the
-digital image submitted can print on the vinyl wrap
-at the proper size at 250 dpi.
+digital image submitted can print on 24" by 60" vinyl wrap
+at 250 dpi.
 
 If you cannot submit a digital image, please contact us
 to take a photograph of your artwork.
@@ -115,7 +112,7 @@ overheating issues with the boxes.
 audiences
 - Ability of the design to be translated in large-format on a traffic
 box wrap
-- Artwork cannot contain words or logos
+- Artwork cannot contain words or logos or anything that appears like a traffic sign
 
 Community Canvases cannot consider designs that include
 branding, advertising or images that sell a product or service.
