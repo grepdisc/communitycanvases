@@ -6,8 +6,6 @@ author_profile: false
 
 ---
 
-# SIGNAL BOX ART PROJECT 
-
 In the interest of enhancing the visual experience for
 residents and visitors in the City of Buffalo and Western New
 York, Community Canvases is proud to announce our Signal Box
