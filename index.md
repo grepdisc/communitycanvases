@@ -15,6 +15,8 @@ excerpt: "facilitating community engagement through the arts"
 
 WRITE ON! workshop Sept 7 [Learn More](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
+Party in the Park Sept 16 at Mass Ave Park [Learn More](
+    events/partyinthepark20230916/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     /communityswing){: .btn .btn--info}<br>
 Calendar of [**All Events**](

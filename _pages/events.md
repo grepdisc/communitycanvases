@@ -7,7 +7,10 @@ author_profile: false
 
 ## Upcoming Events
 
-- September 7th 1:00pm WRITE ON! workshop at Fitz Books & Waffles [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+- September 7th 1:00pm WRITE ON! workshop at Fitz Books & Waffles [Learn More](
+    https://kindfools.org/writeon/){: .btn .btn--info}<br>
+- September 16th Party in the Park at Mass Ave Park [Learn More](
+    events/partyinthepark20230916/){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communitycanvases){: .btn .btn--info}<br>
 - Collaborative Community Art (closed group) [Learn More](/events/communityartsummer2023/){: .btn .btn--info}<br>
