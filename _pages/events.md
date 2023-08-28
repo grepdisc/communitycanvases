@@ -12,8 +12,7 @@ author_profile: false
 - September 16th Party in the Park at Mass Ave Park [Learn More](
     events/partyinthepark20230916/){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communitycanvases){: .btn .btn--info}<br>
-- Collaborative Community Art (closed group) [Learn More](/events/communityartsummer2023/){: .btn .btn--info}<br>
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 
 ## Event Calendar
 
@@ -25,12 +24,13 @@ author_profile: false
 
 ## Past Events
 
+- Collaborative Community Art (closed group) [Learn More](/events/communityartsummer2023/){: .btn .btn--info}<br>
+
 - August 22th 6:00pm WRITE ON! workshop at Healing Grounds<br>
 
 - August 8th 6:00pm WRITE ON! workshop at Sol Rise<br>
 
-- Tabling at Burning Books Block Party. 12pm to 4pm Saturday, July 29th
-[Info
+- Tabling at Burning Books Block Party. 12pm to 4pm Saturday, July 29th [Info
 ](https://www.facebook.com/events/283062600944172){: .btn .btn--info}<br>
 
 - July 25th 7:00pm **WRITE ON! workshop at Burning Books** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}<br>

@@ -18,7 +18,7 @@ WRITE ON! workshop Sept 7 [Learn More](
 Party in the Park Sept 16 at Mass Ave Park [Learn More](
     events/partyinthepark20230916/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
-    /communityswing){: .btn .btn--info}<br>
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 {: .notice--info .maxwidthbox .align-center}
