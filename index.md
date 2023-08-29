@@ -13,6 +13,8 @@ excerpt: "facilitating community engagement through the arts"
 {: .text-center}
 
 
+**CALL FOR ARTISTS** - Signal Box Art Project [Learn More](
+    /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 WRITE ON! workshop Sept 7 [Learn More](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Party in the Park Sept 16 at Mass Ave Park [Learn More](
