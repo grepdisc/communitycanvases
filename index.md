@@ -50,8 +50,5 @@ Calendar of [**All Events**](
     {% endfor %}
 </div>
 
-# We are gathering art supplies... to build this into a beautiful website. Please check back soon
-{: .text-center}
-
 Contact us: [team@communitycanvases.org](mailto:team@communitycanvases.org)
 
