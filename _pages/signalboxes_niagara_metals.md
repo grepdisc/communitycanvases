@@ -34,6 +34,8 @@ The electrical Signal Box will be wrapped in a vinyl image
 submitted by the artist and approved by Community Canvases
 and [Niagara Metals](https://www.niagarametals.com) which sponsors this artistic endeavor.
 
+> At Niagara Metals, we are committed to environmental sustainability, responsible recycling practices, and being actively involved in our communities. As a local scrap metal recycling company, we are essential to a greener future of less waste. We raise awareness of metal recycling and we make sure the public knows that we are ready to pay you for your recycled metal. Community members get paid as they contribute to reducing waste and preserving our precious resources. Together, we can all keep metal out of the landfill. Our community engagement efforts are focused on removing barriers to recycling and engaging individuals, businesses and organizations in working together to protect our environment.
+
 **THE LOCATION** – for this current project, the electrical Signal
 Boxes to be wrapped are at the following locations:
 1. Hertel Avenue and Elmwood Avenue
