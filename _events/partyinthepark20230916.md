@@ -31,3 +31,8 @@ or [wnytrashmob@gmail.com](mailto:wnytrashmob@gmail.com)
    alt="Cleanup Poster">
 </figure> 
 
+<figure style="max-width: 900px" class="align-center">
+  <img src="/assets/images/events/partyinthepark20230916_flyer_burmese.jpg"
+   alt="Cleanup Poster Burmese">
+</figure> 
+
