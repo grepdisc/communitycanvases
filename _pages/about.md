@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 ## Community Canvases
-Community Canvases is a 501(c)3 nonprofit devoted to facilitating community engagement through the arts.
+Community Canvases is a 501(c)3 nonprofit devoted to facilitating community engagement and expression through the arts.
 
 ## Contact us
 
