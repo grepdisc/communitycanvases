@@ -10,7 +10,7 @@ Community Canvases is a 501(c)3 nonprofit devoted to facilitating community enga
 
 ## Contact us
 
-Please reach out to Director of Arts and Education Katherine Pessecow at [wnytrashmob@gmail.com](mailto:wnytrashmob@gmail.com)
+Please reach out to Executive Director Katherine Pessecow at [wnytrashmob@gmail.com](mailto:wnytrashmob@gmail.com)
 
 ## History 
 
