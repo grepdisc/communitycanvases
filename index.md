@@ -13,14 +13,14 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-**TODAY - Party in the Park Sept 16 at Mass Ave Park** [Learn More](
-    events/partyinthepark20230916/){: .btn .btn--info}<br>
-**CALL FOR ARTISTS** - Signal Box Art Project [Learn More](
+**CALL FOR ARTISTS - due tomorrow!** - Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 WRITE ON! workshop Sept 26 [Learn More](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Thank you for joining us at **Party in the Park** [Learn More](
+    events/partyinthepark20230916/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 {: .notice--info .maxwidthbox .align-center}
