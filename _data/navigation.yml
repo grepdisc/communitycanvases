@@ -6,5 +6,7 @@ main:
     url: /donate/
   - title: "Programs"
     url: /
+  - title: "Board"
+    url: /board/
   - title: "Privacy"
     url: /privacy/
