@@ -13,7 +13,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-**CALL FOR ARTISTS - due today by 5pm!** - Signal Box Art Project [Learn More](
+Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 WRITE ON! workshop Sept 26 [Learn More](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
