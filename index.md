@@ -12,7 +12,8 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-
+**Pumpking Carving and Film Night Fundraiser** [Tickets](
+https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119){: .btn .btn--info}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 WRITE ON! workshop Sept 26 [Learn More](
