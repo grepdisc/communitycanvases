@@ -12,14 +12,18 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Pumpking Carving and Film Night Fundraiser** [Tickets](
-https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119){: .btn .btn--info}<br>
+**Pumpking Carving and Film Night Fundraiser Oct 13th** [Tickets](
+    https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119
+    ){: .btn .btn--info}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-WRITE ON! workshop Sept 26 [Learn More](
-    https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+**100,000 Poets for Change Open Mic** 3pm September 30th [Info](
+    https://kindfools.org/events/hundredthousandpoets2023/
+    ){: .btn .btn--info}<br>
+WRITE ON! workshop Oct 10 [Learn More](
+    https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Thank you for joining us at **Party in the Park** [Learn More](
     events/partyinthepark20230916/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
