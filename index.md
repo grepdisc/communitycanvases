@@ -13,7 +13,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 **Pumpking Carving and Film Night Fundraiser Oct 13th** [Tickets](
-    https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119
+    https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
 {: .notice--success .maxwidthbox .align-center}
 
