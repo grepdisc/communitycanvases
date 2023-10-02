@@ -15,16 +15,13 @@ excerpt: "facilitating community engagement and expression through the arts"
 **Pumpking Carving and Film Night Fundraiser Oct 13th** [Tickets](
     https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
-**100,000 Poets for Change Open Mic** 3pm September 30th [Info](
-    https://kindfools.org/events/hundredthousandpoets2023/
-    ){: .btn .btn--info}<br>
 {: .notice--success .maxwidthbox .align-center}
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-WRITE ON! workshop Oct 10 [Learn More](
+**WRITE ON! workshop at 6pm Oct 10th** [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Thank you for joining us at **Party in the Park** [Learn More](
     events/partyinthepark20230916/){: .btn .btn--info}<br>

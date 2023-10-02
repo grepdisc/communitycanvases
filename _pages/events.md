@@ -8,15 +8,15 @@ author_profile: false
 ## Upcoming Events
 
 
-**100,000 Poets for Change Open Mic** 3pm September 30th [Info](
-    https://kindfools.org/events/hundredthousandpoets2023/){: .btn .btn--info}<br>
-**Pumpking Carving and Film Night Fundraiser Oct 13th** [Tickets](
+- **Pumpking Carving and Film Night Fundraiser Oct 13th** [Tickets](
     https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119
     ){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**WRITE ON! workshop at 6pm Oct 10th** [Info/Sign-up](
+- **WRITE ON! workshop at 6pm Oct 10th** [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
+- **WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
+    /writeon/){: .btn .btn--info}<br>
 
 ## Event Calendar
 
@@ -27,6 +27,10 @@ author_profile: false
 </div>
 
 ## Past Events
+
+- **100,000 Poets for Change Open Mic** 3pm September 30th [Info](
+    https://kindfools.org/events/hundredthousandpoets2023/
+    ){: .btn .btn--info}<br>
 
 - September 26th 6:00pm WRITE ON! workshop at Healing Grounds<br>
 
