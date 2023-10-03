@@ -8,17 +8,13 @@ header:
 
 ---
 
-# TODAY!!!
-
 # Party in the Park - Community Resource Fair on September 16, 2023
 
-Meet at Massachusetts Avenue Park at 11:00am on Saturday, September 16, 2023.
+Over 1000 people met at Massachusetts Avenue Park at 11:00am on Saturday, September 16, 2023.
 Community Canvases' [WNY Trash Mob](http://instagram.com/wnytrashmob/)
-is organizing this Community Resource Fair in collaboration with
-Assemblymember Jon Rivera and Councilmember David Rivera. There will be
+organized this Community Resource Fair in collaboration with
+Assemblymember Jon Rivera, Councilmember David Rivera, and Buffalo Myanmar Festival. There was
 community, food, and lots of neighbors and local organizations.
-
-No registration is needed for this event.
 
 Check out the [Facebook event](https://www.facebook.com/events/852205296118176) too!
 
