@@ -19,12 +19,14 @@ Can't attend but still want to support Community Canvases? [Donate](/donate/
     ){: .btn .btn--success}<br>
 {: .notice--success .maxwidthbox .align-center}
 
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Signal Box Art Project [Learn More](
-    /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Oct 10th** [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
+WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
+    events/cleanup20231021/){: .btn .btn--info}<br>
+Signal Box Art Project [Learn More](
+    /signalboxes/northbuffalo/){: .btn .btn--info}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for joining us at **Party in the Park** [Learn More](
     events/partyinthepark20230916/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
