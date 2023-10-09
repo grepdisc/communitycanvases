@@ -12,7 +12,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Pumpkin Carving and Film Night Fundraiser Oct 13th** [Tickets](
+**Pumpkin Carving and Film Party/Fundraiser Oct 13th** [Tickets](
     https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
 Can't attend but still want to support Community Canvases? [Donate](/donate/
