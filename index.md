@@ -12,15 +12,13 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Pumpkin Carving and Film Party/Fundraiser Oct 13th** [Tickets](
+**TONIGHT: Pumpkin Carving and Film Party/Fundraiser Oct 13th** [Tickets](
     https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
 Can't attend but still want to support Community Canvases? [Donate](/donate/
     ){: .btn .btn--success}<br>
 {: .notice--success .maxwidthbox .align-center}
 
-**WRITE ON! workshop at 6pm Oct 10th** [Info/Sign-up](
-    https://kindfools.org/writeon/){: .btn .btn--info}<br>
 WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
     events/cleanup20231021/){: .btn .btn--info}<br>
 Signal Box Art Project [Learn More](
