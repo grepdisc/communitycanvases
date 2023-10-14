@@ -8,13 +8,10 @@ author_profile: false
 ## Upcoming Events
 
 
-- **Pumpking Carving and Film Night Fundraiser Oct 13th** [Tickets](
-    https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119
-    ){: .btn .btn--info}<br>
-- Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
     events/cleanup20231021/){: .btn .btn--info}<br>
+- Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 - **WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 
@@ -27,6 +24,10 @@ WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
 </div>
 
 ## Past Events
+
+- **Pumpking Carving and Film Night Fundraiser Oct 13th** [Tickets](
+    https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119
+    ){: .btn .btn--info}<br>
 
 - **WRITE ON! workshop at 6pm Oct 10th** [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>

@@ -12,13 +12,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**TONIGHT: Pumpkin Carving and Film Party/Fundraiser Oct 13th** [Tickets](
-    https://www.chateaubuffalo.com/suite-16-cinema-series
-    ){: .btn .btn--success}<br>
-Can't attend but still want to support Community Canvases? [Donate](/donate/
-    ){: .btn .btn--success}<br>
-{: .notice--success .maxwidthbox .align-center}
-
 WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
     events/cleanup20231021/){: .btn .btn--info}<br>
 Signal Box Art Project [Learn More](
@@ -32,6 +25,13 @@ Calendar of [**All Events**](
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+**TONIGHT: Pumpkin Carving and Film Party/Fundraiser Oct 13th** [Tickets](
+    https://www.chateaubuffalo.com/suite-16-cinema-series
+    ){: .btn .btn--success}<br>
+Can't attend but still want to support Community Canvases? [Donate](/donate/
+    ){: .btn .btn--success}<br>
+{: .notice--success .maxwidthbox .align-center}
+
 **Write-up of May 20th WNY Trash Mob Cleanup** [Photos](https://www.instagram.com/p/CsjYMIIO8PR/){: .btn .btn--info}<br>
 **Remembering Claire** [Video](https://kindfools.org/videos/let-them-be/){: .btn .btn--info}<br>
 **Collaborative Community Art** [SIGN UP July 2023](/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
