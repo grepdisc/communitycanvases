@@ -8,7 +8,7 @@ author_profile: false
 ## Upcoming Events
 
 
-WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
+- WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
     events/cleanup20231021/){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
