@@ -16,6 +16,10 @@ WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
     events/cleanup20231021/){: .btn .btn--info}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
+**WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
+    /writeon/){: .btn .btn--info}<br>
+**Art Show/Fundraiser** Nov 11, 2023 at Hostel Buffalo[Info](
+    /events/artshow20231111/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for joining us at **Party in the Park** [Learn More](

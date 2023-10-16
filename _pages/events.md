@@ -14,6 +14,7 @@ author_profile: false
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 - **WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
+- November 11, 2023 [Art Show](/events/artshow20231111/) at Hostel Buffalo
 
 ## Event Calendar
 
