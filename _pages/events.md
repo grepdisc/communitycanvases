@@ -7,13 +7,12 @@ author_profile: false
 
 ## Upcoming Events
 
-
-- WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
-    events/cleanup20231021/){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 - **WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
+    https://kindfools.org/writeon/){: .btn .btn--info}<br>
+- **WRITE ON! workshop at 6pm Nov 7th** [Info/Sign-up](
+    https://kindfools.org/writeon/){: .btn .btn--info}<br>
 - November 11, 2023 [Art Show](/events/artshow20231111/) at Hostel Buffalo
 
 ## Event Calendar
@@ -26,6 +25,8 @@ author_profile: false
 
 ## Past Events
 
+- WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
+    events/cleanup20231021/){: .btn .btn--info}<br>
 - **Pumpking Carving and Film Night Fundraiser Oct 13th** [Tickets](
     https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119
     ){: .btn .btn--info}<br>
