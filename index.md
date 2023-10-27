@@ -21,7 +21,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe_z314Lh2i1LRe87zYxUFVd2iWS8pYDOx-iyih
 ){: .btn .btn--warning .btn--large}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-**WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
+**WRITE ON! workshop at 6pm Nov 7th** [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 **Art Show/Fundraiser** Nov 11, 2023 at Hostel Buffalo[Info](
     /events/artshow20231111/){: .btn .btn--info}<br>
