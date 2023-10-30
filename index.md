@@ -12,23 +12,20 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
-    events/cleanup20231021/){: .btn .btn--info}<br>
-**Thank you for participating in our Community Cleanup** [Art Survey](
-https://docs.google.com/forms/d/e/1FAIpQLSfaCyszcBCM1RKUOpB4O_wfKkR5dA8_oXpwG9IQlASn7kwXgQ/viewform
-){: .btn .btn--success .btn--large} [Data Collection](
-https://docs.google.com/forms/d/e/1FAIpQLSe_z314Lh2i1LRe87zYxUFVd2iWS8pYDOx-iyihX5yIL8qbcw/viewform
-){: .btn .btn--warning .btn--large}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-**WRITE ON! workshop at 6pm Nov 7th** [Info/Sign-up](
+WRITE ON! workshop at 6pm Nov 7th [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
-**Art Show/Fundraiser** Nov 11, 2023 at Hostel Buffalo[Info](
+**Art Show/Fundraiser Nov 11th at 1:00pm** at Hostel Buffalo[Info](
     /events/artshow20231111/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Thank you for joining us at **Party in the Park** [Learn More](
-    events/partyinthepark20230916/){: .btn .btn--info}<br>
+**Thank you for participating in WNY Trash Mob's Community Cleanup** [Recap](
+    events/cleanup20231021/){: .btn .btn--info} [Art Survey](
+https://docs.google.com/forms/d/e/1FAIpQLSfaCyszcBCM1RKUOpB4O_wfKkR5dA8_oXpwG9IQlASn7kwXgQ/viewform
+){: .btn .btn--success} [Data Collection](
+https://docs.google.com/forms/d/e/1FAIpQLSe_z314Lh2i1LRe87zYxUFVd2iWS8pYDOx-iyihX5yIL8qbcw/viewform
+){: .btn .btn--warning}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 {: .notice--info .maxwidthbox .align-center}

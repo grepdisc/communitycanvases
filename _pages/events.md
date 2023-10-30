@@ -23,16 +23,16 @@ author_profile: false
 
 ## Past Events
 
-- WRITE ON! workshop at 1pm Oct 26th [Info](
-    https://kindfools.org/writeon/){: .btn .btn--info}<br>
-- WNY Trash Mob **Community Cleanup 11am Oct 21** [Learn More](
+- WRITE ON! workshop at 1pm Oct 26th at CAO's Masten Resource Center
+
+- WNY Trash Mob Community Cleanup Oct 21st [Learn More](
     events/cleanup20231021/){: .btn .btn--info}<br>
+
 - Pumpking Carving and Film Night Fundraiser Oct 13th [Tickets](
     https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119
     ){: .btn .btn--info}<br>
 
-- **WRITE ON! workshop at 6pm Oct 10th** [Info/Sign-up](
-    https://kindfools.org/writeon/){: .btn .btn--info}<br>
+- WRITE ON! workshop at 6pm Oct 10th
 
 - **100,000 Poets for Change Open Mic** 3pm September 30th [Info](
     https://kindfools.org/events/hundredthousandpoets2023/
