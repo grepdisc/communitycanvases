@@ -28,9 +28,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe_z314Lh2i1LRe87zYxUFVd2iWS8pYDOx-iyih
 ){: .btn .btn--warning}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
-{: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+{: .notice--info .maxwidthbox .align-center}
 **TONIGHT: Pumpkin Carving and Film Party/Fundraiser Oct 13th** [Tickets](
     https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
