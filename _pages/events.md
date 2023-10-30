@@ -26,7 +26,7 @@ author_profile: false
 - WRITE ON! workshop at 1pm Oct 26th at CAO's Masten Resource Center
 
 - WNY Trash Mob Community Cleanup Oct 21st [Learn More](
-    events/cleanup20231021/){: .btn .btn--info}<br>
+    _events/cleanup20231021/){: .btn .btn--info}<br>
 
 - Pumpking Carving and Film Night Fundraiser Oct 13th [Tickets](
     https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119
