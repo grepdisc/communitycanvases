@@ -21,13 +21,16 @@ Community Swing 6pm to 9pm every Wednesday [Details](
 WRITE ON! workshop at 6pm Nov 21st [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 **Thank you for participating in WNY Trash Mob's Community Cleanup** [Recap](
-    events/cleanup20231021/){: .btn .btn--info} [Art Survey](
+    events/cleanup20231021/){: .btn .btn--info}<br>
+Calendar of [**All Events**](
+    /events/){: .btn .btn--info}<br>
+{% comment %}
+[Art Survey](
 https://docs.google.com/forms/d/e/1FAIpQLSfaCyszcBCM1RKUOpB4O_wfKkR5dA8_oXpwG9IQlASn7kwXgQ/viewform
 ){: .btn .btn--success} [Data Collection](
 https://docs.google.com/forms/d/e/1FAIpQLSe_z314Lh2i1LRe87zYxUFVd2iWS8pYDOx-iyihX5yIL8qbcw/viewform
-){: .btn .btn--warning}<br>
-Calendar of [**All Events**](
-    /events/){: .btn .btn--info}<br>
+){: .btn .btn--warning}
+{% endcomment %}
 
 {% comment %}
 {: .notice--info .maxwidthbox .align-center}
