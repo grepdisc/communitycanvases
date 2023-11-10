@@ -12,12 +12,12 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**Art Show/Fundraiser Nov 11th at 1:00pm** at Hostel Buffalo[Info](
-    /events/artshow20231111/){: .btn .btn--info}<br>
+**Art Show/Fundraiser Nov 11th at 1:00pm** at Hostel Buffalo [Details](
+    /events/artshow20231111/){: .btn .btn--success .btn--large}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 WRITE ON! workshop at 6pm Nov 21st [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 **Thank you for participating in WNY Trash Mob's Community Cleanup** [Recap](
