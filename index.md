@@ -21,7 +21,7 @@ WRITE ON! workshop at 6pm Nov 21st [Info/Sign-up](
 **Thank you for participating in WNY Trash Mob's Community Cleanup** [Recap](
     events/cleanup20231021/){: .btn .btn--info}<br>
 Thank you for attending our Art Show at Hostel Buffalo [Details](
-    /events/artshow20231111/){: .btn .btn--success .btn--large}<br>
+    /events/artshow20231111/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 {% comment %}

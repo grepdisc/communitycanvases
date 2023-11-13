@@ -9,9 +9,8 @@ author_profile: false
 
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-- **WRITE ON! workshop at 6pm Nov 7th** [Info/Sign-up](
-    https://kindfools.org/writeon/){: .btn .btn--info}<br>
-- November 11, 2023 [Art Show](/events/artshow20231111/) at Hostel Buffalo
+- **WRITE ON! workshop at 6pm Nov 21st** [Info/Sign-up](
+    https://kindfools.org/writeon/){: .btn .btn--info} at Good Shepherd Lutheran<br>
 
 ## Event Calendar
 
@@ -22,6 +21,10 @@ author_profile: false
 </div>
 
 ## Past Events
+
+- November 11, 2023 [Art Show](/events/artshow20231111/) at Hostel Buffalo
+
+- WRITE ON! workshop at 6pm Nov 7th at Sol Rise
 
 - WRITE ON! workshop at 1pm Oct 26th at CAO's Masten Resource Center
 
