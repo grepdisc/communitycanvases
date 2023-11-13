@@ -12,8 +12,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Art Show/Fundraiser Nov 11th at 1:00pm** at Hostel Buffalo [Details](
-    /events/artshow20231111/){: .btn .btn--success .btn--large}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
@@ -22,6 +20,8 @@ WRITE ON! workshop at 6pm Nov 21st [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 **Thank you for participating in WNY Trash Mob's Community Cleanup** [Recap](
     events/cleanup20231021/){: .btn .btn--info}<br>
+Thank you for attending our Art Show at Hostel Buffalo [Details](
+    /events/artshow20231111/){: .btn .btn--success .btn--large}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 {% comment %}
