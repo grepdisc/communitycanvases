@@ -16,10 +16,10 @@ Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-WRITE ON! workshop at 6pm Nov 21st [Info/Sign-up](
+Our partner - Recovery Stories at 5:30pm Nov 27th [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
+WRITE ON! workshop at 6pm Dec 19th on Zoom [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
-**Thank you for participating in WNY Trash Mob's Community Cleanup** [Recap](
-    events/cleanup20231021/){: .btn .btn--info}<br>
 Thank you for attending our Art Show at Hostel Buffalo [Details](
     /events/artshow20231111/){: .btn .btn--info}<br>
 Calendar of [**All Events**](

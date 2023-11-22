@@ -9,8 +9,8 @@ author_profile: false
 
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-- **WRITE ON! workshop at 6pm Nov 21st** [Info/Sign-up](
-    https://kindfools.org/writeon/){: .btn .btn--info} at Good Shepherd Lutheran<br>
+- **WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
+    https://kindfools.org/writeon/){: .btn .btn--info} 
 
 ## Event Calendar
 
@@ -21,6 +21,8 @@ author_profile: false
 </div>
 
 ## Past Events
+
+- WRITE ON! workshop November 21st at Good Shepherd Lutheran
 
 - November 11, 2023 [Art Show](/events/artshow20231111/) at Hostel Buffalo
 
