@@ -9,6 +9,9 @@ author_profile: false
 
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+- **WRITE ON! workshop at 6pm Dec 7th** at Indigo House [Info/Sign-up](
+    https://kindfools.org/writeon/){: .btn .btn--info} 
+- WRITE ON! workshop at 9am Dec 8th at Buffalo City Mission (open only to residents)
 - **WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info} 
 

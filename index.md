@@ -18,7 +18,7 @@ Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Our partner - Recovery Stories at 5:30pm Nov 27th [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
-WRITE ON! workshop at 6pm Dec 19th on Zoom [Info/Sign-up](
+WRITE ON! workshop at 6pm Dec 7th at Indigo House [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Thank you for attending our Art Show at Hostel Buffalo [Details](
     /events/artshow20231111/){: .btn .btn--info}<br>
