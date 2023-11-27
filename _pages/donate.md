@@ -7,7 +7,7 @@ header:
 
 ---
 
-Here's how you can support Community Canvases.
+Your gift supports Community Canvases' programming in WNY, building community through the arts.
 
 ## Donate Here
 
