@@ -25,6 +25,12 @@ or by mailing a check to
 Community Canvases<br>75 Niagara Shore Dr<br>Tonawanda, NY 14150
 </address>
 
+## Volunteer with us
+
+Please complete our [Volunteer Application](
+https://docs.google.com/forms/d/e/1FAIpQLSeA64plpqj0yTczDMh5nxsHvzNmov6SxRbkckWIhpuCd39FVw/viewform?usp=sf_link
+){: .btn .btn--success}<br>
+
 ## Contact us
 
 Please say hi to us at [team@communitycanvases.org](mailto:team@communitycanvases.org)
