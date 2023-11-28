@@ -12,12 +12,12 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
+Today is Giving Tuesday. Please [Donate or Volunteer here](
+    /donate/){: .btn .btn--success .btn--large}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Our partner - Recovery Stories at 5:30pm Nov 27th [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
 WRITE ON! workshop at 6pm Dec 7th at Indigo House [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Thank you for attending our Art Show at Hostel Buffalo [Details](
