@@ -13,7 +13,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 End-of-Year support for Community Canvases [Donate or Volunteer here](
-    /donate/){: .btn .btn--success .btn--large}<br>
+    /donate/){: .btn .btn--success}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
