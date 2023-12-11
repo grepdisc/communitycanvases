@@ -9,9 +9,6 @@ author_profile: false
 
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-- **WRITE ON! workshop at 6pm Dec 7th** at Indigo House [Info/Sign-up](
-    https://kindfools.org/writeon/){: .btn .btn--info} 
-- WRITE ON! workshop at 9am Dec 8th at Buffalo City Mission (open only to residents)
 - **WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info} 
 
@@ -25,6 +22,12 @@ author_profile: false
 
 ## Past Events
 
+- WRITE ON! workshop at 9am Dec 8th at Buffalo City Mission
+
+- WRITE ON! workshop at 6pm Dec 7th at Indigo House
+
+- Our partner [Recovery Stories](https://kindfools.org/recoverystories/) November 27th at Sol Rise
+
 - WRITE ON! workshop November 21st at Good Shepherd Lutheran
 
 - November 11, 2023 [Art Show](/events/artshow20231111/) at Hostel Buffalo
@@ -36,7 +39,7 @@ author_profile: false
 - WNY Trash Mob Community Cleanup Oct 21st [Learn More](
     _events/cleanup20231021/){: .btn .btn--info}<br>
 
-- Pumpking Carving and Film Night Fundraiser Oct 13th [Tickets](
+- Pumpkin Carving and Film Night Fundraiser Oct 13th [Tickets](
     https://www.chateaubuffalo.com/product/alfred-hitchcock-s-strangers-on-a-train/119
     ){: .btn .btn--info}<br>
 

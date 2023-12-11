@@ -18,7 +18,7 @@ Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-WRITE ON! workshop at 6pm Dec 7th at Indigo House [Info/Sign-up](
+WRITE ON! workshop at 6pm Dec 19th on Zoom [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
