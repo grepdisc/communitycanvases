@@ -9,8 +9,12 @@ author_profile: false
 
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-- **WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
-    https://kindfools.org/writeon/){: .btn .btn--info} 
+**WRITE ON! workshop at 1pm Jan 11th** 
+    at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
+    [Info/Sign-up](
+    https://kindfools.org/writeon/){: .btn .btn--info}<br>
+**WRITE ON! workshop at 6pm Jan 16th** at Indigo House [Info/Sign-up](
+    https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
 ## Event Calendar
 
@@ -21,6 +25,8 @@ author_profile: false
 </div>
 
 ## Past Events
+
+- WRITE ON! workshop on Dec 19th on Zoom
 
 - WRITE ON! workshop at 9am Dec 8th at Buffalo City Mission
 

@@ -18,7 +18,9 @@ Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-WRITE ON! workshop at 6pm Dec 19th on Zoom [Info/Sign-up](
+WRITE ON! workshop at 1pm Jan 11th
+    at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
+    [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
