@@ -22,6 +22,10 @@ author_profile: false
 
 ## Past Events
 
+- Our partner - Recovery Stories met at Fitz Books at 5:30pm on Jan 22nd. Sixteen
+  individuals gathered over waffles to share their stories of recovery and poetry,
+  and to feel support from each other.
+
 - WRITE ON! workshop at 6pm Jan 16th at Indigo House
 
 - WRITE ON! workshop at 1pm Jan 11, 2024 at CAO's Masten Resource Center

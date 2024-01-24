@@ -12,12 +12,10 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**POSTPONED tonight:** Community Swing 6pm to 9pm every Wednesday [Details](
+Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Learn More](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-Our partner - Recovery Stories at 5:30pm Jan 22nd [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
 WRITE ON! workshop at 6pm Feb 8th at Big Big Table [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
