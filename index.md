@@ -12,16 +12,21 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Signal Box Art Project [Learn More](
+**Community Swing** at 6pm on Jan 31st (live band) [Details](
+    https://www.facebook.com/communityswing
+    ){: .btn .btn--info}<br>
+Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 WRITE ON! workshop at 6pm Feb 8th at Big Big Table [Info/Sign-up](
+    https://kindfools.org/writeon/){: .btn .btn--info}<br>
+WRITE ON! workshop at 6pm Feb 14th on Zoom [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for attending our Art Show at Hostel Buffalo [Details](
     /events/artshow20231111/){: .btn .btn--info}<br>
 [Art Survey](
