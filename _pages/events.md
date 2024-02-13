@@ -9,8 +9,11 @@ author_profile: false
 
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**WRITE ON! workshop at 6pm Feb 8th** at Big Big Table [Info/Sign-up](
+WRITE ON! workshop at 6pm Feb 14th on Zoom [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
+**The Woven Event** workshop at 6pm Feb 19th 
+   [Info/Sign-up](
+    https://kindfools.org/thewovenevent/){: .btn .btn--info}<br>
 
 ## Event Calendar
 
@@ -21,6 +24,8 @@ author_profile: false
 </div>
 
 ## Past Events
+
+- WRITE ON! workshop at 6pm Feb 8th at Big Big Table
 
 - Our partner - Recovery Stories met at Fitz Books at 5:30pm on Jan 22nd. Sixteen
   individuals gathered over waffles to share their stories of recovery and poetry,
