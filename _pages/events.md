@@ -9,11 +9,8 @@ author_profile: false
 
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-WRITE ON! workshop at 6pm Feb 14th on Zoom [Info/Sign-up](
+- WRITE ON! workshop at 1pm March 7th at Masten Resource Center [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
-**The Woven Event** workshop at 6pm Feb 19th 
-   [Info/Sign-up](
-    https://kindfools.org/thewovenevent/){: .btn .btn--info}<br>
 
 ## Event Calendar
 
@@ -24,6 +21,12 @@ WRITE ON! workshop at 6pm Feb 14th on Zoom [Info/Sign-up](
 </div>
 
 ## Past Events
+
+- The Woven Event workshop at 6pm Feb 19th 
+   [Info](
+    https://kindfools.org/thewovenevent/){: .btn .btn--info}<br>
+
+- WRITE ON! workshop at 6pm Feb 14th on Zoom
 
 - WRITE ON! workshop at 6pm Feb 8th at Big Big Table
 
