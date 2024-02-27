@@ -12,8 +12,9 @@ header:
 * Register your team
 * *Rules:*
 1. Clean
-2. Photograph trash and/or team
-3. Share! – tag @wnytrashmob or email photos to wnytrashmob@gmail.com
+2. Photograph trash and/or your team
+3. Share! – tag [@wnytrashmob](https://www.instagram.com/wnytrashmob/) or email photos to
+   [wnytrashmob@communitycanvases.org](mailto:wnytrashmob@communitycanvases.org)
 4. Submit your cleaning data 
 * Who can get involved – Anyone! Neighbors Businesses, Block Clubs, Community Groups, Individuals, Legislators, Volunteer Groups, City Officials, Schools, etc.
 
