@@ -18,6 +18,10 @@ header:
 4. Submit your cleaning data 
 * Who can get involved – Anyone! Neighbors Businesses, Block Clubs, Community Groups, Individuals, Legislators, Volunteer Groups, City Officials, Schools, etc.
 
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/earthday2024.1.png" alt="Earth Day Clean Up Contest">
+  <figcaption></figcaption>
+</figure> 
 
 {% comment %}
 For **Earth Day Clean Up Leads**, please complete this [brief form](https://docs.google.com/forms/d/1ODdmXxsEYlzhiEzrQ24ySdbgjN8TrVhowKREwI6osvw/viewform){: .btn .btn--success} to share cleanup data with City of Buffalo
