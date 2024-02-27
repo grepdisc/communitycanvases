@@ -9,7 +9,7 @@ header:
 
 # Earth Day Clean Up Challenge 2024 
 
-* Register your team
+* Register your team (below)
 * *Rules:*
 1. Clean
 2. Photograph trash and/or your team
