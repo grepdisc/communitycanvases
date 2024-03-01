@@ -12,14 +12,20 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Earth Day Clean Up Challenge 2024** [Details/Sign-up](
+**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
     /earthday2024/){: .btn .btn--success}<br>
-**Live Band tonight!** Community Swing 6pm to 9pm every Wednesday [Details](
+Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-WRITE ON! workshop at 1pm March 7th at Masten Resource Center [Info/Sign-up](
+WRITE ON! workshops at March 7th, 12th and 28th [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
+**"Heavy" Reflections** part of the Civil Writes Project
+   [Learn More](https://kindfools.org/heavyreflections/){: .btn .btn--info}<br>
+WNY Trash Mob's **Advisory Board Interest Form** [Details](
+    https://docs.google.com/forms/d/e/1FAIpQLSdEl97wl8-2h3utgQFutv624b2_dMh0bYoFICap5twcbq7ZXw/viewform?usp=sf_link   
+){: .btn .btn--info}<br>
+
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
