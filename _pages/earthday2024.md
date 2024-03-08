@@ -19,7 +19,7 @@ header:
 * Who can get involved – Anyone! Neighbors Businesses, Block Clubs, Community Groups, Individuals, Legislators, Volunteer Groups, City Officials, Schools, etc.
 
 <figure style="max-width: 540px" class="align-center">
-  <img src="/assets/images/posters/earthday2024.1.png" alt="Earth Day Clean Up Contest">
+  <img src="/assets/images/posters/earthday2024.2.jpg" alt="Earth Day Clean Up Contest">
   <figcaption></figcaption>
 </figure> 
 
