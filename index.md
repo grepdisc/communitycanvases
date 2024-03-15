@@ -18,10 +18,10 @@ Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-WRITE ON! workshops at 6pm on March 12th and 28th [Info/Sign-up](
+WRITE ON! 6pm 28th at Indigo House [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
-   [Learn More](https://kindfools.org/heavyreflections/){: .btn .btn--info}<br>
+   [Apply by March 22](https://kindfools.org/heavyreflections/){: .btn .btn--info}<br>
 WNY Trash Mob's **Advisory Board Interest Form** [Details](
     https://docs.google.com/forms/d/e/1FAIpQLSdEl97wl8-2h3utgQFutv624b2_dMh0bYoFICap5twcbq7ZXw/viewform?usp=sf_link   
 ){: .btn .btn--info}<br>
