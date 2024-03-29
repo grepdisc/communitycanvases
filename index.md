@@ -18,7 +18,7 @@ Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-WRITE ON! 6pm 28th at Indigo House [Info/Sign-up](
+WRITE ON! 6pm April 9th on Zoom [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Apply by March 22](https://kindfools.org/heavyreflections/){: .btn .btn--info}<br>
