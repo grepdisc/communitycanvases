@@ -12,7 +12,8 @@ author_profile: false
 
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-- WRITE ON! workshop at 6pm March 28th at Indigo House [Info/Sign-up](
+
+- WRITE ON! 6pm May 2nd at CAO's Masten Resource Center [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 
 ## Event Calendar
@@ -24,6 +25,8 @@ author_profile: false
 </div>
 
 ## Past Events
+
+- WRITE ON! workshop at 6pm March 28th at Indigo House
 
 - WRITE ON! workshop at 6pm March 12th at Unitarian Universalist Church of Buffalo
 
