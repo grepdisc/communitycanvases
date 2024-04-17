@@ -29,11 +29,19 @@ header:
 
 Here is a partial list of registered cleanups in chronological order of cleanup time. If you don't see your cleanup here, or if you want changes made to the listing, please reach out at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob@communitycanvases.org) or [(716) 259-2725](tel:7162592725)
 
+### Friday
+
 **Name:** eco_logic STUDIO
 <br>**Date:** Friday, April 19, 2024
 <br>**Time:** 1:00pm to 5:00pm
 <br>**Location:** Jesse Kregal pathway from Peter St. to the Black Rock Canal and back
 
+### Saturday
+
+**Name:** galleries NFS
+<br>**Date:** Saturday, April 20, 2024
+<br>**Time:** 7:00am (and again Monday 4/22 at 4:45pm)
+<br>**Location:** 3-points (19th & Hampshire/Ferry), Buffalo NY 14213
 
 **Name:** Concordia Cemetery Volunteers
 <br>**Date:** Saturday, April 20, 2024
@@ -70,10 +78,15 @@ Here is a partial list of registered cleanups in chronological order of cleanup 
 <br>**Location:** West Buffalo Charter School at 113 Lafayette Avenue Buffalo, NY 14213
 <br>**Description:** Join us for a fun-filled day of community clean up on Buffalo's westside and blocks surrounding 5 Loaves Farm! [Signup on Eventbrite](https://www.eventbrite.com/e/trash-mob-westside-community-clean-up-with-the-dewitt-street-block-club-tickets-812620398487).
 
+**Name:** Global Youth Leaders from Buffalo State University 
+<br>**Date:** Saturday, April 20, 2024
+<br>**Time:** 10:00am to 12:00pm
+<br>**Location:** Riverside Park near the baseball field.
+
 **Name:** East Side Stewards - Open Buffalo
 <br>**Date:** Saturday, April 20, 2024
 <br>**Time:** 12:00pm to 4:00pm
-<br>**Location:** 91 Winslow (CS53 Outdoor Classroom) and surrounding neighborhoods 
+<br>**Location:** 91 Winslow (CS53 Outdoor Classroom) and surrounding neighborhoods
 <br>**Description:** Please reach out to Tendaji Ya'Ukuu <[tendaji@openbuffalo.org](mailto:tendaji@openbuffalo.org)>
 
 **Name:** Arkansas Community Block Club Clean Up
@@ -81,11 +94,38 @@ Here is a partial list of registered cleanups in chronological order of cleanup 
 <br>**Time:** 4:00pm to 6:30pm
 <br>**Location:** Supply Pick Up @ 49 Barton St
 
+### Sunday
+
+**Name:** SheConnects
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 11:00am - 1:00pm
+<br>**Location:** 670 Riley Street, Buffalo
+<br>**Description:** We'll have gloves and garbage bags to fill.
+Please dress for the weather and feel free to bring brooms or tools to help tidy up the areas around 670 Riley and Fillmore! Contact [Dotty@ohgoodiebags@gmail.com](mailto:Dotty@ohgoodiebags@gmail.com) with questions
+
+**Name:** A group of neighbors
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 11:00am - 1:00pm
+<br>**Location:** Village of Kenmore - Gazebo in front of Spot Coffee
+
 **Name:** Buffalo State Psychology Club
 <br>**Date:** Sunday, April 21, 2024
 <br>**Time:** 1:00pm to 4:00pm
 <br>**Location:** Buffalo State - front steps of Rockwell Hall
 <br>**Description:** We will meet and head to Elmwood/Delaware Park to clean
+
+### Monday
+
+**Name:** Restoration Society
+<br>**Date:** Monday, April 22, 2024
+<br>**Time:** 9:00am
+<br>**Location:** 586 Genessee Street, Buffalo, NY 14204
+
+**Name:** WNY Ignite Planet Fitness
+<br>**Date:** Monday, April 22, 2024
+<br>**Time:** 10:00am - 2:00pm
+<br>**Location:** Planet Fitness 100 Thruway Plaza Drive, Cheektowaga
+<br>**Description:** Planet Fitness of Western, NY supports the environment and communities in which they serve.
 
 **Name:** Buffalo Maritime Center
 <br>**Date:** Monday, April 22, 2024
@@ -99,6 +139,12 @@ Here is a partial list of registered cleanups in chronological order of cleanup 
 <br>**Time:** 9:30am to 12:30pm
 <br>**Location:**
 <br>**Description:**
+
+**Name:** 
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 
+<br>**Location:** 
+<br>**Description:** 
 
 For **Earth Day Clean Up Leads**, please complete this [brief form](https://docs.google.com/forms/d/1ODdmXxsEYlzhiEzrQ24ySdbgjN8TrVhowKREwI6osvw/viewform){: .btn .btn--success} to share cleanup data with City of Buffalo
 {: .notice--info .maxwidthbox .align-center}
