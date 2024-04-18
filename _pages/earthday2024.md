@@ -66,6 +66,12 @@ Here is a partial list of registered cleanups in chronological order of cleanup 
 <br>**Time:** 10:00am to 12:00pm
 <br>**Location:** In front of Polish Cadets parking lot 
 
+**Name:** Masten District Earth Day Clean Up Event
+<br>**Date:** Saturday April 20, 2024
+<br>**Time:** 10:00am to 2:00pm
+<br>**Location:** Start at 81 Hughes Ave, 877 E. Delavan Ave and 995 Kensington Ave, then teams will disperse district wide. After2:00pm, networking luncheon at Canisius University Student Center, 81 Hughes Ave
+<br>**Description:** Please register for this cleanup at [https://forms.gle/DmJufaLV3QgPFzBq9](https://forms.gle/DmJufaLV3QgPFzBq9)
+
 **Name:** Seneca Babcock Community Block Club
 <br>**Date:** Saturday April 20, 2024
 <br>**Time:** 10:00am to 2:00pm
@@ -114,9 +120,14 @@ Please dress for the weather and feel free to bring brooms or tools to help tidy
 <br>**Location:** Buffalo State - front steps of Rockwell Hall
 <br>**Description:** We will meet and head to Elmwood/Delaware Park to clean
 
+**Name:** Clean-up the Block
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 2:00pm to 4:00pm
+<br>**Location:** Masten Park
+
 ### Monday
 
-**Name:** Restoration Society
+**Name:** Restoration Society, Inc
 <br>**Date:** Monday, April 22, 2024
 <br>**Time:** 9:00am
 <br>**Location:** 586 Genessee Street, Buffalo, NY 14204
@@ -131,6 +142,12 @@ Please dress for the weather and feel free to bring brooms or tools to help tidy
 <br>**Date:** Monday, April 22, 2024
 <br>**Time:** 3:00pm to 5:00pm
 <br>**Location:** 90 Arthur St., Buffalo, NY 14207
+
+**Name:** Journey's End
+<br>**Date:** Monday, April 22, 2024
+<br>**Time:** 3:00pm to 5:00pm
+<br>**Location:** Clean up outside around the Tri-Main Center
+<br>**Description:** Meet at 2495 Main Street, Suite 530, Buffalo, NY 14214
 
 
 {% comment %}
