@@ -12,8 +12,8 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
-    /earthday2024/){: .btn .btn--success}<br>
+**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [All the Details](
+    /earthday2024/){: .btn .btn--large .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
