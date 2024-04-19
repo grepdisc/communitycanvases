@@ -9,6 +9,8 @@ header:
 
 # Earth Day Clean Up Challenge 2024 
 
+* **Available Clean Up Locations Listed Below**
+
 * Register your team/cleanup [SIGN UP HERE](
     https://docs.google.com/forms/d/e/1FAIpQLScr0AH0bQpF71PHFFxlK2trt3Z0YBpz0iGTUJYyNyvbALmW8w/viewform
 ){: .btn .btn--success}
@@ -69,7 +71,7 @@ Here is a partial list of registered cleanups in chronological order of cleanup 
 **Name:** Masten District Earth Day Clean Up Event
 <br>**Date:** Saturday April 20, 2024
 <br>**Time:** 10:00am to 2:00pm
-<br>**Location:** Start at 81 Hughes Ave, 877 E. Delavan Ave and 995 Kensington Ave, then teams will disperse district wide. After2:00pm, networking luncheon at Canisius University Student Center, 81 Hughes Ave
+<br>**Location:** Start at 81 Hughes Ave, 877 E. Delavan Ave and 995 Kensington Ave, then teams will disperse district wide. After 2:00pm, networking luncheon at Canisius University Student Center, 81 Hughes Ave
 <br>**Description:** Please register for this cleanup at [https://forms.gle/DmJufaLV3QgPFzBq9](https://forms.gle/DmJufaLV3QgPFzBq9)
 
 **Name:** Seneca Babcock Community Block Club
@@ -119,6 +121,12 @@ Please dress for the weather and feel free to bring brooms or tools to help tidy
 <br>**Date:** Sunday, April 21, 2024
 <br>**Time:** 11:00am - 1:00pm
 <br>**Location:** Village of Kenmore - Gazebo in front of Spot Coffee
+
+**Name:** Campus Wheelworks
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 11:00am - 2:00pm
+<br>**Location:** Campus Wheelworks 1330 Niagara St., Buffalo, NY 14213
+<br>**Description:** Cycle Track cleanup to help keep our bike infrastructre functional and clean!
 
 **Name:** Buffalo State Psychology Club
 <br>**Date:** Sunday, April 21, 2024
