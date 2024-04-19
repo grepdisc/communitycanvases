@@ -95,6 +95,12 @@ Here is a partial list of registered cleanups in chronological order of cleanup 
 <br>**Location:** 91 Winslow (CS53 Outdoor Classroom) and surrounding neighborhoods
 <br>**Description:** Please reach out to Tendaji Ya'Ukuu <[tendaji@openbuffalo.org](mailto:tendaji@openbuffalo.org)>
 
+**Name:** 14 Mafia Cleanup with Clubhouse Buffalo
+<br>**Date:** Saturday, April 20, 2024
+<br>**Time:** 12:00pm to 4:00pm
+<br>**Location:** 66 Englewood Ave 
+<br>**Description:** We're challenging all artists and creators to go outside this weekend and help make our city a little bit better! Please dress comfortably and warmly.
+
 **Name:** Arkansas Community Block Club Clean Up
 <br>**Date:** Saturday, April 20, 2024
 <br>**Time:** 4:00pm to 6:30pm
