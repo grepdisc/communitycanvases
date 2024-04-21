@@ -1,6 +1,6 @@
 ---
 permalink: /earthday2024/
-title: "Earth Day 2024 Sign Up"
+title: "Earth Day 2024"
 layout: splash
 author_profile: false
 header:
