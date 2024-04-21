@@ -11,9 +11,6 @@ header:
 
 * **Available Clean Up Locations Listed Below**
 
-* Register your team/cleanup [SIGN UP HERE](
-    https://docs.google.com/forms/d/e/1FAIpQLScr0AH0bQpF71PHFFxlK2trt3Z0YBpz0iGTUJYyNyvbALmW8w/viewform
-){: .btn .btn--success}
 * *Rules:*
 1. Clean
 2. Photograph trash and/or your team
@@ -22,45 +19,16 @@ header:
 4. Submit your cleaning data 
 * Who can get involved – Anyone! Neighbors Businesses, Block Clubs, Community Groups, Individuals, Legislators, Volunteer Groups, City Officials, Schools, etc.
 
-<figure style="max-width: 540px" class="align-center">
-  <img src="/assets/images/posters/earthday2024.3.jpg" alt="Earth Day Clean Up Contest">
-  <figcaption></figcaption>
-</figure> 
+## Data
+Please remember to submit the DATA form. This brief and simple form provides WNY Trash Mob and our partners
+(e.g., City of Buffalo) data needed to advocate for better waste management.
+[Data Form](https://forms.gle/i1CR68pJMt4kfzue9
+   ){: .btn .btn--large .btn--success} 
+
 
 ## Available Cleanups participating in WNY Trash Mobs' Earth Day Clean Up Challenge 2024 
 
-Here is a partial list of registered cleanups for Sunday and Monday in chronological order of cleanup time. If you don't see your cleanup here, or if you want changes made to the listing, please reach out at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob@communitycanvases.org) or [(716) 259-2725](tel:7162592725)
-
-### Sunday
-
-**Name:** SheConnects
-<br>**Date:** Sunday, April 21, 2024
-<br>**Time:** 11:00am - 1:00pm
-<br>**Location:** 670 Riley Street, Buffalo
-<br>**Description:** We'll have gloves and garbage bags to fill.
-Please dress for the weather and feel free to bring brooms or tools to help tidy up the areas around 670 Riley and Fillmore! Contact [Dotty@ohgoodiebags@gmail.com](mailto:Dotty@ohgoodiebags@gmail.com) with questions
-
-**Name:** A group of neighbors
-<br>**Date:** Sunday, April 21, 2024
-<br>**Time:** 11:00am - 1:00pm
-<br>**Location:** Village of Kenmore - Gazebo in front of Spot Coffee
-
-**Name:** Campus Wheelworks
-<br>**Date:** Sunday, April 21, 2024
-<br>**Time:** 11:00am - 2:00pm
-<br>**Location:** Campus Wheelworks 1330 Niagara St., Buffalo, NY 14213
-<br>**Description:** Cycle Track cleanup to help keep our bike infrastructre functional and clean!
-
-**Name:** Buffalo State Psychology Club
-<br>**Date:** Sunday, April 21, 2024
-<br>**Time:** 1:00pm to 4:00pm
-<br>**Location:** Buffalo State - front steps of Rockwell Hall
-<br>**Description:** We will meet and head to Elmwood/Delaware Park to clean
-
-**Name:** Clean-up the Block
-<br>**Date:** Sunday, April 21, 2024
-<br>**Time:** 2:00pm to 4:00pm
-<br>**Location:** Masten Park
+Here is a partial list of registered cleanups for Monday in chronological order of cleanup time. If you don't see your cleanup here, or if you want changes made to the listing, please reach out at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob@communitycanvases.org) or [(716) 259-2725](tel:7162592725)
 
 ### Monday
 
@@ -68,6 +36,7 @@ Please dress for the weather and feel free to bring brooms or tools to help tidy
 <br>**Date:** Monday, April 22, 2024
 <br>**Time:** 9:00am
 <br>**Location:** 586 Genessee Street, Buffalo, NY 14204
+<br>**Details:** Show up or reach out to Neal at <[cdelaney@rsiwny.org](mailto:cdelaney@rsiwny.org)>
 
 **Name:** WNY Ignite Planet Fitness
 <br>**Date:** Monday, April 22, 2024
@@ -86,6 +55,11 @@ Please dress for the weather and feel free to bring brooms or tools to help tidy
 <br>**Location:** Clean up outside around the Tri-Main Center
 <br>**Description:** Meet at 2495 Main Street, Suite 530, Buffalo, NY 14214
 
+
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/earthday2024.3.jpg" alt="Earth Day Clean Up Contest">
+  <figcaption></figcaption>
+</figure> 
 
 ## List of Completed Cleanups that participated in WNY Trash Mobs' Earth Day Clean Up Challenge 2024 
 
@@ -168,6 +142,37 @@ Here is a partial list of registered cleanups from 2024.
 <br>**Time:** 4:00pm to 6:30pm
 <br>**Location:** Supply Pick Up @ 49 Barton St
 
+### Sunday
+
+**Name:** SheConnects
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 11:00am - 1:00pm
+<br>**Location:** 670 Riley Street, Buffalo
+<br>**Description:** We'll have gloves and garbage bags to fill.
+Please dress for the weather and feel free to bring brooms or tools to help tidy up the areas around 670 Riley and Fillmore! Contact [Dotty@ohgoodiebags@gmail.com](mailto:Dotty@ohgoodiebags@gmail.com) with questions
+
+**Name:** A group of neighbors
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 11:00am - 1:00pm
+<br>**Location:** Village of Kenmore - Gazebo in front of Spot Coffee
+
+**Name:** Campus Wheelworks
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 11:00am - 2:00pm
+<br>**Location:** Campus Wheelworks 1330 Niagara St., Buffalo, NY 14213
+<br>**Description:** Cycle Track cleanup to help keep our bike infrastructre functional and clean!
+
+**Name:** Buffalo State Psychology Club
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 1:00pm to 4:00pm
+<br>**Location:** Buffalo State - front steps of Rockwell Hall
+<br>**Description:** We will meet and head to Elmwood/Delaware Park to clean
+
+**Name:** Clean-up the Block
+<br>**Date:** Sunday, April 21, 2024
+<br>**Time:** 2:00pm to 4:00pm
+<br>**Location:** Masten Park
+
 
 {% comment %}
 **Name:**
@@ -205,6 +210,9 @@ For **Earth Day Clean Up Leads**, please complete this [brief form](https://docs
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScr0AH0bQpF71PHFFxlK2trt3Z0YBpz0iGTUJYyNyvbALmW8w/viewform?embedded=true&usp=pp_url" width="100%" height="2800" frameborder="0" marginheight="0" marginwidth="0" onload = "window.parent.scrollTo(0,0)">Loading…</iframe>
 
+* Register your team/cleanup [SIGN UP HERE](
+    https://docs.google.com/forms/d/e/1FAIpQLScr0AH0bQpF71PHFFxlK2trt3Z0YBpz0iGTUJYyNyvbALmW8w/viewform
+){: .btn .btn--success}
 {% endcomment %}
 
 
