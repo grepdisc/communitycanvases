@@ -9,8 +9,6 @@ header:
 
 # Earth Day Clean Up Challenge 2024 
 
-* **Available Clean Up Locations Listed Below**
-
 * *Rules:*
 1. Clean
 2. Photograph trash and/or your team
@@ -25,35 +23,10 @@ Please remember to submit the DATA form. This brief and simple form provides WNY
 [Data Form](https://forms.gle/i1CR68pJMt4kfzue9
    ){: .btn .btn--large .btn--success} 
 
+## Thank you
 
-## Available Cleanups participating in WNY Trash Mobs' Earth Day Clean Up Challenge 2024 
-
-Here is a partial list of registered cleanups for Monday in chronological order of cleanup time. If you don't see your cleanup here, or if you want changes made to the listing, please reach out at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob@communitycanvases.org) or [(716) 259-2725](tel:7162592725)
-
-### Monday
-
-**Name:** Restoration Society, Inc
-<br>**Date:** Monday, April 22, 2024
-<br>**Time:** 9:00am
-<br>**Location:** 586 Genessee Street, Buffalo, NY 14204
-<br>**Details:** Show up or reach out to Neal at <[cdelaney@rsiwny.org](mailto:cdelaney@rsiwny.org)>
-
-**Name:** WNY Ignite Planet Fitness
-<br>**Date:** Monday, April 22, 2024
-<br>**Time:** 10:00am - 2:00pm
-<br>**Location:** Planet Fitness 100 Thruway Plaza Drive, Cheektowaga
-<br>**Description:** Planet Fitness of Western, NY supports the environment and communities in which they serve.
-
-**Name:** Buffalo Maritime Center
-<br>**Date:** Monday, April 22, 2024
-<br>**Time:** 3:00pm to 5:00pm
-<br>**Location:** 90 Arthur St., Buffalo, NY 14207
-
-**Name:** Journey's End
-<br>**Date:** Monday, April 22, 2024
-<br>**Time:** 3:00pm to 5:00pm
-<br>**Location:** Clean up outside around the Tri-Main Center
-<br>**Description:** Meet at 2495 Main Street, Suite 530, Buffalo, NY 14214
+Thank you to everyone who participated in WNY Trash Mobs' Earth Day Clean Up Challenge 2024 
+n any capacity. We are meeting up this weekend to review all the amazing photos and to assign prizes.
 
 
 <figure style="max-width: 540px" class="align-center">
@@ -172,6 +145,31 @@ Please dress for the weather and feel free to bring brooms or tools to help tidy
 <br>**Date:** Sunday, April 21, 2024
 <br>**Time:** 2:00pm to 4:00pm
 <br>**Location:** Masten Park
+
+### Monday
+
+**Name:** Restoration Society, Inc
+<br>**Date:** Monday, April 22, 2024
+<br>**Time:** 9:00am
+<br>**Location:** 586 Genessee Street, Buffalo, NY 14204
+<br>**Details:** Show up or reach out to Neal at <[cdelaney@rsiwny.org](mailto:cdelaney@rsiwny.org)>
+
+**Name:** WNY Ignite Planet Fitness
+<br>**Date:** Monday, April 22, 2024
+<br>**Time:** 10:00am - 2:00pm
+<br>**Location:** Planet Fitness 100 Thruway Plaza Drive, Cheektowaga
+<br>**Description:** Planet Fitness of Western, NY supports the environment and communities in which they serve.
+
+**Name:** Buffalo Maritime Center
+<br>**Date:** Monday, April 22, 2024
+<br>**Time:** 3:00pm to 5:00pm
+<br>**Location:** 90 Arthur St., Buffalo, NY 14207
+
+**Name:** Journey's End
+<br>**Date:** Monday, April 22, 2024
+<br>**Time:** 3:00pm to 5:00pm
+<br>**Location:** Clean up outside around the Tri-Main Center
+<br>**Description:** Meet at 2495 Main Street, Suite 530, Buffalo, NY 14214
 
 
 {% comment %}
