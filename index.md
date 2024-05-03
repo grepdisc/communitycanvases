@@ -12,24 +12,28 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [All the Details](
-    /earthday2024/){: .btn .btn--large .btn--success}<br>
-All Groups, **please complete WNY Trash Mob** [Data Form](https://forms.gle/i1CR68pJMt4kfzue9
-   ){: .btn .btn--success}<br>
+**WRITE ON! May 9th at 1:00pm** at Masten Resource Center [Info/Sign-up](
+    /writeon/){: .btn .btn--success}<br>
+**Kind Conversations May 14th at 6:00pm** [Info/Sign-up](
+    /kindconversations/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
+**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [All the Details](
+    /earthday2024/){: .btn .btn--info}<br>
+All Groups, **please complete WNY Trash Mob** [Data Form](https://forms.gle/i1CR68pJMt4kfzue9
+   ){: .btn .btn--info}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Info](https://kindfools.org/heavyreflections/){: .btn .btn--info}<br>
-WNY Trash Mob's **Advisory Board Interest Form** [Details](
-    https://docs.google.com/forms/d/e/1FAIpQLSdEl97wl8-2h3utgQFutv624b2_dMh0bYoFICap5twcbq7ZXw/viewform?usp=sf_link   
-){: .btn .btn--info}<br>
 
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+WNY Trash Mob's **Advisory Board Interest Form** [Details](
+    https://docs.google.com/forms/d/e/1FAIpQLSdEl97wl8-2h3utgQFutv624b2_dMh0bYoFICap5twcbq7ZXw/viewform?usp=sf_link   
+){: .btn .btn--info}<br>
 WRITE ON! 6pm April 9th on Zoom [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--info}<br>
 **Community Swing** at 6pm on Jan 31st (live band) [Details](
