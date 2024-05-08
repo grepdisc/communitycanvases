@@ -13,9 +13,9 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 **WRITE ON! May 9th at 1:00pm** at Masten Resource Center [Info/Sign-up](
-    /writeon/){: .btn .btn--success}<br>
+    https://kindfools.org/writeon/){: .btn .btn--success}<br>
 **Kind Conversations May 14th at 6:00pm** [Info/Sign-up](
-    /kindconversations/){: .btn .btn--success}<br>
+    https://kindfools.org/kindconversations/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
