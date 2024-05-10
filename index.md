@@ -12,18 +12,20 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! May 9th at 1:00pm** at Masten Resource Center [Info/Sign-up](
-    https://kindfools.org/writeon/){: .btn .btn--success}<br>
 **Kind Conversations May 14th at 6:00pm** [Info/Sign-up](
     https://kindfools.org/kindconversations/){: .btn .btn--success}<br>
+**WNY Trash Mob's Grant Street Cleanup May 18th** [Details](
+    /events/cleanup20240518/){: .btn .btn--success}<br>
+**The Woven Event** May 20th at 5:00pm [Info/Sign-up](
+    https://kindfools.org/thewovenevent/){: .btn .btn--info}<br>
+**WRITE ON! May 21st at 6:00pm** at Rise of WNY [Info/Sign-up](
+    https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [All the Details](
     /earthday2024/){: .btn .btn--info}<br>
-All Groups, **please complete WNY Trash Mob** [Data Form](https://forms.gle/i1CR68pJMt4kfzue9
-   ){: .btn .btn--info}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Info](https://kindfools.org/heavyreflections/){: .btn .btn--info}<br>
 
