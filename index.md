@@ -12,8 +12,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Kind Conversations May 14th at 6:00pm** [Info/Sign-up](
-    https://kindfools.org/kindconversations/){: .btn .btn--success}<br>
 **WNY Trash Mob's Grant Street Cleanup May 18th** [Details](
     /events/cleanup20240518/){: .btn .btn--success}<br>
 **The Woven Event** May 20th at 5:00pm [Info/Sign-up](
