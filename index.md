@@ -12,14 +12,12 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**WNY Trash Mob's Grant Street Cleanup May 18th** [Details](
-    /events/cleanup20240518/){: .btn .btn--success}<br>
-**The Woven Event** May 20th at 5:00pm [Info/Sign-up](
-    https://kindfools.org/thewovenevent/){: .btn .btn--info}<br>
 **WRITE ON! May 21st at 6:00pm** at Rise of WNY [Info/Sign-up](
     https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Thank you to everyone who participated in WNY Trash Mob's Grant Street Cleanup May 18th** [Details](
+    /events/cleanup20240518/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [All the Details](
