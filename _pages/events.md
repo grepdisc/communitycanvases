@@ -7,14 +7,11 @@ author_profile: false
 
 ## Upcoming Events
 
-- **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
-    /earthday2024/){: .btn .btn--success}<br>
-
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 
-- WRITE ON! 6pm May 2nd at CAO's Masten Resource Center [Info/Sign-up](
-    https://kindfools.org/writeon/){: .btn .btn--info}<br>
+WNY Trash Mob's **We Love Grant Street** June 22nd [Details](
+    /events/cleanup20240622/){: .btn .btn--info}<br>
 
 ## Event Calendar
 
