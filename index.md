@@ -12,23 +12,20 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**WRITE ON on Tuesday June 11th at 6:00pm**
+**WRITE ON** on Tuesday June 18th at 6:00pm
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 WNY Trash Mob's **We Love Grant Street** June 22nd [Details](
-    /events/cleanup20240622/){: .btn .btn--info}<br>
-Thank you to everyone who participated in WNY Trash Mob's Grant Street Cleanup May 18th [Details](
-    /events/cleanup20240518/){: .btn .btn--info}<br>
-Signal Box Art Project [Info/Application](
-    /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-WRITE ON! [Info](
-    https://kindfools.org/writeon/){: .btn .btn--success}<br>
-**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [All the Details](
-    /earthday2024/){: .btn .btn--info}<br>
+    /events/cleanup20240622/){: .btn .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project - June 22nd Celebration
    [Info](https://kindfools.org/heavyreflections/){: .btn .btn--info}<br>
-
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Signal Box Art Project [Info/Application](
+    /signalboxes/northbuffalo/){: .btn .btn--info}<br>
+Thank you to everyone who participated in WNY Trash Mob's Grant Street Cleanup May 18th [Details](
+    /events/cleanup20240518/){: .btn .btn--info}<br>
+**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [All the Details](
+    /earthday2024/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
