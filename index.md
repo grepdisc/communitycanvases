@@ -14,6 +14,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Find our activity table at Taste of Diversity 12pm June 29th on Grant near Auburn Ave<br>
 **WRITE ON** on Thursday July 11th at 6:00pm
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
