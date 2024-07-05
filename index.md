@@ -14,8 +14,12 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Find our activity table at Taste of Diversity 12pm June 29th on Grant near Auburn Ave<br>
-**WRITE ON** on Thursday July 11th at 6:00pm
+**WRITE ON** on Thursday July 11th at 1:00pm
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Find our activity table at [716 CommUNITY Day](
+    https://www.eventbrite.com/e/716-community-day-tickets-884416271877
+) in MLK Park<br>
+**WRITE ON** on Tuesday July 23rd at 6:00pm
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
