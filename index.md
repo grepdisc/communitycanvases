@@ -14,8 +14,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**WRITE ON** on Thursday July 11th at 1:00pm
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Find our activity table at [716 CommUNITY Day](
     https://www.eventbrite.com/e/716-community-day-tickets-884416271877
 ) in MLK Park<br>
