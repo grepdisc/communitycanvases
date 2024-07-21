@@ -14,9 +14,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Find our activity table at [716 CommUNITY Day](
-    https://www.eventbrite.com/e/716-community-day-tickets-884416271877
-) in MLK Park<br>
 **WRITE ON** on Tuesday July 23rd at 6:00pm
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
@@ -25,6 +22,9 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Find our activity table at [716 CommUNITY Day](
+    https://www.eventbrite.com/e/716-community-day-tickets-884416271877
+) in MLK Park<br>
 WNY Trash Mob's **We Love Grant Street** 10am June 22nd [Details](
     /events/cleanup20240622/){: .btn .btn--large .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project - 1pm June 22nd Celebration
