@@ -14,7 +14,11 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**WRITE ON** on Tuesday July 23rd at 6:00pm
+**WRITE ON - Home** writing in your native language (7/30 & 8/13)
+    [Sign Up/Info](https://kindfools.org/home/){: .btn .btn--success}<br>
+**Kind Conversations August 8th** [Info/Sign-up](
+    https://kindfools.org/kindconversations/){: .btn .btn--success}<br>
+**WRITE ON on Tuesday August 20th at 6:00pm**
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
