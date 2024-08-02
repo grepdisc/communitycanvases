@@ -9,9 +9,15 @@ author_profile: false
 
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+- Kind Conversations August 8th [Info/Sign-up](
+    https://kindfools.org/kindconversations/){: .btn .btn--success}<br>
+- "WRITE ON - Home" writing in your native language - Aug 13th
+    [Sign Up/Info](https://kindfools.org/home/){: .btn .btn--success}<br>
+- WRITE ON on Tuesday August 20th at 6:00pm
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+- Community Swing - Celebration August 28th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 
-WNY Trash Mob's **We Love Grant Street** June 22nd [Details](
-    /events/cleanup20240622/){: .btn .btn--info}<br>
 
 ## Event Calendar
 
@@ -23,6 +29,8 @@ WNY Trash Mob's **We Love Grant Street** June 22nd [Details](
 
 ## Past Events
 
+- WNY Trash Mob's We Love Grant Street June 22nd [Details](
+    /events/cleanup20240622/){: .btn .btn--info}<br>
 - WRITE ON! workshop at 6pm March 28th at Indigo House
 
 - WRITE ON! workshop at 6pm March 12th at Unitarian Universalist Church of Buffalo
