@@ -21,19 +21,8 @@
     volunteering for our local
     community because of his belief that everyone can make it better.
 
-- name: Alisha Collins
-  role: Member
-  bio: |
-    Alisha is a brand and digital design strategist. She started
-    <a href='https://www.instagram.com/befemmefinesse/'>Be Femme Fitness</a>,
-    an organization that educates, promotes, inspires and creates oppHERtunities
-    for diverse female entrepreneurs. She manages the
-    <a href='https://thelishagency.myportfolio.com'>Lish Agency</a>
-    and the brand
-    <a href='https://cafeczen.com'>Cafe+CZEN</a>.
-
 - name: Lourdes Vera
-  role: Member
+  role: Secretary
   bio: |
     Dr. Lourdes Vera is Assistant Professor in the Departments of Sociology
     and Environment & Sustainability at SUNY University at Buffalo. She holds
@@ -45,6 +34,27 @@
     and building digital tools and research infrastructures for environmental
     data justice. Her interdisciplinary work spans environmental health, social
     science, and critical theory.
+
+- name: Alisha Collins
+  role: Member
+  bio: |
+    Alisha is a brand and digital design strategist. She started
+    <a href='https://www.instagram.com/befemmefinesse/'>Be Femme Fitness</a>,
+    an organization that educates, promotes, inspires and creates oppHERtunities
+    for diverse female entrepreneurs. She manages the
+    <a href='https://thelishagency.myportfolio.com'>Lish Agency</a>
+    and the brand
+    <a href='https://cafeczen.com'>Cafe+CZEN</a>.
+
+- name: Jalen Law
+  role: Member
+  bio: |
+    Bio under construction.
+
+- name: Jenna Brinkworth
+  role: Member
+  bio: |
+    Bio under construction.
 
 - name: Julianna Casella
   role: Member
@@ -80,12 +90,4 @@
     mother's experience as a victim of a terrorist attack. Through unwavering
     resilience, determination, and a strong dedication to social justice,
     Mark's efforts have a profound and enduring impact in the ongoing fight against
-    injustice and inequality.
-
-- name: Marshall Bertram
-  role: Member
-  bio: |
-    Marshall earned his JD at UB and has worked extensively in labor law and with
-    union contracts. He is a member of the NYS Bar and of the National Lawyers Guild.
-    Marshall serves as a Board member of the WNY Law Center, to assure that all members
-    of our community receive the full range of legal services.
+    injustice and inequality.<br>
