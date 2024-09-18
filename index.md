@@ -12,18 +12,22 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Our partner - **Recovery Stories at 5:30pm September 16th** [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
-**Party in the Park** - Saturday September 7th [Details]( 
-    /events/partyinthepark20240907/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+**WRITE ON September 24th**
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Community Swing - Celebration September 25th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **WRITE ON - Home** writing in your native language
     [Details](https://kindfools.org/home/){: .btn .btn--info}<br>
+**The Home Within** Language Justice Performance
+    [Details](https://www.facebook.com/events/1058078788608399){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
+**Party in the Park** was Saturday September 7th [Details]( 
+    /events/partyinthepark20240907/){: .btn .btn--success}<br>
+Our partner - **Recovery Stories at 5:30pm October 28th** [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
