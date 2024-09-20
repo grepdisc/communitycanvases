@@ -15,7 +15,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **WRITE ON September 24th**
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing - Celebration September 25th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **WRITE ON - Home** writing in your native language
