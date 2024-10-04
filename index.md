@@ -12,7 +12,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON October 3rd & 15th**
+**WRITE ON October 15th & 19th**
     [Details](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 **The Home Within** October 10th Language Justice Performance
     [Details](https://www.facebook.com/events/1058078788608399){: .btn .btn--info}<br>
