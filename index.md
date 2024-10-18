@@ -12,7 +12,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Community Canvases **Pumpkin Carving & Film** October 18th
+Community Canvases **Pumpkin Carving & Film** TODAY October 18th
     [Tickets](https://www.chateaubuffalo.com/suite-16-cinema-series){: .btn .btn--large .btn--success}<br>
 WNY Trash Mob **Grant St Cleanup Up** October 19th
     [Details](/events/cleanup20241019/){: .btn .btn--success}<br>
