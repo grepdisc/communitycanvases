@@ -12,17 +12,15 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Our partner - **Recovery Stories at 5:30pm October 28th** [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
-Community Swing 6pm to 9pm every Wednesday - Live Band October 30th [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 WRITE ON November 12th at Rise of WNY 
     [RSVP](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 **Party in the Park** was Saturday September 7th [Details]( 
     /events/partyinthepark20240907/){: .btn .btn--info}<br>
-**The Home Within** October 10th Language Justice Performance
+**The Home Within** was October 10th Language Justice Performance
     [Details](https://www.facebook.com/events/1058078788608399){: .btn .btn--success}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
