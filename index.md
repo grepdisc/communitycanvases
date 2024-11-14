@@ -12,8 +12,11 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-WRITE ON November 12th at Rise of WNY 
-    [RSVP](https://kindfools.org/writeon/){: .btn .btn--info}<br>
+**The Colors of Truth - Saturday, November 16th** at 1pm at [GSNC](
+    https://www.pushbuffalo.org/gsnc/)
+    [Details/Register](https://kindfools.org/colorsoftruth/){: .btn .btn--large .btn--success}<br>
+**WRITE ON - November 26th** at 6pm at UUCB
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
