@@ -12,7 +12,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**Giving Tuesday** [Donate Today](/donate/
+**Giving Tuesday** [Donate This Week](/donate/
     ){: .btn .btn--success .btn--large}<br>
 **WRITE ON - December 12th** at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
