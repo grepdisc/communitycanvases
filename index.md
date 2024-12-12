@@ -12,7 +12,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON - December 12th** at 1pm at Merriweather Library
+**WRITE ON - December 12th** at 1pm ~~at Merriweather Library~~ on Zoom
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
