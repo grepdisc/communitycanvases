@@ -12,12 +12,18 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
+
+Community Swing featuring [Cami Clune](https://camiclune.com
+    ) Wednesday, January 29th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **WRITE ON - January 9th** at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm January 13th** [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+**WRITE ON - January 16th** at 7pm at Burning Books
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 **Party in the Park** was Saturday September 7th [Details]( 
