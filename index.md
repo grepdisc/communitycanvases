@@ -20,7 +20,7 @@ Community Swing 6pm to 9pm every Wednesday [Details](
 Our partner - **Recovery Stories at 5:30pm February 10th** [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 **WRITE ON - February 13th** at 1pm at Merriweather Library
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 **Party in the Park** was Saturday September 7th [Details]( 
