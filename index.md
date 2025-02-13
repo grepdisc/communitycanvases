@@ -13,14 +13,14 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**WRITE ON - February 4th** at 6pm at Rise of WNY
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-Our partner - **Recovery Stories at 5:30pm February 10th** [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 **WRITE ON - February 13th** at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+**WRITE ON - February 25th** at 6pm at King Urban Life Center
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Our partner - **Recovery Stories at 5:30pm March 17th** [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 **Party in the Park** was Saturday September 7th [Details]( 
