@@ -48,6 +48,7 @@ the process of reaching out to the teams and people who tagged us or emailed pho
 to distribute prizes.
 
 
+{% comment %}
 <figure style="max-width: 540px" class="align-center">
   <img src="/assets/images/posters/earthday2024.3.jpg" alt="Earth Day Clean Up Contest">
   <figcaption></figcaption>
@@ -191,7 +192,6 @@ Please dress for the weather and feel free to bring brooms or tools to help tidy
 <br>**Description:** Meet at 2495 Main Street, Suite 530, Buffalo, NY 14214
 
 
-{% comment %}
 **Name:**
 <br>**Date:** Saturday, April 20, 2024
 <br>**Time:** 9:30am to 12:30pm
