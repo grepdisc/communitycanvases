@@ -43,9 +43,8 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 ## Thank you
 
 Thank you to everyone who participated in WNY Trash Mobs' Earth Day Clean Up Challenge 2024
-in any capacity. We have reviewed the amazing photos and assigned prizes. We are in
-the process of reaching out to the teams and people who tagged us or emailed photos
-to distribute prizes.
+in any capacity. We reviewed the amazing photos and assigned prizes. We have delivered 
+prizes to many of the teams and people who tagged us or emailed photos. Thank you for inspiring your neighbors to care to clean!
 
 
 {% comment %}
@@ -232,9 +231,6 @@ For **Earth Day Clean Up Leads**, please complete this [brief form](https://docs
 ){: .btn .btn--success}
 
 {% endcomment %}
-
-### Questions?
-Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob@communitycanvases.org) or [(716) 259-2725](tel:7162592725)
 
 {% comment %}
 ## Data
