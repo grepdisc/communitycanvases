@@ -13,14 +13,19 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+**WNY Trash Mob's Earth Day Clean Up Challenge 2025** [All the Details](
+    /earthday2025/){: .btn .btn--info}<br>
 **WRITE ON - March 13th** at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm March 17th** [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 **WRITE ON - March 25th** at 5pm at Delavan-Grider Community Center
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+**The Moral Imperative** 
+    [Sign Up/Info](https://kindfools.org/moralimperative/){: .btn .btn--success}
+    - before March 28th <br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 **Party in the Park** was Saturday September 7th [Details]( 
