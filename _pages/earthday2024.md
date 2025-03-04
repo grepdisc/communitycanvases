@@ -26,9 +26,7 @@ Please remember to submit the DATA form. This brief and simple form provides WNY
 ## Thank you
 
 Thank you to everyone who participated in WNY Trash Mobs' Earth Day Clean Up Challenge 2024
-in any capacity. We have reviewed the amazing photos and assigned prizes. We are in
-the process of reaching out to the teams and people who tagged us or emailed photos
-to distribute prizes.
+in any capacity. We have reviewed the amazing photos and assigned prizes. We have delivered the prizes to many teams and people who tagged us or emailed photos.
 
 
 <figure style="max-width: 540px" class="align-center">
