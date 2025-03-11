@@ -22,9 +22,6 @@ header:
 
 <iframe src="https://docs.google.com/forms/d/17KyXORsi8Y5ojQqbnVIPYvnaMafL5FsbaXS9nZ4dVuE/viewform?embedded=true&usp=pp_url" width="100%" height="2800" frameborder="0" marginheight="0" marginwidth="0" onload = "window.parent.scrollTo(0,0)">Loading…</iframe>
 
-* Register your team/cleanup [SIGN UP HERE](
-    https://docs.google.com/forms/d/17KyXORsi8Y5ojQqbnVIPYvnaMafL5FsbaXS9nZ4dVuE/viewform
-){: .btn .btn--success}
 
 ### How can I support?
 1. **Join the Cleanup** - grab a bag, clean, and tag! Jurors will select the photos that
