@@ -14,7 +14,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 
 **WNY Trash Mob's Earth Day Clean Up Challenge 2025** [All the Details](
-    /earthday2025/){: .btn .btn--info}<br>
+    /earthday2025/){: .btn .btn--success}<br>
 **WRITE ON - March 13th** at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm March 17th** [Info/Sign-up](
@@ -24,6 +24,8 @@ Our partner - **Recovery Stories at 5:30pm March 17th** [Info/Sign-up](
 **The Moral Imperative** 
     [Sign Up/Info](https://kindfools.org/moralimperative/){: .btn .btn--success}
     - before March 28th <br>
+**Remembering Mickey and Jordan** [Tribute](
+    /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
