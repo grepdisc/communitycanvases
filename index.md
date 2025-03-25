@@ -17,7 +17,7 @@ excerpt: "facilitating community engagement and expression through the arts"
     /earthday2025/){: .btn .btn--success}<br>
 **WRITE ON - March 25th** at 5pm at Delavan-Grider Community Center
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-**Community Swing 6:30pm Wednesday March 26th Swift Kic** [Details](
+**Community Swing 6:30pm Wednesday March 26th Swift Kick** [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **The Moral Imperative** 
     [Sign Up/Info](https://kindfools.org/moralimperative/){: .btn .btn--success}
