@@ -21,7 +21,7 @@ excerpt: "facilitating community engagement and expression through the arts"
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **The Moral Imperative** 
     [Sign Up/Info](https://kindfools.org/moralimperative/){: .btn .btn--success}
-    - before March 28th <br>
+    - before April 2nd <br>
 **A Tribute to Jordan and Mickey** [Tribute](
     /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
