@@ -11,7 +11,7 @@ header:
 
 # *WRITE ON - Home*
 
-*WRITE ON - Home* is a planned offering of Community Canvases' Kind Fools’ [WRITE ON](/writeon/) intuitive writing workshops using the theme of “home” with communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
+*WRITE ON - Home* is a planned offering of Community Canvases' Kind Fools’ [WRITE ON](https://kindfools.org/writeon/) intuitive writing workshops using the theme of “home” with communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
 
 It is our hope to be able to offer these in summer/fall 2025:
 
@@ -79,7 +79,7 @@ community, please reach out to<br>
 [aporter@nyic.org](mailto:aporter@nyic.org) or [(315) 729-2308](tel:3157292308)<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;or to<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Hy Carrel
-at [hy@kindfools.org](mailto:hy@kindfools.org) or [(716) 259-2725](tel:7162592725)
+at [hy@communitycanvases.org](mailto:hy@communitycanvasess.org) or [(716) 259-2725](tel:7162592725)
 
 <br><br>
 
