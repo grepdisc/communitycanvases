@@ -17,10 +17,16 @@ header:
 4. Submit your cleaning data 
 * Who can get involved – Anyone! Neighbors Businesses, Block Clubs, Community Groups, Individuals, Legislators, Volunteer Groups, City Officials, Schools, etc.
 
-### Sign up for an Earth Day cleanup!<br>WNY Trash Mob's Earth Day Clean-up Challenge
+
+### Sign up for an Earth Day cleanup!<br>
+[Register Your Cleanup](
+    https://docs.google.com/forms/d/17KyXORsi8Y5ojQqbnVIPYvnaMafL5FsbaXS9nZ4dVuE/viewform
+){: .btn .btn--large .btn--success}
 {:, .text-center}
 
+{% comment %}
 <iframe src="https://docs.google.com/forms/d/17KyXORsi8Y5ojQqbnVIPYvnaMafL5FsbaXS9nZ4dVuE/viewform?embedded=true&usp=pp_url" width="100%" height="2800" frameborder="0" marginheight="0" marginwidth="0" onload = "window.parent.scrollTo(0,0)">Loading…</iframe>
+{% endcomment %}
 
 
 ### How can I support?
