@@ -1,5 +1,5 @@
 ---
-title: "Remembering Mickey and Jordan"
+title: "A Tribute to Jordan and Mickey"
 
 
 author_profile: false

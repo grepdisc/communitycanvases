@@ -15,29 +15,26 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 **WNY Trash Mob's Earth Day Clean Up Challenge 2025** [All the Details](
     /earthday2025/){: .btn .btn--success}<br>
-**WRITE ON - March 25th** at 5pm at Delavan-Grider Community Center
+Our partner - **Recovery Stories at 5:30pm April 14th** [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
+**WRITE ON - April 17th** at 1pm at Frank E. Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-**Community Swing 6:30pm Wednesday March 26th Swift Kick** [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **The Moral Imperative** 
-    [Sign Up/Info](https://kindfools.org/moralimperative/){: .btn .btn--success}
-    - before April 2nd <br>
+    [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 **A Tribute to Jordan and Mickey** [Tribute](
     /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:30pm April 14th** [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
-**Party in the Park** was Saturday September 7th [Details]( 
-    /events/partyinthepark20240907/){: .btn .btn--info}<br>
-**The Home Within** was October 10th Language Justice Performance
-    [Details](https://www.facebook.com/events/1058078788608399){: .btn .btn--success}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+**Party in the Park** was Saturday September 7th [Details]( 
+    /events/partyinthepark20240907/){: .btn .btn--info}<br>
+**The Home Within** was October 10th Language Justice Performance
+    [Details](https://www.facebook.com/events/1058078788608399){: .btn .btn--success}<br>
 Community Swing 6pm to 9:30pm Robin and the Rubes on Feb 26th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **WRITE ON - January 9th** at 1pm at Merriweather Library
