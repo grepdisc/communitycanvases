@@ -51,7 +51,7 @@ prizes to many of the teams and people who tagged us or emailed photos. Thank yo
 
 
 <figure style="max-width: 540px" class="align-center">
-  <img src="/assets/images/posters/earthday2025.1.jpg" alt="Earth Day Clean Up Contest">
+  <img src="/assets/images/posters/earthday2025.2.png" alt="Earth Day Clean Up Contest">
   <figcaption></figcaption>
 </figure> 
 
