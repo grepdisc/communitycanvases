@@ -45,9 +45,98 @@ header:
 Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob@communitycanvases.org) or [(716) 259-2725](tel:7162592725)
 ## Thank you
 
-Thank you to everyone who participated in WNY Trash Mobs' Earth Day Clean Up Challenge 2024
-in any capacity. We reviewed the amazing photos and assigned prizes. We have delivered 
-prizes to many of the teams and people who tagged us or emailed photos. Thank you for inspiring your neighbors to care to clean!
+## List of  Cleanups that are participating in WNY Trash Mobs' Earth Day Clean Up Challenge 2025
+
+### Tuesday
+
+**Name:** Trinidad Neighborhood Association
+<br>**Date:** Tuesday, April 22, 2025
+<br>**Time:** 9:00am to 12:00pm
+<br>**Cleaning Area:** Trinidad Neighborhood - Hamlin Park
+<br>**Registration:** 40-22 Trinidad Pl, Buffalo, NY 14214
+<br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com)
+
+**Name:** Trinidad Neighborhood Association
+<br>**Date:** Tuesday, April 22, 2025
+<br>**Time:** 9:00am to 12:00pm
+<br>**Cleaning Area:** Trinidad Neighborhood - Hamlin Park
+<br>**Registration:** 40-22 Trinidad Pl, Buffalo, NY 14214
+<br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com)
+
+**Name:** Niagara Metals
+<br>**Date:** Tuesday, April 22, 2025
+<br>**Time:** 11:30am to 1:00pm
+<br>**Cleaning Area:** Earth Day celebration with WNY Trash Mob!, recycling education and free lunch
+<br>**Registration:** 761 Hertel Ave.
+
+**Name:** Unicorn Borne Productions and Ba.Sing.GayGardenz
+<br>**Date:** Tuesday, April 22, 2025
+<br>**Time:** 10:00am to 12:00pm
+<br>**Cleaning Area:** Central Park neighborhood (Leroy) Fillmore Ave
+<br>**Registration:** New Golden Nugget parking lot at 2046 Fillmore Ave.
+<br>**Contact:** Cholly [unicornborne@gmail.com](mailto:unicornborne@gmail.com)
+
+**Name:** Niagara Co-Op Cleanup
+<br>**Date:** Tuesday, April 22, 2025
+<br>**Time:** 10:00am to 1:00pm
+<br>**Cleaning Area:** Around Niagara Falls Library
+<br>**Registration:** 1425 Main St., Niagara Falls
+<br>**Contact:** Kayla Briggs [kkayma05@aol.com](mailto:kkayma05@aol.com)
+
+**Name:** Martin Luther King Park cleanup	
+<br>**Date:** Tuesday, April 22, 2025
+<br>**Time:** 12:00pm to 2:00pm
+<br>**Registration:** Martin Luther King Park	
+<br>**Contact:** Marcus Moses [marcus@topofthelinecleaninginc.com](mailtop:marcus@topofthelinecleaninginc.com)
+
+More cleanups will be added soon!
+
+{% comment %}
+
+**Name:** 
+<br>**Date:** 
+<br>**Time:** 
+<br>**Cleaning Area:** 
+<br>**Registration:** 
+<br>**Contact:** [](mailto:)
+
+**Name:** 
+<br>**Date:** 
+<br>**Time:** 
+<br>**Cleaning Area:** 
+<br>**Registration:** 
+<br>**Contact:** [](mailto:)
+
+**Name:** 
+<br>**Date:** 
+<br>**Time:** 
+<br>**Cleaning Area:** 
+<br>**Registration:** 
+<br>**Contact:** [](mailto:)
+
+**Name:** 
+<br>**Date:** 
+<br>**Time:** 
+<br>**Cleaning Area:** 
+<br>**Registration:** 
+<br>**Contact:** [](mailto:)
+
+**Name:** 
+<br>**Date:** 
+<br>**Time:** 
+<br>**Cleaning Area:** 
+<br>**Registration:** 
+<br>**Contact:** [](mailto:)
+
+**Name:** 
+<br>**Date:** 
+<br>**Time:** 
+<br>**Cleaning Area:** 
+<br>**Registration:** 
+<br>**Contact:** [](mailto:)
+
+
+{% endcomment %}
 
 
 <figure style="max-width: 540px" class="align-center">
@@ -57,6 +146,10 @@ prizes to many of the teams and people who tagged us or emailed photos. Thank yo
 
 {% comment %}
 ## List of Completed Cleanups that participated in WNY Trash Mobs' Earth Day Clean Up Challenge 2024 
+
+Thank you to everyone who participated in WNY Trash Mobs' Earth Day Clean Up Challenge 2024
+in any capacity. We reviewed the amazing photos and assigned prizes. We have delivered 
+prizes to many of the teams and people who tagged us or emailed photos. Thank you for inspiring your neighbors to care to clean!
 
 Here is a partial list of registered cleanups from 2024.
 
