@@ -138,6 +138,26 @@ More cleanups will be added soon!
 
 {% endcomment %}
 
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/earthday20250422pt1.png" alt="Earth Day Clean Up Contest">
+  <figcaption></figcaption>
+</figure> 
+
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/earthday20250422pt2.png" alt="Earth Day Clean Up Contest">
+  <figcaption></figcaption>
+</figure> 
+
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/earthday20250426pt1.png" alt="Earth Day Clean Up Contest">
+  <figcaption></figcaption>
+</figure> 
+
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/earthday20250426pt2.png" alt="Earth Day Clean Up Contest">
+  <figcaption></figcaption>
+</figure> 
+
 
 <figure style="max-width: 540px" class="align-center">
   <img src="/assets/images/posters/earthday2025.2.png" alt="Earth Day Clean Up Contest">
