@@ -17,6 +17,12 @@ header:
 4. Submit your cleaning data 
 * Who can get involved – Anyone! Neighbors Businesses, Block Clubs, Community Groups, Individuals, Legislators, Volunteer Groups, City Officials, Schools, etc.
 
+## Data
+Did you organized a cleanup? Please remember to submit the DATA form.
+This brief and simple form provides WNY Trash Mob and our partners
+(e.g., City of Buffalo) data needed to advocate for better waste management.
+[Data Form](https://forms.gle/RCman1LST8qRwC6WA
+   ){: .btn .btn--large .btn--success} 
 
 ### Sign up for an Earth Day cleanup!<br>
 [Register Your Cleanup](
@@ -89,7 +95,7 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Registration:** Martin Luther King Park	
 <br>**Contact:** Marcus Moses [marcus@topofthelinecleaninginc.com](mailtop:marcus@topofthelinecleaninginc.com)
 
-More cleanups will be added soon!
+More cleanups are in the posters below!
 
 {% comment %}
 
@@ -157,6 +163,7 @@ More cleanups will be added soon!
   <img src="/assets/images/posters/earthday20250426pt2.png" alt="Earth Day Clean Up Contest">
   <figcaption></figcaption>
 </figure> 
+
 
 
 <figure style="max-width: 540px" class="align-center">
@@ -347,12 +354,3 @@ For **Earth Day Clean Up Leads**, please complete this [brief form](https://docs
 ){: .btn .btn--success}
 
 {% endcomment %}
-
-{% comment %}
-## Data
-Please remember to submit the DATA form. This brief and simple form provides WNY Trash Mob and our partners
-(e.g., City of Buffalo) data needed to advocate for better waste management.
-[Data Form](https://forms.gle/i1CR68pJMt4kfzue9
-   ){: .btn .btn--large .btn--success} 
-{% endcomment %}
-
