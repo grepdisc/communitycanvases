@@ -13,7 +13,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-**WNY Trash Mob's Earth Day Clean Up Challenge 2025** [All the Details](
+**WNY Trash Mob's Earth Day Clean Up Challenge 2025** [Attend a Cleanup TODAY](
     /earthday2025/){: .btn .btn--success}<br>
 **The Moral Imperative** 
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
