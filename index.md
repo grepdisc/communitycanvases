@@ -13,14 +13,16 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-**WNY Trash Mob's Earth Day Clean Up Challenge 2025** [Attend a Cleanup TODAY](
+**WNY Trash Mob's Earth Day Clean Up Challenge 2025** [Details / Thank You](
     /earthday2025/){: .btn .btn--success}<br>
+Community Swing 6pm to 9:30pm Robin and the Rubes on April 30th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **The Moral Imperative** 
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
-A Tribute to Jordan and Mickey [Tribute](
-    /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+A Tribute to Jordan and Mickey [Tribute](
+    /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
 Our partner - Recovery Stories at 5:30pm May 19th [Info/Sign-up](

@@ -18,19 +18,27 @@ header:
 * Who can get involved – Anyone! Neighbors Businesses, Block Clubs, Community Groups, Individuals, Legislators, Volunteer Groups, City Officials, Schools, etc.
 
 ## Data
-Did you organized a cleanup? Please remember to submit the DATA form.
+Did you organize a cleanup? Please remember to submit the DATA form.
 This brief and simple form provides WNY Trash Mob and our partners
 (e.g., City of Buffalo) data needed to advocate for better waste management.
 [Data Form](https://forms.gle/RCman1LST8qRwC6WA
    ){: .btn .btn--large .btn--success} 
 
+## Thank You! 
+
+Thank you to everyone who participated by cleaning, sharing photos, and offering prizes.
+
+We will be assigning prizes soon based on your awesome photos of impactful cleanups.
+Please be on the lookout for our messages. And, thank you for inspiring our neighbors
+to make our communities even more beautiful.
+
+{% comment %}
 ### Sign up for an Earth Day cleanup!<br>
 [Register Your Cleanup](
     https://docs.google.com/forms/d/17KyXORsi8Y5ojQqbnVIPYvnaMafL5FsbaXS9nZ4dVuE/viewform
 ){: .btn .btn--large .btn--success}
 {:, .text-center}
 
-{% comment %}
 <iframe src="https://docs.google.com/forms/d/17KyXORsi8Y5ojQqbnVIPYvnaMafL5FsbaXS9nZ4dVuE/viewform?embedded=true&usp=pp_url" width="100%" height="2800" frameborder="0" marginheight="0" marginwidth="0" onload = "window.parent.scrollTo(0,0)">Loading…</iframe>
 {% endcomment %}
 
