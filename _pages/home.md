@@ -11,19 +11,34 @@ header:
 
 # *WRITE ON - Home*
 
-*WRITE ON - Home* is a planned offering of Community Canvases' Kind Fools’ [WRITE ON](https://kindfools.org/writeon/) intuitive writing workshops using the theme of “home” with communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
+*WRITE ON - Home* is a planned offering of Community Canvases'
+Kind Fools’ [WRITE ON](https://kindfools.org/writeon/) intuitive 
+writing workshops using the theme of “home” with communities that have
+a special relationship with the concept/experience of home. These
+workshops provide a supportive and creative environment for an
+exploration of our individual and collective relationship with the
+idea, feeling, and experience of home.
 
 It is our hope to be able to offer these in summer/fall 2025:
 
 - Four workshops with immigrant communities with interpreters
 - Four workshops with our local homeless communities
-- Foud workshops welcoming both of these communities as well as our broader community
+- Four workshops welcoming both of these communities as well as our broader community
 
-Anyone is welcome at any of these workshops, as we discover our common humanity by listening more deeply to ourselves and each other.
+Anyone is welcome at any of these workshops, as we discover our common humanity by listening more
+deeply to ourselves and each other. We will explore topics together including home, safety and
+belonging. In current political rhetoric, there is a theme that some people belong more than others.
+These workshops are a clear statement that everyone belongs, and an opportunity for everyone to express
+their truth and creativity in a supportive and barrier-free environment.
+By gathering in a fully inclusive space, where every participant feels empowered to fully belong and
+to fully welcome every other participant, we model together a feeling of safety, a feeling of belonging,
+and a feeling of home.
 
 Please check back here in the coming months for more details.
 
-This will build on the four workshops we led in partnership with The NYIC last summer:
+## WRITE ON - Home 2024 (a reduced-scale pilot project)
+WRITE ON - Home 2025 will build on the four workshops that Community Canvases' Kind Fools
+led in partnership with The NYIC last summer:
 
 - Workshop 1:00pm to 4:00pm, Wednesday July 17, 2024 at Raha Coffee House in Arabic and English
 - Workshop 1:00pm to 4:00pm, Tuesday July 30, 2024 at Fitz Books & Waffles in Burmese and English
