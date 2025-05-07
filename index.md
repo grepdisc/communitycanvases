@@ -22,6 +22,8 @@ Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Our partner - Recovery Stories at 5:30pm May 19th [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
+Graduation Poem from Fund Development Bookcamp [read](
+    /perspectives/Fund-Development/){: .btn .btn--info}<br>
 A Tribute to Jordan and Mickey [Tribute](
     /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
