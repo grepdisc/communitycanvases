@@ -13,24 +13,25 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
+WNY Trash Mob's Grant Street Cleanup **10am to 1pm Saturday, May 10th at 65 Grant Street**<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2025** [Details / Thank You](
     /earthday2025/){: .btn .btn--success}<br>
-Community Swing 6pm to 9:30pm Robin and the Rubes on April 30th [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **The Moral Imperative** 
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Our partner - Recovery Stories at 5:30pm May 19th [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 A Tribute to Jordan and Mickey [Tribute](
     /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-Our partner - Recovery Stories at 5:30pm May 19th [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Community Swing 6pm to 9:30pm Robin and the Rubes on April 30th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **WRITE ON - April 17th** at 1pm at Frank E. Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 **Party in the Park** was Saturday September 7th [Details]( 
