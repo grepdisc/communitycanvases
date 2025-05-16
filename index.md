@@ -13,16 +13,17 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-WNY Trash Mob's Grant Street Cleanup **10am to 1pm Saturday, May 10th at 65 Grant Street**<br>
-**WNY Trash Mob's Earth Day Clean Up Challenge 2025** [Details / Thank You](
-    /earthday2025/){: .btn .btn--success}<br>
-**The Moral Imperative** 
-    [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
-Community Swing 6pm to 9pm every Wednesday [Details](
+Community Swing 6pm to 9:30pm 3rd Anniversary Party May 28th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+**The Moral Imperative** - WRITE ON May 20th at 6pm
+    [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 Our partner - Recovery Stories at 5:30pm May 19th [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
-Graduation Poem from Fund Development Bookcamp [read](
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+**WNY Trash Mob's Earth Day Clean Up Challenge 2025** [Details / Thank You](
+    /earthday2025/){: .btn .btn--success}<br>
+Graduation Poem from Fund Development Bootcamp [read](
     /perspectives/Fund-Development/){: .btn .btn--info}<br>
 A Tribute to Jordan and Mickey [Tribute](
     /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
@@ -34,6 +35,7 @@ Calendar of [**All Events**](
 {% comment %}
 Community Swing 6pm to 9:30pm Robin and the Rubes on April 30th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+WNY Trash Mob's Grant Street Cleanup **10am to 1pm Saturday, May 10th at 65 Grant Street**<br>
 **WRITE ON - April 17th** at 1pm at Frank E. Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 **Party in the Park** was Saturday September 7th [Details]( 
