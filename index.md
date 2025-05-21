@@ -15,10 +15,8 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9:30pm 3rd Anniversary Party May 28th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**The Moral Imperative** - WRITE ON May 20th at 6pm
+**The Moral Imperative** - WRITE ON May 27th at 1pm
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
-Our partner - Recovery Stories at 5:30pm May 19th [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2025** [Details / Thank You](
@@ -29,6 +27,8 @@ A Tribute to Jordan and Mickey [Tribute](
     /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
+Our partner - Recovery Stories at 5:30pm June 23rd [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
