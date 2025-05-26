@@ -4,7 +4,7 @@ title: "WRITE ON - Home"
 layout: splash
 author_profile: false
 header:
-  image: /assets/images/write on home title.jpg
+  image: /assets/images/write-on-home-title2.jpg
 
 ---
 
