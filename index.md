@@ -13,26 +13,30 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-Community Swing 6pm to 9:30pm 3rd Anniversary Party May 28th [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**The Moral Imperative** - WRITE ON May 27th at 1pm
-    [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
+WRITE ON at the King Urban Life Center 6:00pm June 12th
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+WNY Trash Mob's **Cleanup Day on Grant Street** 10am June 14th [Details](
+    /events/cleanup20250614/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**WNY Trash Mob's Earth Day Clean Up Challenge 2025** [Details / Thank You](
+Our partner - Recovery Stories at 5:30pm June 23rd [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
+WNY Trash Mob's Earth Day Clean Up Challenge 2025 [Details / Thank You](
     /earthday2025/){: .btn .btn--success}<br>
 Graduation Poem from Fund Development Bootcamp [read](
     /perspectives/Fund-Development/){: .btn .btn--info}<br>
 A Tribute to Jordan and Mickey [Tribute](
     /memory/Mickey-and-Jordan/){: .btn .btn--info}<br>
+Kind Fools' **The Moral Imperative** 
+    [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     /signalboxes/northbuffalo/){: .btn .btn--info}<br>
-Our partner - Recovery Stories at 5:30pm June 23rd [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Community Swing 6pm to 9:30pm 3rd Anniversary Party May 28th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Community Swing 6pm to 9:30pm Robin and the Rubes on April 30th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 WNY Trash Mob's Grant Street Cleanup **10am to 1pm Saturday, May 10th at 65 Grant Street**<br>
