@@ -14,7 +14,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 
 WRITE ON at the King Urban Life Center 6:00pm June 12th
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 WNY Trash Mob's **Cleanup Day on Grant Street** 10am June 14th [Details](
     /events/cleanup20250614/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
