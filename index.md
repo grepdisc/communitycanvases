@@ -25,7 +25,7 @@ Thank you to every who joined for **Cleanup Day on Grant Street** on June 14th [
     /events/cleanup20250614/){: .btn .btn--success}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [Details / Thank You](
     /earthday2025/){: .btn .btn--success}<br>
-Our partner - Recovery Stories at 5:30pm July 14th [Info/Sign-up](
+Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 Graduation Poem from Fund Development Bootcamp [read](
     /perspectives/Fund-Development/){: .btn .btn--info}<br>
