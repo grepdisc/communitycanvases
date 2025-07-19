@@ -9,7 +9,11 @@ header:
 
 Your gift supports Community Canvases' programming in WNY, building community through the arts.
 
-## Donate Here
+
+[Donate Here](
+https://secure.givelively.org/donate/community-canvases-incorporated
+){: .btn .btn--large .btn--success}<br>
+
 
 **PayPal**
 <form action="https://www.paypal.com/donate" method="post" target="_top">
