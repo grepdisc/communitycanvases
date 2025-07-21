@@ -13,14 +13,14 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-Kind Fools' **The Moral Imperative** - celebration July 19th
-    [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' **WRITE ON - Home** - 24th
+Kind Fools' **WRITE ON - Home** - July 24th 5:30pm Spanish/English
     [Details](https://kindfools.org/home/){: .btn .btn--success}<br>
-WRITE ON - July 29th at 6pm
+Kind Fools' WRITE ON - July 29th at 6pm at Grant Street Neighborhood Center
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Thank you for attending **The Moral Imperative** - celebration
+    [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 Thank you to every who joined for **Cleanup Day on Grant Street** on June 14th [Details](
     /events/cleanup20250614/){: .btn .btn--success}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [Details / Thank You](
