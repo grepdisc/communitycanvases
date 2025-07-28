@@ -13,12 +13,12 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' **WRITE ON - Home** - July 24th 5:30pm Spanish/English
-    [Details](https://kindfools.org/home/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - July 29th at 6pm at Grant Street Neighborhood Center
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+ommunity Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Kind Fools' **WRITE ON - Home** - August 5th 5:30pm Arabic/Spanish/English
+    [Details](https://kindfools.org/home/){: .btn .btn--success}<br>
 Thank you for attending **The Moral Imperative** - celebration
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 Thank you to every who joined for **Cleanup Day on Grant Street** on June 14th [Details](
