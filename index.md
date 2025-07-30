@@ -12,21 +12,21 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-
-Kind Fools' WRITE ON - July 29th at 6pm at Grant Street Neighborhood Center
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
-ommunity Swing 6pm to 9pm every Wednesday [Details](
+Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - August 5th 5:30pm Arabic/Spanish/English
     [Details](https://kindfools.org/home/){: .btn .btn--success}<br>
+Kind Fools' WRITE ON - August 12th at 6pm at King Urban Life Center
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
+Save The Date - **Party in the Park** is September 6, 2025 11am to 2pm<br>
 Thank you for attending **The Moral Imperative** - celebration
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 Thank you to every who joined for **Cleanup Day on Grant Street** on June 14th [Details](
     /events/cleanup20250614/){: .btn .btn--success}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [Details / Thank You](
     /earthday2025/){: .btn .btn--success}<br>
-Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 Graduation Poem from Fund Development Bootcamp [read](
     /perspectives/Fund-Development/){: .btn .btn--info}<br>
 A Tribute to Jordan and Mickey [Tribute](
