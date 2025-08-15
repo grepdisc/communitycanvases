@@ -14,8 +14,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - August 12th at 6pm at King Urban Life Center
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 Kind Fools' **WRITE ON - Home** - August 19th 5:30pm French/Burmese/English
@@ -24,12 +22,16 @@ Recovery Stories' 100 TPC at 3pm September 5th [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 **Party in the Park** is September 6, 2025 11am to 2pm
     [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
+Direct Message - reclaim our creative voices [Details/Apply](
+    https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 Thank you for attending **The Moral Imperative** - celebration
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Kind Fools' WRITE ON - August 12th at 6pm at King Urban Life Center
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Thank you to every who joined for **Cleanup Day on Grant Street** on June 14th [Details](
     /events/cleanup20250614/){: .btn .btn--success}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [Details / Thank You](
