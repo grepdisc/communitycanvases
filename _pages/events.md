@@ -7,13 +7,19 @@ author_profile: false
 
 ## Upcoming Events
 
+- 100,000 Poets for Change 3pm September 5th [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
+- **Party in the Park** September 6, 2025 11am to 2pm
+    [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
+- Direct Message - reclaim our creative voices [Details/Apply](
+    https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-- "WRITE ON - Home" writing in your native language - Aug 13th
+- "WRITE ON - Home" writing in your native language
     [Sign Up/Info](https://kindfools.org/home/){: .btn .btn--success}<br>
-- WRITE ON on Tuesday August 20th at 6:00pm
+- WRITE ON on Thursday, Sept 18th at 1pm and Tuesday, Sept 23rd at 5:00pm
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-- Community Swing - Celebration August 28th [Details](
+- Community Swing - Live Music on September 24th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 
 
