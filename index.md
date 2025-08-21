@@ -14,16 +14,20 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
+100,000 Poets for Change 3pm September 5th [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
-Kind Fools' **WRITE ON - Home** - August 19th 5:30pm French/Burmese/English
-    [Details](https://kindfools.org/home/){: .btn .btn--success}<br>
-Recovery Stories' 100 TPC at 3pm September 5th [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
-**Party in the Park** is September 6, 2025 11am to 2pm
+**Party in the Park** September 6, 2025 11am to 2pm
     [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
 Direct Message - reclaim our creative voices [Details/Apply](
     https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
+WRITE ON - September 18th at 1pm at Merriweather Library
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
+    https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
+WRITE ON - September 23rd at 5pm with veterans at UUCB
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Kind Fools' **WRITE ON - Home** - writing in your preferred language
+    [Details](https://kindfools.org/home/){: .btn .btn--success}<br>
 Thank you for attending **The Moral Imperative** - celebration
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
 Calendar of [**All Events**](

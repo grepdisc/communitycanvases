@@ -17,9 +17,7 @@ is organizing this Community Resource Fair in collaboration with
 Assemblymember Jon Rivera, Councilmember David Rivera, and Buffalo Myanmar Festival. There will be
 community, food, and lots of neighbors and local organizations.
 
-{% comment %}
-Check out the [Facebook event](https://www.facebook.com/events/852205296118176) too!
-{% endcomment %}
+Check out our **[Facebook event](https://www.facebook.com/events/2132226580621513)!**
 
 ## Questions?
 - Reach out to Meg Wolfe in Assemblymember Rivera’s office at
