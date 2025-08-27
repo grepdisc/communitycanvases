@@ -18,8 +18,6 @@ Community Swing 6pm to 9pm every Wednesday [Details](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 **Party in the Park** September 6, 2025 11am to 2pm
     [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
-Direct Message - reclaim our creative voices [Details/Apply](
-    https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 WRITE ON - September 18th at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
