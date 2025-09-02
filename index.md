@@ -17,11 +17,13 @@ Community Swing 6pm to 9pm every Wednesday [Details](
 100,000 Poets for Change 3pm September 5th [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 **Party in the Park** September 6, 2025 11am to 2pm
-    [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
+    [Details](/events/partyinthepark2025/){: .btn .btn--success .btn--large}<br>
 WRITE ON - September 18th at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
     https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
+Healing Programming at Project Homeless Connect Sept 19th [Details](
+    https://www.phcbuffalo.org/){: .btn .btn--info}<br>
 WRITE ON - September 23rd at 5pm with veterans at UUCB
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
