@@ -22,6 +22,13 @@ Healing Programming at Project Homeless Connect Sept 19th [Details](
     https://www.phcbuffalo.org/){: .btn .btn--info}<br>
 WRITE ON - Home - September 23rd at 5pm with veterans at UUCB
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
+    [Details/Register](
+    https://www.annefrankproject.com/social-justice-festival
+    ){: .btn .btn--info}<br>
+Pumkin Carving & Film Fundraiser October 18th
+    [$20 Tickets/Info](https://www.chateaubuffalo.com/suite-16-cinema-series
+    ){: .btn .btn--success}<br>
 Thank you for attending Party in the Park
     [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
