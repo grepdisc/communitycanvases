@@ -12,10 +12,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-100,000 Poets for Change 3pm September 5th [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
-**Party in the Park** September 6, 2025 11am to 2pm
-    [Details](/events/partyinthepark2025/){: .btn .btn--success .btn--large}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 WRITE ON - September 18th at 1pm at Merriweather Library
@@ -26,10 +22,14 @@ Healing Programming at Project Homeless Connect Sept 19th [Details](
     https://www.phcbuffalo.org/){: .btn .btn--info}<br>
 WRITE ON - Home - September 23rd at 5pm with veterans at UUCB
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Thank you for attending Party in the Park
+    [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://kindfools.org/home/){: .btn .btn--success}<br>
 Thank you for attending **The Moral Imperative** - celebration
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
+Thank you for attending 100,000 Poets for Change [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
