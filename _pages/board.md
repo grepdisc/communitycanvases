@@ -21,7 +21,7 @@ author_profile: false
 
 **Katherine Pessecow** - Executive Director
 
-Katherine Pessecow is Community Canvases’ Executive Director as well as an artist and arts/civics educator. She is a social studies teacher in the Buffalo Public Schools, and a board member at Buffalo Maritime Center and Hostel Buffalo Niagara. She has 13 years of volunteer coordination and event planning experience and is a longtime West Side Resident.<br><br><br>
+Katherine Pessecow is Community Canvases’ Executive Director as well as an artist and arts/civics educator. She is a social studies teacher in the Buffalo Public Schools, and a board member at Buffalo Maritime Center and Hostel Buffalo Niagara. She has 13 years of volunteer coordination and event planning experience and is a longtime West Side resident.<br><br><br>
 
 **Hy Carrel** - Director of Operations
 
