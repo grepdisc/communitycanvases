@@ -21,14 +21,8 @@ author_profile: false
 
 **Katherine Pessecow** - Executive Director
 
-Katherine teaches Social Studies in the Buffalo Public Schools.
-With 13 years of volunteer coordination and event planning experience,
-she chairs the Community Engagement Committee on the Board of the
-Buffalo Maritime Center.<br><br><br>
+Katherine Pessecow is Community Canvases’ Executive Director as well as an artist and arts/civics educator. She is a social studies teacher in the Buffalo Public Schools, and a board member at Buffalo Maritime Center and Hostel Buffalo Niagara. She has 13 years of volunteer coordination and event planning experience and is a longtime West Side Resident.<br><br><br>
 
 **Hy Carrel** - Director of Operations
 
-Hy is a social worker who has brought Faithful Fools training to Buffalo. Previously, he built
-community through developing REI circles and housing unhoused neighbors at BestSelf Behavioral Health.
-
-
+Hy Carrel is Director of Operations for Community Canvases and founding director of its Kind Fools program, inspired by his work with Faithful Fools street-level community in San Francisco’s Tenderloin. In spaces that Hy facilitates, people from varied lived experiences build community based on a value of "we all belong." Hy is a lead facilitator for Community Canvases programming and offers a gentle encouraging presence for our partners.<br><br><br>
