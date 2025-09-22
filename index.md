@@ -12,16 +12,11 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-WRITE ON - September 18th at 1pm at Merriweather Library
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
-    https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
-Healing Programming at Project Homeless Connect Sept 19th [Details](
-    https://www.phcbuffalo.org/){: .btn .btn--info}<br>
 WRITE ON - Home - September 23rd at 5pm with veterans at UUCB
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Community Swing September 24th at 6pm featuring Cami Clune
+    [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--success}<br>
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival
@@ -29,6 +24,8 @@ Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
 Pumkin Carving & Film Fundraiser October 18th
     [$20 Tickets/Info](https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for attending Party in the Park
     [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
