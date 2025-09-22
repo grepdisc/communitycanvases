@@ -22,7 +22,7 @@ Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     https://www.annefrankproject.com/social-justice-festival
     ){: .btn .btn--info}<br>
 Pumkin Carving & Film Fundraiser October 18th
-    [$20 Tickets/Info](https://www.chateaubuffalo.com/suite-16-cinema-series
+    [$25 Tickets/Info](https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
