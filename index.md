@@ -9,6 +9,9 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 ---
 
+The September 23rd WRITE ON is **postponed.** We apologize for any inconvenience.
+{: .notice--warning}
+
 # Upcoming Events
 {: .text-center}
 
@@ -21,7 +24,7 @@ Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival
     ){: .btn .btn--info}<br>
-Pumkin Carving & Film Fundraiser October 18th
+Pumpkin Carving & Film Fundraiser October 18th
     [$25 Tickets/Info](https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
