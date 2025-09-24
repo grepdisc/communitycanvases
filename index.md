@@ -9,14 +9,9 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 ---
 
-The September 23rd WRITE ON is **postponed.** We apologize for any inconvenience.
-{: .notice--warning}
-
 # Upcoming Events
 {: .text-center}
 
-WRITE ON - Home - September 23rd at 5pm with veterans at UUCB
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing September 24th at 6pm featuring Cami Clune
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--success}<br>
