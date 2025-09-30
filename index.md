@@ -21,7 +21,7 @@ Kind Fools' WRITE ON - October 14th at 6pm at Rise of WNY
 Pumpkin Carving & Film Fundraiser October 18th
     [$25 Tickets/Info](https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
-WNY Trash Mob's Happy Hallo-Clean - November 1st at 11am [Details](
+WNY Trash Mob's Happy Hallow-Clean - November 1st at 11am [Details](
     /events/cleanup20251101/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
