@@ -15,14 +15,15 @@ excerpt: "facilitating community engagement and expression through the arts"
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival
-    ){: .btn .btn--info}<br>
+    ){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - October 14th at 6pm at Rise of WNY
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Pumpkin Carving & Film Fundraiser October 18th
-    [$25 Tickets/Info](https://www.chateaubuffalo.com/suite-16-cinema-series
+    [$25 Tickets/Info](
+    https://secure.givelively.org/event/community-canvases-incorporated/pumpkin-carving-and-film-night
     ){: .btn .btn--success}<br>
 WNY Trash Mob's Happy Hallow-Clean - November 1st at 11am [Details](
-    /events/cleanup20251101/){: .btn .btn--success}<br>
+    /events/cleanup20251101/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for attending Party in the Park
