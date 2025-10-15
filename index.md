@@ -12,18 +12,16 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
-    [Details/Register](
-    https://www.annefrankproject.com/social-justice-festival
-    ){: .btn .btn--success}<br>
-Kind Fools' WRITE ON - October 14th at 6pm at Rise of WNY
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Pumpkin Carving & Film Fundraiser October 18th
     [$25 Tickets/Info](
     https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
+Recovery Stories gathers at 5:30pm on October 20th [nfo/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
+Kind Fools' WRITE ON - October 23rd at 1pm at Merriweather Library
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 WNY Trash Mob's Happy Hallow-Clean - November 1st at 11am [Details](
-    /events/cleanup20251101/){: .btn .btn--info}<br>
+    /events/cleanup20251101/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for attending Party in the Park
@@ -34,6 +32,10 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
+    [Details/Register](
+    https://www.annefrankproject.com/social-justice-festival
+    ){: .btn .btn--success}<br>
     https://secure.givelively.org/event/community-canvases-incorporated/pumpkin-carving-and-film-night
 Thank you for attending **The Moral Imperative** - celebration
     [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
