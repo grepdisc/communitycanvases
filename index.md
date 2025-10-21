@@ -12,14 +12,10 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Pumpkin Carving & Film Fundraiser October 18th
-    [$25 Tickets/Info](
-    https://www.chateaubuffalo.com/suite-16-cinema-series
-    ){: .btn .btn--success}<br>
-Recovery Stories gathers at 5:30pm on October 20th [nfo/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
 Kind Fools' WRITE ON - October 23rd at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
+    https://www.facebook.com/events/822486890376144){: .btn .btn--info}<br>
 WNY Trash Mob's Happy Hallow-Clean - November 1st at 11am [Details](
     /events/cleanup20251101/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
@@ -32,6 +28,12 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Recovery Stories gathers at 5:30pm on October 20th [nfo/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
+Pumpkin Carving & Film Fundraiser October 18th
+    [$25 Tickets/Info](
+    https://www.chateaubuffalo.com/suite-16-cinema-series
+    ){: .btn .btn--success}<br>
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival
