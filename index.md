@@ -12,14 +12,16 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' WRITE ON - October 23rd at 1pm at Merriweather Library
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
-    https://www.facebook.com/events/822486890376144){: .btn .btn--info}<br>
+    https://www.facebook.com/events/822486890376144){: .btn .btn--success}<br>
 WNY Trash Mob's Happy Hallow-Clean - November 1st at 11am [Details](
-    /events/cleanup20251101/){: .btn .btn--success}<br>
+    /events/cleanup20251101/){: .btn .btn--success .btn--large}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Kind Fools' WRITE ON - November 13th at 6pm at Chicory House
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Kind Fools' WRITE ON - November 20th at 6pm at King Urban Life Center
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Thank you for attending Party in the Park
     [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
