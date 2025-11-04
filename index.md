@@ -12,10 +12,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
-    https://www.facebook.com/events/822486890376144){: .btn .btn--success}<br>
-WNY Trash Mob's Happy Hallow-Clean - November 1st at 11am [Details](
-    /events/cleanup20251101/){: .btn .btn--success .btn--large}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Kind Fools' WRITE ON - November 13th at 6pm at Chicory House
@@ -30,6 +26,10 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
+    https://www.facebook.com/events/822486890376144){: .btn .btn--success}<br>
+WNY Trash Mob's Happy Hallow-Clean - November 1st at 11am [Details](
+    /events/cleanup20251101/){: .btn .btn--success .btn--large}<br>
 Recovery Stories gathers at 5:30pm on October 20th [nfo/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
 Pumpkin Carving & Film Fundraiser October 18th
