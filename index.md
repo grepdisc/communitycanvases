@@ -18,6 +18,8 @@ Kind Fools' WRITE ON - November 13th at 6pm at Chicory House
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - November 20th at 6pm at King Urban Life Center
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Band Together for Food - December 7th at 1pm
+    [Details](https://www.facebook.com/events/1144182281198731){: .btn .btn--success}<br>
 Thank you for attending Party in the Park
     [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
