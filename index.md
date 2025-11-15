@@ -14,8 +14,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - November 13th at 6pm at Chicory House
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - November 20th at 6pm at King Urban Life Center
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Band Together for Food - December 7th at 1pm
