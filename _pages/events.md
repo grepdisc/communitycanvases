@@ -7,19 +7,19 @@ author_profile: false
 
 ## Upcoming Events
 
-- 100,000 Poets for Change 3pm September 5th [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
-- **Party in the Park** September 6, 2025 11am to 2pm
-    [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
-- Direct Message - reclaim our creative voices [Details/Apply](
-    https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
+- Band Together for Food - December 7th at 1pm
+    [Details](https://www.facebook.com/events/1144182281198731){: .btn .btn--success}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+- WRITE ON on Tuesday, December 9th at 6pm and December 18th at 1:00pmpm
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+- Recovery Stories January 26, 2026 at 5:30pm [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
 - "WRITE ON - Home" writing in your native language
     [Sign Up/Info](https://kindfools.org/home/){: .btn .btn--success}<br>
-- WRITE ON on Thursday, Sept 18th at 1pm and Tuesday, Sept 23rd at 5:00pm
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-- Community Swing - Live Music on September 24th [Details](
+- Direct Message - reclaim our creative voices [Details/Apply](
+    https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
+- Community Swing - Live Music on November 26th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 
 
