@@ -9,6 +9,11 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 ---
 
+**Support Community Canvases** this Giving Tuesday [Give](
+        https://secure.givelively.org/donate/community-canvases-incorporated
+    ){: .btn .btn--success}<br>
+{: .align-center}
+
 # Upcoming Events
 {: .text-center}
 
