@@ -9,11 +9,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 ---
 
-**Support Community Canvases** this Giving Tuesday [Give](
-        https://secure.givelively.org/donate/community-canvases-incorporated
-    ){: .btn .btn--success}<br>
-{: .align-center}
-
 # Upcoming Events
 {: .text-center}
 
@@ -39,6 +34,11 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+**Support Community Canvases** this Giving Tuesday [Give](
+        https://secure.givelively.org/donate/community-canvases-incorporated
+    ){: .btn .btn--success}<br>
+{: .align-center}
+
 The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
     https://www.facebook.com/events/822486890376144){: .btn .btn--success}<br>
 WNY Trash Mob's Happy Hallow-Clean - November 1st at 11am [Details](
