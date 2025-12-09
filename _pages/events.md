@@ -11,7 +11,7 @@ author_profile: false
     [Details](https://www.facebook.com/events/1144182281198731){: .btn .btn--success}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-- WRITE ON on Tuesday, December 9th at 6pm and December 18th at 1:00pmpm
+- WRITE ON on Tuesday, December 9th at 6pm and December 18th at 1:00pm
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 - Recovery Stories January 26, 2026 at 5:30pm [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--success}<br>

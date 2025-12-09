@@ -12,10 +12,6 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Band Together for Food - December 7th at 1pm
-    [Details](
-        https://www.facebook.com/events/1144182281198731
-    ){: .btn .btn--large .btn--success}<br>
 Thank you for supporting Community Canvases' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
@@ -26,6 +22,10 @@ Kind Fools' WRITE ON - December 9th at 6pm on Zoom
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - December 18th at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Band Together for Food raised almost $2,000 for Journey's End. Thanks!!!
+    [Details](
+        https://www.facebook.com/events/1144182281198731
+    ){: .btn .btn--large .btn--success}<br>
 Thank you for attending Party in the Park
     [Details](/events/partyinthepark2025/){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
