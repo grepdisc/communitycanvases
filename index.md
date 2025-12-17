@@ -18,8 +18,6 @@ Thank you for supporting Community Canvases' Annual Appeal
     ){: .btn .btn--large .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - December 9th at 6pm on Zoom
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - December 18th at 1pm at Merriweather Library
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Band Together for Food raised almost $2,000 for Journey's End. Thanks!!!
