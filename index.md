@@ -12,16 +12,18 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
+Community Swing live music **Hasting Duo 6pm January 28th** [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Kind Fools' WRITE ON - January 22nd at 1pm at Merriweather Library
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Our partner - **Recovery Stories at 5:00pm January 26th** [Info/Sign-up](
+    https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for supporting Community Canvases' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
     ){: .btn .btn--large .btn--success}<br>
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - January 13 at 6pm at Rise of WNY
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-Kind Fools' WRITE ON - January 22nd at 1pm at Merriweather Library
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Band Together for Food raised almost $2,000 for Journey's End. Thanks!!!
     [Details](
         https://www.facebook.com/events/1144182281198731
