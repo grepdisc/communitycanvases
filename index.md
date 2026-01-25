@@ -14,10 +14,10 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing live music **Hasting Duo 6pm January 28th** [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - January 22nd at 1pm at Merriweather Library
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-Our partner - **Recovery Stories at 5:00pm January 26th** [Info/Sign-up](
+Our partner - **Recovery Stories at 5:30pm January 26th on Zoom** [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
+Kind Fools' WRITE ON - February 10th at 6pm at UUCB with L'Arche Buffalo
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for supporting Community Canvases' Annual Appeal
@@ -36,6 +36,7 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Kind Fools' WRITE ON - January 22nd at 1pm at Merriweather Library
 **Support Community Canvases** this Giving Tuesday [Give](
         https://secure.givelively.org/donate/community-canvases-incorporated
     ){: .btn .btn--success}<br>
