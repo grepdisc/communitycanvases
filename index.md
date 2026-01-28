@@ -14,7 +14,7 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing live music **Hasting Duo 6pm January 28th** [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - February 10th at 6pm at UUCB with L'Arche Buffalo
+Kind Fools' WRITE ON - February 10th at 5pm at UUCB with L'Arche Buffalo
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
