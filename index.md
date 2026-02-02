@@ -16,7 +16,7 @@ Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Kind Fools' WRITE ON - February 10th at 5pm at UUCB with L'Arche Buffalo
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-Our partner - **Recovery Stories at 5:30pm February 16th on Zoom** [Info/Sign-up](
+Our partner - **Recovery Stories at 5:00pm February 16th at Fitz Books** [Info/Sign-up](
     https://kindfools.org/recoverystories/){: .btn .btn--info}<br>
 Kind Fools' WRITE ON - February 17th at 6pm at King Urban Life Center
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
