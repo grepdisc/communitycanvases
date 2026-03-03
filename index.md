@@ -16,8 +16,8 @@ WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
     /earthday2026/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Please check out **The Moral Imperative 2026** 
-   [Details](https://kindfools.org/moralimperative/){: .btn .btn--info}<br>
+**The Moral Imperative 2026** Application Open through March 27th
+   [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--info}<br>
 Kind Fools' WRITE ON! - March Dates
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:00pm March 23rd**
