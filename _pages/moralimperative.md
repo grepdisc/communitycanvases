@@ -59,7 +59,7 @@ they relate to the topics in these books and this BABEL discussion.
 </figure>
 
 
-### Activities:
+### Activities for 2026:
 - Friday, March 27th apply anytime before 9pm [Apply](
 https://docs.google.com/forms/d/e/1FAIpQLSeDahLvo4AwYDrw4K3lpFZRqFHk9k1VstBpUEzBHJtT2C-1ew/viewform?usp=publish-editor
 ){: .btn .btn--large .btn--success}<br>
