@@ -18,7 +18,7 @@ Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 **The Moral Imperative 2026** Application Open through March 27th
    [Details](/moralimperative/){: .btn .btn--info}<br>
-Kind Fools' WRITE ON! - March Dates
+Kind Fools' WRITE ON! - March 19th at 1pm
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:00pm March 23rd**
     [Info/Sign-up](
