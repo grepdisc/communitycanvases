@@ -20,9 +20,6 @@ https://imaniperryauthor.com/books/black-in-blues-how-a-color-tells-the-story-of
 https://www.justbuffalo.org/events/babel-imani-perry-2026-04-23/
 ) on Thursday, April 23, 2026.
 
-[Apply Here](
-https://docs.google.com/forms/d/e/1FAIpQLSeDahLvo4AwYDrw4K3lpFZRqFHk9k1VstBpUEzBHJtT2C-1ew/viewform?usp=publish-editor
-){: .btn .btn--large .btn--success}<br>
 
 This project is the successor to [The Moral Imperative 2025](/moralimperative2025).
 
@@ -60,9 +57,7 @@ they relate to the topics in these books and this BABEL discussion.
 
 
 ### Activities for 2026:
-- Friday, March 27th apply anytime before 9pm [Apply](
-https://docs.google.com/forms/d/e/1FAIpQLSeDahLvo4AwYDrw4K3lpFZRqFHk9k1VstBpUEzBHJtT2C-1ew/viewform?usp=publish-editor
-){: .btn .btn--large .btn--success}<br>
+- Friday, March 27th apply anytime before 9pm
 - Tuesday, March 31 at 6pm-7:30pm Welcome Gathering for core group (books distributed)
 - Tuesday, April 14 at 6pm-8pm Book Discussion
 - Thursday, April 23 7pm-10pm Imani Perry's [BABEL talk](
@@ -84,6 +79,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSeDahLvo4AwYDrw4K3lpFZRqFHk9k1VstBpUEzB
 </figure>
 
 {% comment %}
+[Apply](
+https://docs.google.com/forms/d/e/1FAIpQLSeDahLvo4AwYDrw4K3lpFZRqFHk9k1VstBpUEzBHJtT2C-1ew/viewform?usp=publish-editor
+){: .btn .btn--large .btn--success}<br>
+[Apply Here](
+https://docs.google.com/forms/d/e/1FAIpQLSeDahLvo4AwYDrw4K3lpFZRqFHk9k1VstBpUEzBHJtT2C-1ew/viewform?usp=publish-editor
+){: .btn .btn--large .btn--success}<br>
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/themoralimperativeprograms.png"
    alt="The Moral Imperative Poster">

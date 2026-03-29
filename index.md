@@ -12,18 +12,16 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Community Swing live music **Chuck Abell & Soul City 6pm March 25th** [Details](
+WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
+    /earthday2026/){: .btn .btn--success}<br>
+**The Moral Imperative 2026**
+   [Details](/moralimperative/){: .btn .btn--success}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Buffalo Hive article on The Moral Imperative 2026
    [Details](
        https://thebuffalohive.com/community-canvases-presents-the-moral-imperative-a-literary-event/
    ){: .btn .btn--info}<br>
-**The Moral Imperative 2026** Application Open through March 27th
-   [Details](/moralimperative/){: .btn .btn--success}<br>
-WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
-    /earthday2026/){: .btn .btn--success}<br>
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:00pm April 20th**
     [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
@@ -37,6 +35,8 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Community Swing live music **Chuck Abell & Soul City 6pm March 25th** [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Band Together for Food raised almost $2,000 for Journey's End. Thanks!!!
     [Details](
         https://www.facebook.com/events/1144182281198731
