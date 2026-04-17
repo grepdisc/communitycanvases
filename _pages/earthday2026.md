@@ -24,7 +24,6 @@ header:
 {:, .text-center}
 
 
-{% comment %}
 ## Data
 Did you organize a cleanup? Please remember to submit the DATA form.
 This brief and simple form provides WNY Trash Mob and our partners
@@ -32,11 +31,12 @@ This brief and simple form provides WNY Trash Mob and our partners
 [Data Form](https://forms.gle/RCman1LST8qRwC6WA
    ){: .btn .btn--large .btn--success} 
 
+{% comment %}
 ## Thank You! 
 
 Thank you to everyone who participated by cleaning, sharing photos, and offering prizes.
 
-We will be assigning prizes soon based on your awesome photos of impactful cleanups.
+We will be assigning prizes based on your awesome photos of impactful cleanups.
 Please be on the lookout for our messages. And, thank you for inspiring our neighbors
 to make our communities even more beautiful.
 
@@ -66,52 +66,56 @@ to make our communities even more beautiful.
 Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob@communitycanvases.org) or [(716) 259-2725](tel:7162592725)
 ## Thank you
 
-{% comment %}
-## List of  Cleanups that are participating in WNY Trash Mobs' Earth Day Clean Up Challenge 2025
+## List of  Cleanups that are participating in WNY Trash Mobs' Earth Day Clean Up Challenge 2026
 
-### Tuesday
+### Saturday
+
+
+**Name:** Earth Day on the East Side
+<br>**Date:** Saturday, April 18, 2026
+<br>**Time:** 9:00am to 11:00pm
+<br>**Cleaning Area:** Around 1412 Jefferson Ave. and other East Side locations
+<br>**Sign-in:**  1412 Jefferson Ave., Buffalo, NY 14208
+<br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com) or James Coughlin []()
+<br>**Organizations:** East Side Stewards, Justice for Geraldine and Martin, Farmer Pirates, and LOLA
+
+**Name:** The Dewitt Street Block Club and 5 Loaves Farms
+<br>**Date:** Saturday, April 18, 2026
+<br>**Time:** 10:00am to 2:00pm
+<br>**Location:** 70 West Delavan Ave, Buffalo, NY 14213
+<br>**Description:** There’s no need to sign up. Just show up at 5 Loaves Farm (70 W Delavan), and we’ll have all the clean-up supplies and refreshments you need.
+
+### Wednesday
 
 **Name:** Trinidad Neighborhood Association
-<br>**Date:** Tuesday, April 22, 2025
-<br>**Time:** 9:00am to 12:00pm
-<br>**Cleaning Area:** Trinidad Neighborhood - Hamlin Park
-<br>**Registration:** 40-22 Trinidad Pl, Buffalo, NY 14214
-<br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com)
-
-**Name:** Trinidad Neighborhood Association
-<br>**Date:** Tuesday, April 22, 2025
+<br>**Date:** Wednesday, April 22, 2026
 <br>**Time:** 9:00am to 12:00pm
 <br>**Cleaning Area:** Trinidad Neighborhood - Hamlin Park
 <br>**Registration:** 40-22 Trinidad Pl, Buffalo, NY 14214
 <br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com)
 
 **Name:** Niagara Metals
-<br>**Date:** Tuesday, April 22, 2025
-<br>**Time:** 11:30am to 1:00pm
+<br>**Date:** Wednesday, April 22, 2026
+<br>**Time:** 11:00am to 1:00pm
 <br>**Cleaning Area:** Earth Day celebration with WNY Trash Mob!, recycling education and free lunch
-<br>**Registration:** 761 Hertel Ave.
+<br>**Registration:** Niagara Metals at 3035 Union Rd Cheektowaga, NY 14227
 
-**Name:** Unicorn Borne Productions and Ba.Sing.GayGardenz
-<br>**Date:** Tuesday, April 22, 2025
-<br>**Time:** 10:00am to 12:00pm
-<br>**Cleaning Area:** Central Park neighborhood (Leroy) Fillmore Ave
-<br>**Registration:** New Golden Nugget parking lot at 2046 Fillmore Ave.
-<br>**Contact:** Cholly [unicornborne@gmail.com](mailto:unicornborne@gmail.com)
+**Name:** Vision Niagara, WonderBrink, Niagara River Greenway
+<br>**Date:** Wednesday, April 22, 2026
+<br>**Time:** 5:30am to 7:00pm
+<br>**Cleaning Area:** Cycletrack on Niagara St., South from Britesmith Brewing
+<br>**Sign-In:** 1250 Niagara Street
+<br>**Contact:** Leslie [info@visionniagara.org](mailto:info@visionniagara.org)
 
-**Name:** Niagara Co-Op Cleanup
-<br>**Date:** Tuesday, April 22, 2025
-<br>**Time:** 10:00am to 1:00pm
-<br>**Cleaning Area:** Around Niagara Falls Library
-<br>**Registration:** 1425 Main St., Niagara Falls
-<br>**Contact:** Kayla Briggs [kkayma05@aol.com](mailto:kkayma05@aol.com)
 
-**Name:** Martin Luther King Park cleanup	
-<br>**Date:** Tuesday, April 22, 2025
-<br>**Time:** 12:00pm to 2:00pm
-<br>**Registration:** Martin Luther King Park	
-<br>**Contact:** Marcus Moses [marcus@topofthelinecleaninginc.com](mailtop:marcus@topofthelinecleaninginc.com)
+More cleanups and posters will be added soon!
 
-More cleanups are in the posters below!
+
+{% comment %}
+<figure style="max-width: 540px" class="align-center">
+  <img src="/assets/images/posters/earthday20250422pt2.png" alt="Earth Day Clean Up Contest">
+  <figcaption></figcaption>
+</figure> 
 
 
 **Name:** 
@@ -155,11 +159,9 @@ More cleanups are in the posters below!
 <br>**Cleaning Area:** 
 <br>**Registration:** 
 <br>**Contact:** [](mailto:)
-
-
 
 <figure style="max-width: 540px" class="align-center">
-  <img src="/assets/images/posters/earthday20250422pt1.png" alt="Earth Day Clean Up Contest">
+  <img src="/assets/images/posters/earthday2026/HertelAve20260425.png" alt="Hertel Ave Cleanup">
   <figcaption></figcaption>
 </figure> 
 

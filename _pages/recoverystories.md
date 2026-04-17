@@ -16,7 +16,7 @@ RSVP is always available on [Eventbrite](
     https://www.eventbrite.com/e/recovery-stories-tickets-1984697559828
 ){: .btn .btn--success}<br>
 
-Alternatively, you welcome to RSVP below.
+Alternatively, you are welcome to RSVP below.
 
 Thoughts? Please reach out to Recovery Stories founder Samuel Floyd
 at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
