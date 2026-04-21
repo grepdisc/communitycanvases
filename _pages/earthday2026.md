@@ -94,7 +94,7 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Date:** Wednesday, April 22, 2026
 <br>**Time:** 12:00pm until done
 <br>**Meet up spot:** 329 Roehrer Avenue (directly across in front garden) 
-<br>**Registration:** Sign up [here](https://forms.gle/twXRMsevgZ9mMm)
+<br>**Registration:** Sign up [here](https://forms.gle/twXRMsevgZ9mMmL28)
 <br>**Contact:** [Ron Dixon](mailto:info@youthguardianprogram.com)
 
 **Name:** Explore & More Staff
