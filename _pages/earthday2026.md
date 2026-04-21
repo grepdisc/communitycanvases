@@ -68,23 +68,6 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 
 ## List of  Cleanups that are participating in WNY Trash Mobs' Earth Day Clean Up Challenge 2026
 
-### Saturday
-
-
-**Name:** Earth Day on the East Side
-<br>**Date:** Saturday, April 18, 2026
-<br>**Time:** 9:00am to 11:00pm
-<br>**Cleaning Area:** Around 1412 Jefferson Ave. and other East Side locations
-<br>**Sign-in:**  1412 Jefferson Ave., Buffalo, NY 14208
-<br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com) or James Coughlin []()
-<br>**Organizations:** East Side Stewards, Justice for Geraldine and Martin, Farmer Pirates, and LOLA
-
-**Name:** The Dewitt Street Block Club and 5 Loaves Farms
-<br>**Date:** Saturday, April 18, 2026
-<br>**Time:** 10:00am to 2:00pm
-<br>**Location:** 70 West Delavan Ave, Buffalo, NY 14213
-<br>**Description:** There’s no need to sign up. Just show up at 5 Loaves Farm (70 W Delavan), and we’ll have all the clean-up supplies and refreshments you need.
-
 ### Wednesday
 
 **Name:** Trinidad Neighborhood Association
@@ -126,6 +109,23 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 
 
 More cleanups and posters will be added soon!
+
+
+### From Last Saturday - April 18, 2026
+
+**Name:** Earth Day on the East Side
+<br>**Date:** Saturday, April 18, 2026
+<br>**Time:** 9:00am to 11:00pm
+<br>**Cleaning Area:** Around 1412 Jefferson Ave. and other East Side locations
+<br>**Sign-in:**  1412 Jefferson Ave., Buffalo, NY 14208
+<br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com) or James Coughlin []()
+<br>**Organizations:** East Side Stewards, Justice for Geraldine and Martin, Farmer Pirates, and LOLA
+
+**Name:** The Dewitt Street Block Club and 5 Loaves Farms
+<br>**Date:** Saturday, April 18, 2026
+<br>**Time:** 10:00am to 2:00pm
+<br>**Location:** 70 West Delavan Ave, Buffalo, NY 14213
+<br>**Description:** There’s no need to sign up. Just show up at 5 Loaves Farm (70 W Delavan), and we’ll have all the clean-up supplies and refreshments you need.
 
 
 {% comment %}
