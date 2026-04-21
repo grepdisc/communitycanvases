@@ -12,29 +12,31 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
-    /earthday2026/){: .btn .btn--success}<br>
-**The Moral Imperative 2026**
+WNY Trash Mob's Earth Day Clean Up Challenge 2026 is here![Cleanups & Details](
+    /earthday2026/){: .btn .btn--large .btn--success}<br>
+**The Moral Imperative 2026 at BABEL April 23rd**
    [Details](/moralimperative/){: .btn .btn--success}<br>
-Community Swing 6pm to 9pm every Wednesday [Details](
+Community Swing live music **Rockabilly Steve and the BR3 April 29th** [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Buffalo Hive article on The Moral Imperative 2026
    [Details](
        https://thebuffalohive.com/community-canvases-presents-the-moral-imperative-a-literary-event/
    ){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:00pm April 20th**
+Our partner - **Recovery Stories at 5:30pm May 18th**
     [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
-Thank you for supporting Community Canvases' Annual Appeal
-    [Donate](
-        https://secure.givelively.org/donate/community-canvases-incorporated
-    ){: .btn .btn--large .btn--success}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://kindfools.org/home/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Thank you for supporting Community Canvases' Annual Appeal
+    [Donate](
+        https://secure.givelively.org/donate/community-canvases-incorporated
+    ){: .btn .btn--large .btn--success}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Community Swing live music **Chuck Abell & Soul City 6pm March 25th** [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Band Together for Food raised almost $2,000 for Journey's End. Thanks!!!

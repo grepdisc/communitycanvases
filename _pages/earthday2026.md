@@ -100,12 +100,29 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Cleaning Area:** Earth Day celebration with WNY Trash Mob!, recycling education and free lunch
 <br>**Registration:** Niagara Metals at 3035 Union Rd Cheektowaga, NY 14227
 
+
+**Name:** BPS 53 - Nan M. Woods School of Excellence and Project Prevent and Buffalo Street Tree
+<br>**Date:** Wednesday, April 22, 2026
+<br>**Time:** 12:00pm until done
+<br>**Cleaning Area:** 329 Roehrer Avenue (directly across in front garden) 
+<br>**Registration:** Sign up [here](https://forms.gle/twXRMsevgZ9mMm)
+<br>**Contact:** [Ron Dixon](mailto:info@youthguardianprogram.com)
+
+
 **Name:** Vision Niagara, WonderBrink, Niagara River Greenway
 <br>**Date:** Wednesday, April 22, 2026
-<br>**Time:** 5:30am to 7:00pm
+<br>**Time:** 5:30pm to 7:00pm
 <br>**Cleaning Area:** Cycletrack on Niagara St., South from Britesmith Brewing
 <br>**Sign-In:** 1250 Niagara Street
 <br>**Contact:** Leslie [info@visionniagara.org](mailto:info@visionniagara.org)
+
+
+**Name:** Nickel City Athletics
+<br>**Date:** Wednesday, April 22, 2026
+<br>**Time:** 5:30pm to 7:00pm
+<br>**Cleaning Area:** Around 247 Virginia St.
+<br>**Registration:** Show up at 247 Virginia St.
+<br>**Contact:** [Becca Witkin](mailto:becca@nickelcityathletics.com) 
 
 
 More cleanups and posters will be added soon!
