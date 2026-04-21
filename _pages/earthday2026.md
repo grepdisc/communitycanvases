@@ -74,27 +74,26 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Date:** Wednesday, April 22, 2026
 <br>**Time:** 9:00am to 12:00pm
 <br>**Cleaning Area:** Trinidad Neighborhood - Hamlin Park
-<br>**Registration:** 40-22 Trinidad Pl, Buffalo, NY 14214
+<br>**Meet up spot:** 40-22 Trinidad Pl, Buffalo, NY 14214
 <br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com)
 
 **Name:** Bailey Ave Cleanup
 <br>**Date:** Wednesday, April 22, 2026 and Thursday, April 23, 2026
 <br>**Time:** 9:00am to 3:00pm
-<br>**Cleaning Area:** Around 2777 Bailey Ave
-<br>**Registration:** 2777 Bailey Ave, Buffalo, NY 14215
+<br>**Cleaning Area:** Bailey Ave at 2777 Bailey
+<br>**Meet up spot:** 2777 Bailey Ave, Buffalo, NY 14215
 <br>**Contact:** [Lea the Teacha](mailto:leagriffin101@gmail.com)
 
 **Name:** Niagara Metals
 <br>**Date:** Wednesday, April 22, 2026
 <br>**Time:** 11:00am to 1:00pm
-<br>**Cleaning Area:** Earth Day celebration with WNY Trash Mob!, recycling education and free lunch
+<br>**Description:** Earth Day celebration with WNY Trash Mob!, recycling education and free lunch
 <br>**Registration:** Niagara Metals at 3035 Union Rd Cheektowaga, NY 14227
-
 
 **Name:** BPS 53 - Nan M. Woods School of Excellence and Project Prevent and Buffalo Street Tree
 <br>**Date:** Wednesday, April 22, 2026
 <br>**Time:** 12:00pm until done
-<br>**Cleaning Area:** 329 Roehrer Avenue (directly across in front garden) 
+<br>**Meet up spot:** 329 Roehrer Avenue (directly across in front garden) 
 <br>**Registration:** Sign up [here](https://forms.gle/twXRMsevgZ9mMm)
 <br>**Contact:** [Ron Dixon](mailto:info@youthguardianprogram.com)
 
@@ -102,13 +101,13 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Date:** Wednesday, April 22, 2026
 <br>**Time:** 3:00pm until done
 <br>**Cleaning Area:** Canalside, under the skyway, Marine Drive, Commercial
-<br>**Registration:** 130 Main Street Buffalo NY 14202
+<br>**Meet up spot:** 130 Main Street Buffalo NY 14202
 <br>**Contact:** Ryan O'Vell [dmcclain@exploreandmore.org](mailto:dmcclain@exploreandmore.org)
 
 **Name:** BPS 53 - Nan M. Woods School of Excellence and Project Prevent and Buffalo Street Tree
 <br>**Date:** Wednesday, April 22, 2026
 <br>**Time:** 12:00pm until done
-<br>**Cleaning Area:** 329 Roehrer Avenue (directly across in front garden) 
+<br>**Meet up spot:** 329 Roehrer Avenue (directly across in front garden) 
 <br>**Registration:** Sign up [here](https://forms.gle/twXRMsevgZ9mMm)
 <br>**Contact:** [Ron Dixon](mailto:info@youthguardianprogram.com)
 
@@ -117,15 +116,15 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Date:** Wednesday, April 22, 2026
 <br>**Time:** 5:30pm to 7:00pm
 <br>**Cleaning Area:** Cycletrack on Niagara St., South from Britesmith Brewing
-<br>**Sign-In:** 1250 Niagara Street
+<br>**Meet up spot:** 1250 Niagara Street
 <br>**Contact:** Leslie [info@visionniagara.org](mailto:info@visionniagara.org)
 
 
 **Name:** Nickel City Athletics
 <br>**Date:** Wednesday, April 22, 2026
-<br>**Time:** 5:30pm to 7:00pm
+<br>**Time:** 5:45pm until done
 <br>**Cleaning Area:** Around 247 Virginia St.
-<br>**Registration:** Show up at 247 Virginia St.
+<br>**Meet up spot:** 247 Virginia St.
 <br>**Contact:** [Becca Witkin](mailto:becca@nickelcityathletics.com) 
 
 
