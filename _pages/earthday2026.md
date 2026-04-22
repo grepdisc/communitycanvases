@@ -104,13 +104,6 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Meet up spot:** 130 Main Street Buffalo NY 14202
 <br>**Contact:** Ryan O'Vell [dmcclain@exploreandmore.org](mailto:dmcclain@exploreandmore.org)
 
-**Name:** BPS 53 - Nan M. Woods School of Excellence and Project Prevent and Buffalo Street Tree
-<br>**Date:** Wednesday, April 22, 2026
-<br>**Time:** 12:00pm until done
-<br>**Meet up spot:** 329 Roehrer Avenue (directly across in front garden) 
-<br>**Registration:** Sign up [here](https://forms.gle/twXRMsevgZ9mMm)
-<br>**Contact:** [Ron Dixon](mailto:info@youthguardianprogram.com)
-
 
 **Name:** Vision Niagara, WonderBrink, Niagara River Greenway
 <br>**Date:** Wednesday, April 22, 2026
