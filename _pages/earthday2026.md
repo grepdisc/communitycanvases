@@ -70,19 +70,54 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 
 ### Wednesday
 
+**Name:** Vision Niagara, WonderBrink, Niagara River Greenway
+<br>**Date:** Wednesday, April 22, 2026
+<br>**Time:** 5:30pm to 7:00pm
+<br>**Cleaning Area:** Cycletrack on Niagara St., South from Britesmith Brewing
+<br>**Meet up spot:** 1250 Niagara Street
+<br>**Contact:** Leslie [info@visionniagara.org](mailto:info@visionniagara.org)
+
+**Name:** Nickel City Athletics
+<br>**Date:** Wednesday, April 22, 2026
+<br>**Time:** 5:45pm until done
+<br>**Cleaning Area:** Around 247 Virginia St.
+<br>**Meet up spot:** 247 Virginia St.
+<br>**Contact:** [Becca Witkin](mailto:becca@nickelcityathletics.com) 
+
+### Thursday
+
+**Name:** Bailey Ave Cleanup
+<br>**Date:** Wednesday, April 22, 2026 and Thursday, April 23, 2026
+<br>**Time:** 9:00am to 2:00pm
+<br>**Cleaning Area:** Bailey Ave at 2777 Bailey
+<br>**Meet up spot:** 2777 Bailey Ave, Buffalo, NY 14215
+<br>**Contact:** [Lea the Teacha](mailto:leagriffin101@gmail.com) or DM [@theteachsclassroom](http://instagram.com/theteachasclassroom)
+
+More cleanups and posters will be added soon!
+
+
+### COMPLETED Cleanups
+
+**Name:** Earth Day on the East Side
+<br>**Date:** Saturday, April 18, 2026
+<br>**Time:** 9:00am to 11:00pm
+<br>**Cleaning Area:** Around 1412 Jefferson Ave. and other East Side locations
+<br>**Sign-in:**  1412 Jefferson Ave., Buffalo, NY 14208
+<br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com) or James Coughlin []()
+<br>**Organizations:** East Side Stewards, Justice for Geraldine and Martin, Farmer Pirates, and LOLA
+
+**Name:** The Dewitt Street Block Club and 5 Loaves Farms
+<br>**Date:** Saturday, April 18, 2026
+<br>**Time:** 10:00am to 2:00pm
+<br>**Location:** 70 West Delavan Ave, Buffalo, NY 14213
+<br>**Description:** There’s no need to sign up. Just show up at 5 Loaves Farm (70 W Delavan), and we’ll have all the clean-up supplies and refreshments you need.
+
 **Name:** Trinidad Neighborhood Association
 <br>**Date:** Wednesday, April 22, 2026
 <br>**Time:** 9:00am to 12:00pm
 <br>**Cleaning Area:** Trinidad Neighborhood - Hamlin Park
 <br>**Meet up spot:** 40-22 Trinidad Pl, Buffalo, NY 14214
 <br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com)
-
-**Name:** Bailey Ave Cleanup
-<br>**Date:** Wednesday, April 22, 2026 and Thursday, April 23, 2026
-<br>**Time:** 9:00am to 3:00pm
-<br>**Cleaning Area:** Bailey Ave at 2777 Bailey
-<br>**Meet up spot:** 2777 Bailey Ave, Buffalo, NY 14215
-<br>**Contact:** [Lea the Teacha](mailto:leagriffin101@gmail.com)
 
 **Name:** Niagara Metals
 <br>**Date:** Wednesday, April 22, 2026
@@ -104,41 +139,6 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Meet up spot:** 130 Main Street Buffalo NY 14202
 <br>**Contact:** Ryan O'Vell [dmcclain@exploreandmore.org](mailto:dmcclain@exploreandmore.org)
 
-
-**Name:** Vision Niagara, WonderBrink, Niagara River Greenway
-<br>**Date:** Wednesday, April 22, 2026
-<br>**Time:** 5:30pm to 7:00pm
-<br>**Cleaning Area:** Cycletrack on Niagara St., South from Britesmith Brewing
-<br>**Meet up spot:** 1250 Niagara Street
-<br>**Contact:** Leslie [info@visionniagara.org](mailto:info@visionniagara.org)
-
-
-**Name:** Nickel City Athletics
-<br>**Date:** Wednesday, April 22, 2026
-<br>**Time:** 5:45pm until done
-<br>**Cleaning Area:** Around 247 Virginia St.
-<br>**Meet up spot:** 247 Virginia St.
-<br>**Contact:** [Becca Witkin](mailto:becca@nickelcityathletics.com) 
-
-
-More cleanups and posters will be added soon!
-
-
-### From Last Saturday - April 18, 2026
-
-**Name:** Earth Day on the East Side
-<br>**Date:** Saturday, April 18, 2026
-<br>**Time:** 9:00am to 11:00pm
-<br>**Cleaning Area:** Around 1412 Jefferson Ave. and other East Side locations
-<br>**Sign-in:**  1412 Jefferson Ave., Buffalo, NY 14208
-<br>**Contact:** Tendaji Ya'Ukuu [eastsidestewards@gmail.com](mailto:eastsidestewards@gmail.com) or James Coughlin []()
-<br>**Organizations:** East Side Stewards, Justice for Geraldine and Martin, Farmer Pirates, and LOLA
-
-**Name:** The Dewitt Street Block Club and 5 Loaves Farms
-<br>**Date:** Saturday, April 18, 2026
-<br>**Time:** 10:00am to 2:00pm
-<br>**Location:** 70 West Delavan Ave, Buffalo, NY 14213
-<br>**Description:** There’s no need to sign up. Just show up at 5 Loaves Farm (70 W Delavan), and we’ll have all the clean-up supplies and refreshments you need.
 
 
 {% comment %}
