@@ -154,7 +154,7 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Description:** The Glorious Gamma Kappa Chapter of Delta Sigma Theta Sorority Incorporated helps clean up for the Earth Day Clean-up Challenge.
 
 **Name:** Grant Street Cleanup
-**Organizers:** Westside Taxpayers and Business Association, Good Neighbors Credit Union, and M&T Bank
+<br>**Organizers:** Westside Taxpayers and Business Association, Good Neighbors Credit Union, and M&T Bank
 <br>**Date:** Saturday, April 25, 2026
 <br>**Time:** 1pm to 3pm
 <br>**Cleaning Area:** Grant Street from West Ferry to Delavan
