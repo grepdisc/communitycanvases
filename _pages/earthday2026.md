@@ -68,32 +68,85 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 
 ## List of  Cleanups that are participating in WNY Trash Mobs' Earth Day Clean Up Challenge 2026
 
-### Wednesday
+### Saturday
 
-**Name:** Vision Niagara, WonderBrink, Niagara River Greenway
-<br>**Date:** Wednesday, April 22, 2026
-<br>**Time:** 5:30pm to 7:00pm
-<br>**Cleaning Area:** Cycletrack on Niagara St., South from Britesmith Brewing
-<br>**Meet up spot:** 1250 Niagara Street
-<br>**Contact:** Leslie [info@visionniagara.org](mailto:info@visionniagara.org)
+**Name:** Seneca Babcock Community Block Club
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 8:30am until done
+<br>**Cleaning Area:** Seneca Street, Quinn, Perry, Elk (from Bailey Ave to Smith / Fillmore)
+<br>**Check-in Location:** 1168 Seneca Street, Buffalo NY 14210
+<br>**Contact:**dorriemcclain@gmail.com	Dorrie McClain	[](mailto:)
 
-**Name:** Nickel City Athletics
-<br>**Date:** Wednesday, April 22, 2026
-<br>**Time:** 5:45pm until done
-<br>**Cleaning Area:** Around 247 Virginia St.
-<br>**Meet up spot:** 247 Virginia St.
-<br>**Contact:** [Becca Witkin](mailto:becca@nickelcityathletics.com) 
+**Name:** Hertel Business Association	
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 9am to 12pm
+<br>**Cleaning Area:** Hertel Ave. Between Delaware and Starin
+<br>**Check-in Location:** 1453 Hertel HBA Office 
+<br>**Contact:** [Sal Dentico](mailto:info@hertel-ave.com)
 
-### Thursday
+**Organizers:** University Heights Collaborative, The Tool Library, and Parkside Community Association
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 10am to 1pm
+<br>**Cleaning Area:** Main Street in Buffalo from Kenmore Avenue to Humboldt Parkway
+<br>**Check-in Locations:** 2918 Main Street, 2626 Main Street, and 2318 Main Street 
+<br>**Contact:** Darren Cotton [darren@thetoollibrary.org](mailto:darren@thetoollibrary.org)
 
-**Name:** Bailey Ave Cleanup
-<br>**Date:** Wednesday, April 22, 2026 and Thursday, April 23, 2026
-<br>**Time:** 9:00am to 2:00pm
-<br>**Cleaning Area:** Bailey Ave at 2777 Bailey
-<br>**Meet up spot:** 2777 Bailey Ave, Buffalo, NY 14215
-<br>**Contact:** [Lea the Teacha](mailto:leagriffin101@gmail.com) or DM [@theteachsclassroom](http://instagram.com/theteachasclassroom)
+**Name:** West Side Park Block Club
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 10:00am to 12:00pm
+<br>**Cleaning Area:** Around Massachusetts Avenue Park
+<br>**Sign-in:** 387 Massachusetts Ave
+<br>**Contact:** Amanda Bentlet [westsideparkblockclub14213@gmail.com](mailto:westsideparkblockclub14213@gmail.com)
 
-More cleanups and posters will be added soon!
+**Name:** Concordia Cemetery volunteers
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:**  10am - noon
+<br>**Cleaning Area:** In and around Concordia Cemetary
+<br>**Check-in Location:** 438 Walden Ave, Buffalo 14211
+<br>**Contact:** Chris Cavarello [concordia1859@gmail.com](mailto:concordia1859@gmail.com)
+
+**Name:** North Pearl Gang
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 10am until done
+<br>**Cleaning Area:** North Pearl Street
+<br>**Check-in Locatton:** 142 North Pearl Street 
+<br>**Contact:** Beth Grossman[Beth Grossman](mailto:Betsdz@gmail.com)
+
+**Name:** Lower Elmwood Cleanup
+**Organizers:** Ashland Avenue Block Club 1st & 2nd Blocks / Hodge Block Club, BOSA
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 10am to 1pm
+<br>**Cleaning Area:** Ashland, to Bryant to  Elmwood to Lexington
+<br>**Check-in:** Former Rite Aid Parking Lot at 426 Elmwood
+<br>**Contact:** Linda Gellman [lindagellman628@gmail.com](mailto:lindagellman628@gmail.com)
+
+**Name:** On the Trail Picking Up Trash 
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 10am to 2pm
+<br>**Cleaning Area:** Starin/Sunoco Station hill, dirt trail, towards Shoshone Park
+<br>**Contact:** Karin Lowenthal call at (716) 863-6906
+
+**Organizers:** Delta Sigma Theta Sorority Inc. 
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 11am to 2pm
+<br>**Cleaning Area:** 
+<br>**Check-in Location:** 1R31 Dewitt Street
+<br>**Contact:** Jay call at (917) 363-1464
+<br>**Description:** The Glorious Gamma Kappa Chapter of Delta Sigma Theta Sorority Incorporated helps clean up for the Earth Day Clean-up Challenge.
+
+**Name:** Grant Street Cleanup
+**Organizers:** Westside Taxpayers and Business Association, Good Neighbors Credit Union, and M&T Bank
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 1pm to 3pm
+<br>**Cleaning Area:** Grant Street from West Ferry to Delavan
+<br>**Check-in Location:** M&T Bank parking lot at 130 Grant Street 
+<br>**Contact:** Elaine Grisanti [elainegrisanti@yahoo.com](mailto:elainegrisanti@yahoo.com)
+
+**Name:** International Schools Block Club
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 2pm to 4pm
+<br>**Cleaning Area:** Baynes and Auburn
+<br>**Contact:** [Leanne Khoury](mailto:khouryleanne@gmail.com)
 
 
 ### COMPLETED Cleanups
@@ -138,6 +191,29 @@ More cleanups and posters will be added soon!
 <br>**Cleaning Area:** Canalside, under the skyway, Marine Drive, Commercial
 <br>**Meet up spot:** 130 Main Street Buffalo NY 14202
 <br>**Contact:** Ryan O'Vell [dmcclain@exploreandmore.org](mailto:dmcclain@exploreandmore.org)
+
+**Name:** Vision Niagara, WonderBrink, Niagara River Greenway
+<br>**Date:** Wednesday, April 22, 2026
+<br>**Time:** 5:30pm to 7:00pm
+<br>**Cleaning Area:** Cycletrack on Niagara St., South from Britesmith Brewing
+<br>**Meet up spot:** 1250 Niagara Street
+<br>**Contact:** Leslie [info@visionniagara.org](mailto:info@visionniagara.org)
+
+**Name:** Nickel City Athletics
+<br>**Date:** Wednesday, April 22, 2026
+<br>**Time:** 5:45pm until done
+<br>**Cleaning Area:** Around 247 Virginia St.
+<br>**Meet up spot:** 247 Virginia St.
+<br>**Contact:** [Becca Witkin](mailto:becca@nickelcityathletics.com) 
+
+### Thursday
+
+**Name:** Bailey Ave Cleanup
+<br>**Date:** Wednesday, April 22, 2026 and Thursday, April 23, 2026
+<br>**Time:** 9:00am to 2:00pm
+<br>**Cleaning Area:** Bailey Ave at 2777 Bailey
+<br>**Meet up spot:** 2777 Bailey Ave, Buffalo, NY 14215
+<br>**Contact:** [Lea the Teacha](mailto:leagriffin101@gmail.com) or DM [@theteachsclassroom](http://instagram.com/theteachasclassroom)
 
 
 
