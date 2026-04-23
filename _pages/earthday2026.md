@@ -75,7 +75,7 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Time:** 8:30am until done
 <br>**Cleaning Area:** Seneca Street, Quinn, Perry, Elk (from Bailey Ave to Smith / Fillmore)
 <br>**Check-in Location:** 1168 Seneca Street, Buffalo NY 14210
-<br>**Contact:**dorriemcclain@gmail.com	Dorrie McClain	[](mailto:)
+<br>**Contact:** [Dorrie McClain](mailto:dorriemcclain@gmail.com)
 
 **Name:** Hertel Business Association	
 <br>**Date:** Saturday, April 25, 2026
@@ -84,12 +84,15 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Check-in Location:** 1453 Hertel HBA Office 
 <br>**Contact:** [Sal Dentico](mailto:info@hertel-ave.com)
 
-**Organizers:** University Heights Collaborative, The Tool Library, and Parkside Community Association
+**Name:** Main Street MEGA Cleanup
+<br>**Date:** Saturday, April 25, 2026
+<br>**Organizers:** University Heights Collaborative, The Tool Library, and Parkside Community Association
 <br>**Date:** Saturday, April 25, 2026
 <br>**Time:** 10am to 1pm
 <br>**Cleaning Area:** Main Street in Buffalo from Kenmore Avenue to Humboldt Parkway
 <br>**Check-in Locations:** 2918 Main Street, 2626 Main Street, and 2318 Main Street 
 <br>**Contact:** Darren Cotton [darren@thetoollibrary.org](mailto:darren@thetoollibrary.org)
+<br>**Registration**: [https://thetoollibrary.org/service/](https://thetoollibrary.org/service/)
 
 **Name:** West Side Park Block Club
 <br>**Date:** Saturday, April 25, 2026
@@ -110,10 +113,10 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Time:** 10am until done
 <br>**Cleaning Area:** North Pearl Street
 <br>**Check-in Locatton:** 142 North Pearl Street 
-<br>**Contact:** Beth Grossman[Beth Grossman](mailto:Betsdz@gmail.com)
+<br>**Contact:** Beth Grossman [Beth Grossman](mailto:Betsdz@gmail.com)
 
 **Name:** Lower Elmwood Cleanup
-**Organizers:** Ashland Avenue Block Club 1st & 2nd Blocks / Hodge Block Club, BOSA
+<br>**Organizers:** Ashland Avenue Block Club 1st & 2nd Blocks / Hodge Block Club, BOSA
 <br>**Date:** Saturday, April 25, 2026
 <br>**Time:** 10am to 1pm
 <br>**Cleaning Area:** Ashland, to Bryant to  Elmwood to Lexington
