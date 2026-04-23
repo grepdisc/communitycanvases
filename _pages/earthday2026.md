@@ -123,11 +123,27 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Check-in:** Former Rite Aid Parking Lot at 426 Elmwood
 <br>**Contact:** Linda Gellman [lindagellman628@gmail.com](mailto:lindagellman628@gmail.com)
 
+**Name:** Woodlawn Beach Cleanup and Spring Sweep
+<br>**Organizers:** Assemblymember Jon Rivera
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 10am to 12pm
+<br>**Cleaning Area:** Woodlawn Beach
+<br>**Check-in Location:** 
+<br>**Contact:** Alyssa at Assemblymember Rivera's office at 716-885-9630
+<br>**Registration:** [FB Event](https://www.facebook.com/events/woodlawn-beach-state-park/woodlawn-beach-cleanup-and-spring-sweep/2112512926211888/) and [Sign-up](https://pro.gofundme.com/event/spring-sweep-2026-woodlawn-beach-state-park/e773267)
+
 **Name:** On the Trail Picking Up Trash 
 <br>**Date:** Saturday, April 25, 2026
 <br>**Time:** 10am to 2pm
 <br>**Cleaning Area:** Starin/Sunoco Station hill, dirt trail, towards Shoshone Park
 <br>**Contact:** Karin Lowenthal call at (716) 863-6906
+
+**Name:** PS3 Cleanup with Vision Niagara
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 11am to 1pm
+<br>**Cleaning Area:** Clean from Porter Avenue to Caroline Street
+<br>**Check-in Location:** PS3 at 255 Porter Avenue
+<br>**Contact:** [Noah Falck](mailto:nfalck@justbuffalo.org)
 
 **Organizers:** Delta Sigma Theta Sorority Inc. 
 <br>**Date:** Saturday, April 25, 2026
