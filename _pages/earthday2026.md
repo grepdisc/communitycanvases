@@ -170,6 +170,35 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 </figure> 
 
 
+<figure style="max-width: 773px" class="align-center">
+  <img src="/assets/images/posters/Extra-Extra-Postponed-2026.jpg" alt="Earth Day Clean Up Contest 2026">
+  <figcaption></figcaption>
+</figure> 
+
+
+<figure style="max-width: 773px" class="align-center">
+  <img src="/assets/images/posters/Hertel-Ave-Cleanup-Postponed.jpg" alt="Earth Day Clean Up Contest 2026">
+  <figcaption></figcaption>
+</figure> 
+
+
+<figure style="max-width: 773px" class="align-center">
+  <img src="/assets/images/posters/Mid-Elmwood-Rain-Date-2026-small.jpg" alt="Earth Day Clean Up Contest 2026">
+  <figcaption></figcaption>
+</figure> 
+
+
+<figure style="max-width: 1000px" class="align-center">
+  <img src="/assets/images/posters/Woodlawn-Beach-Cleanup2026.jpg" alt="Earth Day Clean Up Contest 2026">
+  <figcaption></figcaption>
+</figure> 
+
+
+<figure style="max-width: 1000px" class="align-center">
+  <img src="/assets/images/posters/International-School-April-25-2026.png" alt="Earth Day Clean Up Contest 2026">
+  <figcaption></figcaption>
+</figure> 
+
 
 
 ### Sign up for an Earth Day cleanup!<br>
