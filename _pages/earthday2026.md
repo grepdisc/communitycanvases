@@ -143,7 +143,7 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Date:** Saturday, April 25, 2026
 <br>**Time:** 10:30am to 12pm
 <br>**Cleaning Area:** Around 5 Points
-<br>**Check-in:** Meet at Extra Extra, receive your route, clean, then return for pizza and a beverage
+<br>**Check-in:** Meet at Extra Extra at 549 W. Utica St., receive your route, clean, then return for pizza and a beverage
 
 **Name:** PS3 Cleanup with Vision Niagara
 <br>**Date:** Saturday, April 25, 2026
