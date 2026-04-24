@@ -115,14 +115,6 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Check-in Locatton:** 142 North Pearl Street 
 <br>**Contact:** Beth Grossman [Beth Grossman](mailto:Betsdz@gmail.com)
 
-**Name:** Mid-Elmwood Cleanup
-<br>**Organizers:** Ashland Avenue Block Club 1st & 2nd Blocks / Hodge Block Club, BOSA
-<br>**Date:** ~~Saturday, April 25, 2026~~ New Date of Sunday, April 26, 2026
-<br>**Time:** 10am to 1pm
-<br>**Cleaning Area:** Ashland, to Bryant to  Elmwood to Lexington
-<br>**Check-in:** Former Rite Aid Parking Lot at 426 Elmwood
-<br>**Contact:** Linda Gellman [lindagellman628@gmail.com](mailto:lindagellman628@gmail.com)
-
 **Name:** Woodlawn Beach Cleanup and Spring Sweep
 <br>**Organizers:** Assemblymember Jon Rivera
 <br>**Date:** Saturday, April 25, 2026
@@ -137,13 +129,6 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Time:** 10am to 2pm
 <br>**Cleaning Area:** Starin/Sunoco Station hill, dirt trail, towards Shoshone Park
 <br>**Contact:** Karin Lowenthal call at (716) 863-6906
-
-**Name:** Extra Extra Cleans Up
-<br>**Organizers:** Extra Extra Pizza
-<br>**Date:** Saturday, April 25, 2026
-<br>**Time:** 10:30am to 12pm
-<br>**Cleaning Area:** Around 5 Points
-<br>**Check-in:** Meet at Extra Extra at 549 W. Utica St., Buffalo, NY 14213, receive your route, clean, then return for pizza and a beverage
 
 **Name:** PS3 Cleanup with Vision Niagara
 <br>**Date:** Saturday, April 25, 2026
@@ -184,6 +169,14 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Check-in:** Former Rite Aid Parking Lot at 426 Elmwood
 <br>**Contact:** Linda Gellman [lindagellman628@gmail.com](mailto:lindagellman628@gmail.com)
 
+### Saturday May 2nd
+
+**Name:** Extra Extra Cleans Up
+<br>**Organizers:** Extra Extra Pizza
+<br>**Date:** ~~Saturday, April 25, 2026~~ Rescheduled for Saturday, May 2, 2026
+<br>**Time:** 10:30am to 12pm
+<br>**Cleaning Area:** Around 5 Points
+<br>**Check-in:** Meet at Extra Extra at 549 W. Utica St., Buffalo, NY 14213, receive your route, clean, then return for pizza and a beverage
 
 ### COMPLETED Cleanups
 
