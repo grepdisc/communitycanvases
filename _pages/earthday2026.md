@@ -17,13 +17,6 @@ header:
 4. Submit your cleaning data 
 * Who can get involved – Anyone! Neighbors Businesses, Block Clubs, Community Groups, Individuals, Legislators, Volunteer Groups, City Officials, Schools, etc.
 
-### Sign up for an Earth Day cleanup!<br>
-[Register Your Cleanup](
-    https://docs.google.com/forms/d/17KyXORsi8Y5ojQqbnVIPYvnaMafL5FsbaXS9nZ4dVuE/viewform
-){: .btn .btn--large .btn--success}
-{:, .text-center}
-
-
 ## Data
 Did you organize a cleanup? Please remember to submit the DATA form.
 This brief and simple form provides WNY Trash Mob and our partners
@@ -137,14 +130,6 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Check-in Location:** PS3 at 255 Porter Avenue
 <br>**Contact:** [Noah Falck](mailto:nfalck@justbuffalo.org)
 
-**Organizers:** Delta Sigma Theta Sorority Inc. 
-<br>**Date:** Saturday, April 25, 2026
-<br>**Time:** 11am to 2pm
-<br>**Cleaning Area:** 
-<br>**Check-in Location:** 131 Dewitt Street
-<br>**Contact:** Jay call at (917) 363-1464
-<br>**Description:** The Glorious Gamma Kappa Chapter of Delta Sigma Theta Sorority Incorporated helps clean up for the Earth Day Clean-up Challenge.
-
 **Name:** Grant Street Cleanup
 <br>**Organizers:** Westside Taxpayers and Business Association, Good Neighbors Credit Union, and M&T Bank
 <br>**Date:** Saturday, April 25, 2026
@@ -177,6 +162,22 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Time:** 10:30am to 12pm
 <br>**Cleaning Area:** Around 5 Points
 <br>**Check-in:** Meet at Extra Extra at 549 W. Utica St., Buffalo, NY 14213, receive your route, clean, then return for pizza and a beverage
+
+
+<figure style="max-width: 773px" class="align-center">
+  <img src="/assets/images/posters/Earth-Day-2026-Flyer-Small.jpg" alt="Earth Day Clean Up Contest 2026">
+  <figcaption></figcaption>
+</figure> 
+
+
+
+
+### Sign up for an Earth Day cleanup!<br>
+[Register Your Cleanup](
+    https://docs.google.com/forms/d/17KyXORsi8Y5ojQqbnVIPYvnaMafL5FsbaXS9nZ4dVuE/viewform
+){: .btn .btn--large .btn--success}
+{:, .text-center}
+
 
 ### COMPLETED Cleanups
 
@@ -252,6 +253,10 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
   <figcaption></figcaption>
 </figure> 
 
+<figure style="max-width: 773px" class="align-center">
+  <img src="/assets/images/posters/Earth-Day-2026-Flyer-Small.jpg" alt="Earth Day Clean Up Contest 2026">
+  <figcaption></figcaption>
+</figure> 
 
 **Name:** 
 <br>**Date:** 
