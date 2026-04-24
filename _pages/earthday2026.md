@@ -71,7 +71,7 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Contact:** [Dorrie McClain](mailto:dorriemcclain@gmail.com)
 
 **Name:** Hertel Business Association	
-<br>**Date:** Saturday, April 25, 2026
+<br>**Date:** ~~Saturday, April 25, 2026~~ POSTPONED
 <br>**Time:** 9am to 12pm
 <br>**Cleaning Area:** Hertel Ave. Between Delaware and Starin
 <br>**Check-in Location:** 1453 Hertel HBA Office 
