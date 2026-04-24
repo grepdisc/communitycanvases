@@ -156,7 +156,7 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Date:** Saturday, April 25, 2026
 <br>**Time:** 11am to 2pm
 <br>**Cleaning Area:** 
-<br>**Check-in Location:** 1R31 Dewitt Street
+<br>**Check-in Location:** 131 Dewitt Street
 <br>**Contact:** Jay call at (917) 363-1464
 <br>**Description:** The Glorious Gamma Kappa Chapter of Delta Sigma Theta Sorority Incorporated helps clean up for the Earth Day Clean-up Challenge.
 
