@@ -115,9 +115,9 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Check-in Locatton:** 142 North Pearl Street 
 <br>**Contact:** Beth Grossman [Beth Grossman](mailto:Betsdz@gmail.com)
 
-**Name:** Lower Elmwood Cleanup
+**Name:** Mid-Elmwood Cleanup
 <br>**Organizers:** Ashland Avenue Block Club 1st & 2nd Blocks / Hodge Block Club, BOSA
-<br>**Date:** Saturday, April 25, 2026
+<br>**Date:** ~~Saturday, April 25, 2026~~ New Date of Sunday, April 26, 2026
 <br>**Time:** 10am to 1pm
 <br>**Cleaning Area:** Ashland, to Bryant to  Elmwood to Lexington
 <br>**Check-in:** Former Rite Aid Parking Lot at 426 Elmwood
@@ -166,6 +166,16 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Time:** 2pm to 4pm
 <br>**Cleaning Area:** Baynes and Auburn
 <br>**Contact:** [Leanne Khoury](mailto:khouryleanne@gmail.com)
+
+### Sunday
+
+**Name:** Mid-Elmwood Cleanup
+<br>**Organizers:** Ashland Avenue Block Club 1st & 2nd Blocks / Hodge Block Club, BOSA
+<br>**Date:** ~~Saturday, April 25, 2026~~ New Date of Sunday, April 26, 2026
+<br>**Time:** 10am to 1pm
+<br>**Cleaning Area:** Ashland, to Bryant to  Elmwood to Lexington
+<br>**Check-in:** Former Rite Aid Parking Lot at 426 Elmwood
+<br>**Contact:** Linda Gellman [lindagellman628@gmail.com](mailto:lindagellman628@gmail.com)
 
 
 ### COMPLETED Cleanups
