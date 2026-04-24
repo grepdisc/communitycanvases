@@ -138,6 +138,13 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
 <br>**Cleaning Area:** Starin/Sunoco Station hill, dirt trail, towards Shoshone Park
 <br>**Contact:** Karin Lowenthal call at (716) 863-6906
 
+**Name:** Extra Extra Cleans Up
+<br>**Organizers:** Extra Extra Pizza
+<br>**Date:** Saturday, April 25, 2026
+<br>**Time:** 10:30am to 12pm
+<br>**Cleaning Area:** Around 5 Points
+<br>**Check-in:** Meet at Extra Extra, receive your route, clean, then return for pizza and a beverage
+
 **Name:** PS3 Cleanup with Vision Niagara
 <br>**Date:** Saturday, April 25, 2026
 <br>**Time:** 11am to 1pm
