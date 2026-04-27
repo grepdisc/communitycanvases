@@ -8,7 +8,7 @@ header:
 
 ---
 
-# Recovery Stories on Monday, April 20th
+# Recovery Stories
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
@@ -42,6 +42,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfz6GmHF8JsQfftlPl5737CsNeDNXLXarHFet_X
 
 # Prior Recovery Stories
 
+- April 20, 2026 at Roswell Park
 - March 23, 2026 at Roswell Park
 - February 16, 2026 at Fitz Books
 - January 26, 2026 on Zoom
