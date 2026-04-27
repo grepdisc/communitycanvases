@@ -7,20 +7,22 @@ author_profile: false
 
 ## Upcoming Events
 
-- Band Together for Food - December 7th at 1pm
-    [Details](https://www.facebook.com/events/1144182281198731){: .btn .btn--success}<br>
+- WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Cleanups & Details](
+    /earthday2026/){: .btn .btn--large .btn--success}<br>
+- Community Swing - Live Music on April 29th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-- WRITE ON on Tuesday, December 9th at 6pm and December 18th at 1:00pm
+- The Moral Imperative 
+    [Info](https://communitycanvases.org/moralimperative/){: .btn .btn--success}<br>
+- Kind Fools' WRITE ON! - May 21st at 6:00pm
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
-- Recovery Stories January 26, 2026 at 5:30pm [Info/Sign-up](
-    https://kindfools.org/recoverystories/){: .btn .btn--success}<br>
+- Recovery Stories May 18th at 5:30pm [Info/Sign-up](
+    https://communitycanvases.org/recoverystories/){: .btn .btn--success}<br>
 - "WRITE ON - Home" writing in your native language
     [Sign Up/Info](https://kindfools.org/home/){: .btn .btn--success}<br>
 - Direct Message - reclaim our creative voices [Details/Apply](
     https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
-- Community Swing - Live Music on November 26th [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 
 
 ## Event Calendar
@@ -32,6 +34,9 @@ author_profile: false
 </div>
 
 ## Past Events
+
+- Band Together for Food - December 7th at 1pm
+    [Details](https://www.facebook.com/events/1144182281198731){: .btn .btn--success}<br>
 
 - Kind Conversations August 8th [Info/Sign-up](
     https://kindfools.org/kindconversations/){: .btn .btn--success}<br>
