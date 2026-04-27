@@ -13,8 +13,8 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 is here [Cleanups & Details](
-    /earthday2026/){: .btn .btn--large .btn--success}<br>
-**The Moral Imperative 2026 at BABEL April 23rd**
+    /earthday2026/){: .btn .btn--success}<br>
+**The Moral Imperative 2026**
    [Details](/moralimperative/){: .btn .btn--success}<br>
 Community Swing live music **Rockabilly Steve and the BR3 April 29th** [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>

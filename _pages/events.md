@@ -8,7 +8,7 @@ author_profile: false
 ## Upcoming Events
 
 - WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Cleanups & Details](
-    /earthday2026/){: .btn .btn--large .btn--success}<br>
+    /earthday2026/){: .btn .btn--success}<br>
 - Community Swing - Live Music on April 29th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 - Community Swing 6pm to 9pm every Wednesday [Details](
