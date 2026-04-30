@@ -28,8 +28,10 @@ Buffalo Hive article on The Moral Imperative 2026
 Our partner - **Recovery Stories at 5:30pm May 18th**
     [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
+WNY Trash Mob's **Grant Street Cleanup** 11am June 20th [Details](
+    /events/cleanup20260620/){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
-    [Details](https://kindfools.org/home/){: .btn .btn--info}<br>
+    [Details](https://communitycanvases.org/home/){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
