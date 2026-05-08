@@ -12,30 +12,34 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Community Swing live music **Rockabilly Steve and the BR3 April 29th** [Details](
+Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-WNY Trash Mob's Earth Day Clean Up Challenge 2026 is here [Cleanups & Details](
-    /earthday2026/){: .btn .btn--success}<br>
+WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
+    /earthday2026/){: .btn .btn--info}<br>
+Our partner - **Recovery Stories at 5:30pm May 18th**
+    [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
+Kind Fools' WRITE ON! at the First Presbyterian Church at 6:00pm May 21st
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 **The Moral Imperative 2026**
    [Details](/moralimperative/){: .btn .btn--info}<br>
 Buffalo Rising article on the Earth Day Cleanup Challenge
     [Article](https://www.buffalorising.com/2026/04/trash-mobs-beautification-grants-kind-fools-swing-dancing-call-for-artists-and-community-canvases/
     ){: .btn .btn--success}<br>
-Buffalo Hive article on The Moral Imperative 2026
-   [Article](
-       https://thebuffalohive.com/community-canvases-presents-the-moral-imperative-a-literary-event/
-   ){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:30pm May 18th**
-    [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
 WNY Trash Mob's **Grant Street Cleanup** 11am June 20th [Details](
     /events/cleanup20260620/){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://communitycanvases.org/home/){: .btn .btn--info}<br>
+Buffalo Hive article on The Moral Imperative 2026
+   [Article](
+       https://thebuffalohive.com/community-canvases-presents-the-moral-imperative-a-literary-event/
+   ){: .btn .btn--info}<br>
 Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Community Swing live music **Rockabilly Steve and the BR3 April 29th** [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for supporting Community Canvases' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
