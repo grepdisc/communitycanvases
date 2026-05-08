@@ -59,7 +59,7 @@ to make our communities even more beautiful.
 Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob@communitycanvases.org) or [(716) 259-2725](tel:7162592725)
 ## Thank you
 
-## List of  Cleanups that are participating in WNY Trash Mobs' Earth Day Clean Up Challenge 2026
+## List of  Cleanups that participated in WNY Trash Mobs' Earth Day Clean Up Challenge 2026
 
 ### Saturday
 
@@ -199,16 +199,6 @@ Please reach out to us at [wnytrashmob@communitycanvases.org](mailto:wnytrashmob
   <figcaption></figcaption>
 </figure> 
 
-
-
-### Sign up for an Earth Day cleanup!<br>
-[Register Your Cleanup](
-    https://docs.google.com/forms/d/17KyXORsi8Y5ojQqbnVIPYvnaMafL5FsbaXS9nZ4dVuE/viewform
-){: .btn .btn--large .btn--success}
-{:, .text-center}
-
-
-### COMPLETED Cleanups
 
 **Name:** Earth Day on the East Side
 <br>**Date:** Saturday, April 18, 2026
