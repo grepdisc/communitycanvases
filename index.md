@@ -16,13 +16,13 @@ Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
     /earthday2026/){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:30pm May 18th**
-    [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
-Kind Fools' WRITE ON! at the First Presbyterian Church at 6:00pm May 21st
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Direct Message - a collaborative book release June 5th 5pm Fitz Books [Details](
+    https://www.clairemconnolly.com/directmessage)
 **The Moral Imperative 2026**
    [Details](/moralimperative/){: .btn .btn--info}<br>
+Our partner - **Recovery Stories at 5:30pm June 15th**
+    [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
 Buffalo Rising article on the Earth Day Cleanup Challenge
     [Article](https://www.buffalorising.com/2026/04/trash-mobs-beautification-grants-kind-fools-swing-dancing-call-for-artists-and-community-canvases/
     ){: .btn .btn--success}<br>
@@ -38,6 +38,8 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Kind Fools' WRITE ON! at the First Presbyterian Church at 6:00pm May 21st
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing live music **Rockabilly Steve and the BR3 April 29th** [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for supporting Community Canvases' Annual Appeal
