@@ -14,10 +14,16 @@ excerpt: "facilitating community engagement and expression through the arts"
 
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Check our our panel at ASI's CPX Conference June 10th [Info/Sign-up](
+    https://www.asicpx.org/){: .btn .btn--success}<br>
+Our partner - Recovery Stories at 5:30pm June 15th [Info/Sign-up](
+    https://communitycanvases.org/recoverystories/){: .btn .btn--success}<br>
+WNY Trash Mob's Clean Up Grant Street [Details](
+   https://communitycanvases.org/events/cleanup20260620/){: .btn .btn--success}<br>
+Kind Fools' *WRITE ON - Home* at NAMI Buffalo & WNY at 6:00pm June 23rd
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
     /earthday2026/){: .btn .btn--info}<br>
-Direct Message - a collaborative book release June 5th 5pm Fitz Books [Details](
-    https://www.clairemconnolly.com/directmessage)
 **The Moral Imperative 2026**
    [Details](/moralimperative/){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:30pm June 15th**
@@ -38,6 +44,8 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+Direct Message - a collaborative book release June 5th 5pm Fitz Books [Details](
+    https://www.clairemconnolly.com/directmessage)
 Kind Fools' WRITE ON! at the First Presbyterian Church at 6:00pm May 21st
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Community Swing live music **Rockabilly Steve and the BR3 April 29th** [Details](
