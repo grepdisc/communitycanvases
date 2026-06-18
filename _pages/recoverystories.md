@@ -25,7 +25,7 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer20260420.png"
+  <img src="/assets/images/recoverystoriesflyer20260720.png"
    alt="Recovery Stories Poster">
 </figure> 
 
