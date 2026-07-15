@@ -36,28 +36,37 @@ and a feeling of home.
 ## WRITE ON - Home 2026
 
 - Thursday, July 23, 2026 from 5:30pm to 8:30pm in Burmese & English
-- Thursday, August 6, 2026 from 5:30pm to 8:30pm in Arabic & English
-- Thursday, August 20, 2026 from 5:30pm to 8:30pm in Spanish & English
-- Thursday, September 3, 2026 from 5:30pm to 8:30pm in French & English
-
-Upon request in advance, interpreters for additional languages can be available at any of these workshops.
-
-{% comment %}
-[s'inscrire](
-https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
-){: .btn .btn--success}
 [ဆိုင်းအပ်](
 https://docs.google.com/forms/d/e/1FAIpQLSdudIG8fT2u5i_BmL2VwRwczaVoxLozgnoEqwNkGc7bt2x5Xw/viewform?usp=sf_link
 ){: .btn .btn--success}
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
+- Thursday, August 6, 2026 from 5:30pm to 8:30pm in Arabic & English
 [التسجيل](
 https://docs.google.com/forms/d/e/1FAIpQLSerfVI86bF9G-PdLrSbkCPRUtIXxPMWOtPKLf2CSTTRAPjLKA/viewform?usp=sf_link
 ){: .btn .btn--success}
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+- Thursday, August 20, 2026 from 5:30pm to 8:30pm in Spanish & English
 [Inscribirse](
 https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
 ){: .btn .btn--success}
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+- Thursday, September 3, 2026 from 5:30pm to 8:30pm in French & English
+[s'inscrire](
+https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
+){: .btn .btn--success}
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+
+Upon request in advance, interpreters for additional languages can be available at any of these workshops.
+
+{% comment %}
 
 [s'inscrire](
 https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
