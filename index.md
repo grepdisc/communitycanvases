@@ -16,12 +16,14 @@ Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**The Moral Imperative 2026** celebration 1pm July 18th at Fitz Books
-   [Details](/moralimperative/){: .btn .btn--info}<br>
+Kind Fools' *WRITE ON!* at the Merriweather Library at 2:00pm August 13th
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Our partner - Recovery Stories at 5:30pm July 20th [Info/Sign-up](
     https://communitycanvases.org/recoverystories/){: .btn .btn--info}<br>
 WNY Trash Mob's **Grant Street Cleanup** [Details](
     /events/cleanup20260620/){: .btn .btn--success}<br>
+**The Moral Imperative 2026** celebration 1pm July 18th at Fitz Books
+   [Details](/moralimperative/){: .btn .btn--info}<br>
 Kind Fools' WRITE ON 
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
