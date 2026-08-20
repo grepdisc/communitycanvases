@@ -40,10 +40,6 @@ and a feeling of home.
 [التسجيل](
 https://docs.google.com/forms/d/e/1FAIpQLSerfVI86bF9G-PdLrSbkCPRUtIXxPMWOtPKLf2CSTTRAPjLKA/viewform?usp=sf_link
 ){: .btn .btn--success}
-[Sign Up](
-https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
-){: .btn .btn--success}
--The August 6th  workshop is now FULL. Please contact Hy Carrel at 716-259-2725 or Anna Porter at 646-740-7768 with any questions.
 - Thursday, August 20, 2026 from 5:30pm to 8:30pm in Spanish & English
 [Inscribirse](
 https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
@@ -51,6 +47,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iN
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
+- The August 20th workshop is now FULL. Please contact Hy Carrel at 716-259-2725 or Anna Porter at 646-740-7768 with any questions.
 - Thursday, September 3, 2026 from 5:30pm to 8:30pm in French & English
 [s'inscrire](
 https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
