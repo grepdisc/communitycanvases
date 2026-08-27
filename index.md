@@ -13,17 +13,15 @@ excerpt: "facilitating community engagement and expression through the arts"
 {: .text-center}
 
 WNY Trash Mob!'s Party in the Park
-    [Details](/events/partyinthepark2026/){: .btn .btn--info}<br>
-Kind Fools' *WRITE ON!* at NAMI Buffalo & WNY 6:00pm August 25th
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+    [Details](/events/partyinthepark2026/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
+Kind Fools' *WRITE ON!* at UUCB 6:00pm September 22nd
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Our partner - Recovery Stories' 100 Thousand Poets for Change at 3:30pm September 28th [Info/Sign-up](
     https://communitycanvases.org/recoverystories/){: .btn .btn--info}<br>
-**The Moral Imperative 2026** celebration 1pm July 18th at Fitz Books
-   [Details](/moralimperative/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
     /earthday2026/){: .btn .btn--info}<br>
 Buffalo Rising article on the Earth Day Cleanup Challenge
@@ -37,6 +35,8 @@ Calendar of [**All Events**](
     /events/){: .btn .btn--info}<br>
 
 {% comment %}
+**The Moral Imperative 2026** celebration 1pm July 18th at Fitz Books
+   [Details](/moralimperative/){: .btn .btn--info}<br>
 Kind Fools' WRITE ON 
     [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 WNY Trash Mob's **Grant Street Cleanup** [Details](
