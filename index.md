@@ -12,14 +12,16 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-WNY Trash Mob!'s Party in the Park is TODAY 11am to 2pm
-    [Details](/events/partyinthepark2026/){: .btn .btn-large .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+*WRITE ON!* at Buffalo State's AFP's Social Justice Festival 4:30pm October 6th
+    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Community Swing's Rockabilly Steve and the BR3 6:30pm to 9:30pm Wednesday October 30th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+WNY Trash Mob!'s Party in the Park 
+    [Details](/events/partyinthepark2026/){: .btn .btn-large .btn--success}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
-Kind Fools' *WRITE ON!* at UUCB 6:00pm September 22nd
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 Our partner - Recovery Stories' 100 Thousand Poets for Change at 3:30pm September 28th [Info/Sign-up](
     https://communitycanvases.org/recoverystories/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
