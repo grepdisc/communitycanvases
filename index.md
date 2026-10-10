@@ -12,17 +12,15 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Community Swing's Blues Infusion 6:30pm to 9:30pm Wednesday September 30th [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-*WRITE ON!* at Buffalo State's AFP's Social Justice Festival 4:30pm October 6th
-    [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+WRITE ON! *Monday, October 26th 4:30pm-7:00pm*
+  at 907 Michigan Ave [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
 WNY Trash Mob!'s Party in the Park 
     [Details](/events/partyinthepark2026/){: .btn .btn-large .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
-Our partner - Recovery Stories' 100 Thousand Poets for Change at 3:30pm September 28th [Info/Sign-up](
+Our partner - Recovery Stories [Info](
     https://communitycanvases.org/recoverystories/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
     /earthday2026/){: .btn .btn--info}<br>
