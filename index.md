@@ -12,12 +12,14 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-WRITE ON! *Monday, October 26th 4:30pm-7:00pm*
-  at 907 Michigan Ave [Sign Up/Info](https://kindfools.org/writeon/){: .btn .btn--success}<br>
+Community Swing 6:30pm Wednesday, October 28th with Rockabilly Steve and BR3 [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 WNY Trash Mob!'s Party in the Park 
     [Details](/events/partyinthepark2026/){: .btn .btn-large .btn--success}<br>
+WRITE ON! [Info](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+The Home Within 6pm to 9pm November 18th [Details](https://www.facebook.com/events/1650566079907528){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
 Our partner - Recovery Stories [Info](
