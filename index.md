@@ -12,14 +12,20 @@ excerpt: "facilitating community engagement and expression through the arts"
 # Upcoming Events
 {: .text-center}
 
-Community Swing 6:30pm Wednesday, October 28th with Rockabilly Steve and BR3 [Details](
+Community Swing 6:30pm November 18th with Patti Parks [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+The Home Within - 6pm November 18th at the Burchfield Penney Art Center [Details](
+    https://www.facebook.com/events/1650566079907528/){: .btn .btn--success .btn--large}<br>
+WRITE ON! *Tuesday, November 24th 6:00pm-8:30pm*
+  at the King Urban Life Center [Sign Up/Info](
+  https://kindfools.org/writeon/){: .btn .btn--success}<br>
+WRITE ON! *Thursday,December 3rd 1:00pm-3:30pm*
+  at the Merriweather Library [Sign Up/Info](
+  https://kindfools.org/writeon/){: .btn .btn--success}<br>
 WNY Trash Mob!'s Party in the Park 
     [Details](/events/partyinthepark2026/){: .btn .btn-large .btn--success}<br>
-WRITE ON! [Info](https://kindfools.org/writeon/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-The Home Within 6pm to 9pm November 18th [Details](https://www.facebook.com/events/1650566079907528){: .btn .btn--info}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
 Our partner - Recovery Stories [Info](
