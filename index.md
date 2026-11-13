@@ -27,7 +27,7 @@ WRITE ON! *Thursday,December 3rd 1:00pm-3:30pm*
 WNY Trash Mob!'s Party in the Park 
     [Details](/events/partyinthepark2026/){: .btn .btn-large .btn--success}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
-    [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
+    [Details](https://communitycanvases.org/home/){: .btn .btn--info}<br>
 Our partner - Recovery Stories [Info](
     https://communitycanvases.org/recoverystories/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
